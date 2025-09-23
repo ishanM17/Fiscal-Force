@@ -18,6 +18,7 @@ UPDATE FF_POTENTIAL_FUNDS SET FUND_DESCRIPTION='above 60, more than 5 mil (mostl
 UPDATE FF_POTENTIAL_FUNDS SET FUND_DESCRIPTION='married women (mostly avg, little below avg)(they have high assets in general)' WHERE FUND_ID=2;
 UPDATE FF_POTENTIAL_FUNDS SET FUND_DESCRIPTION='divorced or single, 1 to 5 mil (above avg)' WHERE FUND_ID=3;
 UPDATE FF_POTENTIAL_FUNDS SET FUND_DESCRIPTION='customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)' WHERE FUND_ID=4;
+UPDATE FF_POTENTIAL_FUNDS SET FUND_DESCRIPTION='customers from north east region (avg and above avg)' WHERE FUND_ID=5;
 
 CREATE OR REPLACE PROCEDURE calculate_fund_min_max_revenue (
     p_customer_ids IN CUSTOMER_ID_ARRAY,
@@ -150,6 +151,15 @@ BEGIN
 END;
 /
 
--- FUND 5 -
+-- FUND 5 - customers from north east region (avg and above avg)
+DECLARE 
+    V_CUSTOMER_IDS CUSTOMER_ID_ARRAY;
+BEGIN
+    SELECT CUSTOMER_ID BULK COLLECT INTO V_CUSTOMER_IDS 
+    FROM FF_CUSTOMERS
+    WHERE STATE IN ('Massachusetts', 'Pennsylvania', 'Connecticut', 'Delaware', 'Maryland', 'Maine', 'Vermont');
+    calculate_fund_min_max_revenue(V_CUSTOMER_IDS, 5);
+END;
+/
 
 COMMIT;

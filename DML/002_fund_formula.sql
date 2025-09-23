@@ -210,7 +210,16 @@ BEGIN
 END;
 /
 
--- FUND 5 -
+-- FUND 5 - customers from north east region (avg and above avg)
+DECLARE 
+    V_CUSTOMER_IDS CUSTOMER_ID_ARRAY;
+BEGIN
+    SELECT CUSTOMER_ID BULK COLLECT INTO V_CUSTOMER_IDS 
+    FROM FF_CUSTOMERS
+    WHERE STATE IN ('Massachusetts', 'Pennsylvania', 'Connecticut', 'Delaware', 'Maryland', 'Maine', 'Vermont');
+    GENERATE_FUND_COMP(V_CUSTOMER_IDS, 5);
+END;
+/
 
 COMMIT;
 
