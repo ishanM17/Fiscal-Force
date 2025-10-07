@@ -45,6 +45,7 @@ AS
     v_min_revenue       NUMBER := 0;
     v_max_revenue       NUMBER := 0;
     v_max_revenue_per_cust NUMBER := 0;
+    v_min_revenue_per_cust NUMBER := 0;
 BEGIN
     -- 0) quick count, validate non-empty
     SELECT COUNT(*) INTO v_customer_count FROM TABLE(p_customer_ids);
@@ -104,6 +105,7 @@ BEGIN
     v_min_revenue := v_min_per_customer * v_customer_count * v_fee_percent;
     v_max_revenue := v_max_sum_component * v_fee_percent;
     v_max_revenue_per_cust := v_max_revenue/v_customer_count;
+    v_min_revenue_per_cust := v_min_revenue/v_customer_count;
 
     -- 4) update single table
     UPDATE FF_POTENTIAL_FUNDS
@@ -111,7 +113,8 @@ BEGIN
         maximum_investment_allowed  = v_max_per_customer,
         min_revenue                 = v_min_revenue,
         max_revenue                 = v_max_revenue,
-        max_revenue_per_customer    = v_max_revenue_per_cust
+        max_revenue_per_customer    = v_max_revenue_per_cust,
+        min_revenue_per_customer    = v_min_revenue_per_cust
     WHERE fund_id = p_fund_id;
     COMMIT;
 END;

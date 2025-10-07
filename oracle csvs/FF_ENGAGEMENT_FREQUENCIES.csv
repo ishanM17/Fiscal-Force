@@ -1,0 +1,6 @@
+"FREQUENCY_ID","FREQUENCY_NAME","FREQUENCY_CODE"
+1,"Daily","D"
+2,"Weekly","W"
+3,"Monthly","M"
+4,"Quarterly","Q"
+5,"Annually","A"

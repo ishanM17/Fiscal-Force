@@ -1,0 +1,36 @@
+name: Deploy to Snowflake
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'snowDDL/**'
+      - 'snowDML/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install snowflake-connector-python
+
+      - name: Deploy new SQL scripts to Snowflake
+        env:
+          SNOW_ACCOUNT: ${{ secrets.SNOW_ACCOUNT }}
+          SNOW_USER: ${{ secrets.SNOW_USER }}
+          SNOW_PASSWORD: ${{ secrets.SNOW_PASSWORD }}
+          SNOW_WAREHOUSE: ${{ secrets.SNOW_WAREHOUSE }}
+          SNOW_DATABASE: ${{ secrets.SNOW_DATABASE }}
+          SNOW_SCHEMA: ${{ secrets.SNOW_SCHEMA }}
+          SNOW_ROLE: ${{ secrets.SNOW_ROLE }}
+        run: python scripts/deploy_to_snowflake.py
