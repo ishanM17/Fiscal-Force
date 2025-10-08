@@ -4,6 +4,7 @@ import pandas as pd
 from snowflake.connector.pandas_tools import write_pandas
 import sys
 import datetime
+import os
 
 # -------------------------
 # CONFIGURATION
@@ -33,22 +34,13 @@ ORACLE_PASSWORD = "admin"
 ORACLE_DSN = "localhost:1521/xepdb1"
 
 # Snowflake connection info (use env vars in GitHub Actions)
-# SNOW_ACCOUNT = "your_snowflake_account"
-# SNOW_USER = "etl_user"
-# SNOW_PASSWORD = "your_password"
-# SNOW_WAREHOUSE = "COMPUTE_WH"
-# SNOW_DATABASE = "MY_DB"
-# SNOW_SCHEMA = "PROD"
-# SNOW_ROLE = "ETL_ROLE"
-
-SNOW_ACCOUNT = "KPQCAYB-AA44293"
-SNOW_USER = "prod_user"
-SNOW_PASSWORD = "Admin@123"
-SNOW_WAREHOUSE = "ETL_WH"
-SNOW_DATABASE = "FF_DB"
-SNOW_SCHEMA = "PROD_FF"
-SNOW_ROLE = "PROD_ROLE"
-
+SNOW_ACCOUNT = os.environ["SNOW_ACCOUNT"]
+SNOW_USER = os.environ["SNOW_USER"]
+SNOW_PASSWORD = os.environ["SNOW_PASSWORD"]
+SNOW_WAREHOUSE = os.environ["SNOW_WAREHOUSE"]
+SNOW_DATABASE = os.environ["SNOW_DATABASE"]
+SNOW_SCHEMA = os.environ["SNOW_SCHEMA"]
+SNOW_ROLE = os.environ["SNOW_ROLE"]
 
 # -------------------------
 # CONNECT TO DATABASES
