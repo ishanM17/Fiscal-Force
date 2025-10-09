@@ -1,0 +1,5 @@
+-- DDL/test_table.sql
+CREATE TABLE IF NOT EXISTS TEST_TABLE1 (
+    ID INT,
+    NAME STRING
+);
