@@ -1,0 +1,201 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1 class="site-header" style="margin-top:0">Fiscal Force</h1>
+<div class="container">
+
+  <!-- Hero Section -->
+  <div class="card" style="margin-bottom:32px;">
+    <h2 style="margin-bottom:0;">Introducing <span style="color:var(--accent-2)">Family Future Fund</span></h2>
+    <p style="font-size:1.15em; margin-top:8px;">A new investment solution for <b>customers aged 30-55 with 2+ dependents</b>.<br>Designed for strong per-customer profitability and tailored to a high-potential segment.</p>
+    <!-- A new investment solution for that is Moderately aggressive, designed for middle-aged customers planning for their family's future and seeking strong per-customer growth. -->
+  </div>
+
+  <!-- Segment Insights -->
+  <div class="card" style="margin-bottom:24px;">
+    <h3 style="color:var(--accent-2); margin-top:0; font-size: 1.6rem">Understanding the Target Customers </h3>
+    <div style="display: flex; align-items: center; justify-content: space-evenly;">
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1.1rem"><b>Segment Size</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>2055</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1.1rem"><b>Age</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>30 - 55</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1.1rem"><b>Dependents</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>2 or more</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1.1rem"><b>Average Assets</b></p>
+        <p style="margin: 0; font-size: 1rem;"><b>$5,500,000</b></p>
+      </div>
+    </div>
+    <div style="display: flex; justify-content: space-evenly; margin: 30px 0;">
+      <div id="risk-pie" style="width:48%; max-width:480px; height:350px;"></div>
+      <div id="marital-pie" style="width:45%; max-width:480px; height:350px;"></div>
+    </div>
+  </div>
+
+  <!-- Fund Metrics -->
+  <div class="card" style="margin-bottom:24px;">
+    <h3 style="color:var(--accent-2); margin-top:0; font-size: 1.6rem">Understanding the Fund </h3>
+    <div style="display: flex; align-items: center; justify-content: space-evenly;">
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1rem"><b>Minimum Investment</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>$6,233</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1rem"><b>Maximum Investment</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>$2,658,047</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1rem"><b>Revenue(2k Customer)</b></p>
+        <p style="margin: 0; font-size: 1rem"><b>$12,433,486</b></p>
+      </div>
+      <div class="baby-card">
+        <p style="margin: 0; font-size: 1rem"><b>Revenue per Customer</b></p>
+        <p style="margin: 0; font-size: 1rem;"><b>$6,050</b></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Asset Allocation Pie Chart -->
+  <div class="card" style="margin-bottom:24px;">
+    <h3 style="color:var(--accent-2); margin-top:0; font-size: 1.6rem">Asset Allocation</h3>
+    <div id="allocation-pie" style="width:100%; max-width:480px; margin:0 auto; height:340px;"></div>
+  </div>
+
+  <!-- Why Fund 4? Comparison -->
+  <div class="card" style="margin-bottom:24px;">
+    <h3 style="color:var(--accent-2); margin-top:0; font-size: 1.6rem">Why is Fund 4 the Best Choice?</h3>
+    <p style="margin-bottom:18px;">Fund 4 stands out for its <b>highest maximum revenue per customer</b> among all funds, indicating strong profitability potential even with a smaller segment size.</p>
+    <div id="revenue-bar" style="width:100%; max-width:600px; margin:0 auto; height:320px;"></div>
+    <div style="font-size:0.98em; color:#2f4f4f; margin-top:10px;">Fund 4’s segment is smaller, but each customer is highly valuable.</div>
+  </div>
+
+  <!-- CTA: Monte Carlo -->
+  <div class="card" style="margin-top:36px;">
+    <h2>See Future Growth Potential</h2>
+    <p>Explore Monte Carlo projections for Fund 4 and other funds.</p>
+    <a class="cta" href="{{ url_for('monte_carlo') }}">Go to Projections</a>
+  </div>
+</div>
+
+
+<!-- Plotly.js for charts -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+// Data for Fund 4 and all funds (static for this demo, would be dynamic in prod)
+const fundData = [
+  {id:1, name:'Scenario 1', maxRevCust:3682.2},
+  {id:2, name:'Scenario 2', maxRevCust:3468.58},
+  {id:3, name:'Scenario 3', maxRevCust:4038.8},
+  {id:4, name:'Scenario 4', maxRevCust:6050.36},
+  {id:5, name:'Scenario 5', maxRevCust:4938.66}
+];
+const fund4 = {
+  minInvest: 6233,
+  maxInvest: 2658047,
+  feeMult: 0.00234916,
+  maxRevCust: 6050
+};
+const allocation = [
+  {asset:'Large Cap', pct:22.1},
+  {asset:'US Mid Cap', pct:21.77},
+  {asset:'US Small Cap', pct:31.85},
+  {asset:'Foreign Ex', pct:8.38},
+  {asset:'Emerging', pct:4.89},
+  {asset:'Market ETF', pct:11.01},
+];
+
+// Segment 4 stats (static for demo, would be dynamic in prod)
+const segmentStats = {
+  count: 2055, // Example, replace with actual
+  avgAge: 44,
+  avgAssets: 5_500_000,
+  states: 39,
+  gender: {male: 63, female: 24, unknown: 13},
+  marital: [{status: "Married", pct: 42}, {status: "Single", pct: 26}, {status: "Divorced", pct: 16}, {status: "Unknown", pct: 16}],
+  risk_profiles: [{risk:'Average', pct: 45}, {risk:'Above Average', pct: 42}, {risk:'Below Average', pct: 11}, {risk:'High Risk', pct: 2}]
+};
+
+// Formatters
+const fmtUSD = v => new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(v);
+const fmtPct = v => (v*100).toFixed(2)+'%';
+
+// Fill in fund metrics
+document.addEventListener('DOMContentLoaded', function() {
+
+  Plotly.newPlot('risk-pie', [{
+    values: segmentStats.risk_profiles.map(r=>r.pct),
+    labels: segmentStats.risk_profiles.map(r=>r.risk),
+    type: 'pie',
+    marker: {colors:['#7fffd4','#8fbc8f','#b0e0e6','#20b2aa','#66cdaa','#e0ffff','#2e8b57','#d3d3d3']},
+    textinfo: 'label+percent',
+    hole: .35
+  }], {
+    title: {
+      text: 'Risk Apetite',
+      font: {
+        size: 16
+      },
+      x: 0.2  // centers the title
+    },
+    showlegend: true,
+    margin: {t:24, l:0, r:0, b:0},
+    height:320
+  }, {responsive:true});
+
+  Plotly.newPlot('marital-pie', [{
+    values: segmentStats.marital.map(m=>m.pct),
+    labels: segmentStats.marital.map(m=>m.status),
+    type: 'pie',
+    marker: {colors:['#7fffd4','#8fbc8f','#b0e0e6','#20b2aa','#66cdaa','#e0ffff','#2e8b57','#d3d3d3']},
+    textinfo: 'label+percent',
+    hole: .35
+  }], {
+    title: {
+      text: 'Marital Status',
+      font: {
+        size: 16
+      },
+      x: 0.2  // centers the title
+    },
+    showlegend: true,
+    margin: {t:24, l:0, r:0, b:0},
+    height:320
+  }, {responsive:true});
+
+  // Asset allocation pie
+  Plotly.newPlot('allocation-pie', [{
+    values: allocation.map(a=>a.pct),
+    labels: allocation.map(a=>a.asset),
+    type: 'pie',
+    marker: {colors:['#7fffd4','#8fbc8f','#b0e0e6','#20b2aa','#66cdaa','#e0ffff','#2e8b57','#d3d3d3']},
+    textinfo: 'label+percent',
+    hole: .35
+  }], {
+    showlegend: true,
+    margin: {t:24, l:0, r:0, b:0},
+    height:320
+  }, {responsive:true});
+
+  // Revenue per customer bar chart
+  Plotly.newPlot('revenue-bar', [{
+    x: fundData.map(f=>f.name),
+    y: fundData.map(f=>f.maxRevCust),
+    type: 'bar',
+    marker: {color: fundData.map(f=>f.id===4 ? '#7fffd4' : '#b0e0e6')},
+    text: fundData.map(f=>fmtUSD(f.maxRevCust)),
+    textposition: 'auto',
+  }], {
+    yaxis: {title:'Max Revenue per Customer', tickprefix:'$'},
+    xaxis: {title:'Fund'},
+    margin: {t:24, l:48, r:16, b:48},
+    height:280
+  }, {responsive:true});
+});
+</script>
+{% endblock %}

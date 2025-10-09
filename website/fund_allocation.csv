@@ -1,0 +1,41 @@
+"FUND_ID","FUND_NAME","FUND_DESCRIPTION","ASSET_CLASS_ID","ASSET_CLASS","PERCENT_OF_FUND","AVG_RETURN_10Y","STD_DEV_10Y"
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",1,"Bonds",0,4.44,3.29
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",1,"Bonds",0,4.44,3.29
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",1,"Bonds",0,4.44,3.29
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",1,"Bonds",0,4.44,3.29
+5,"Scenario 5","customers from north east region (avg and above avg)",1,"Bonds",0,4.44,3.29
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",2,"Large Cap",36.29,7.85,14.32
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",2,"Large Cap",41.97,7.85,14.32
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",2,"Large Cap",15.85,7.85,14.32
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",2,"Large Cap",22.1,7.85,14.32
+5,"Scenario 5","customers from north east region (avg and above avg)",2,"Large Cap",27.51,7.85,14.32
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",3,"US Mid Cap",35.75,9.55,17.68
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",3,"US Mid Cap",41.35,9.55,17.68
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",3,"US Mid Cap",15.62,9.55,17.68
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",3,"US Mid Cap",21.77,9.55,17.68
+5,"Scenario 5","customers from north east region (avg and above avg)",3,"US Mid Cap",27.11,9.55,17.68
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",4,"US Small Cap",9.89,9.22,19.55
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",4,"US Small Cap",0,9.22,19.55
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",4,"US Small Cap",47.6,9.22,19.55
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",4,"US Small Cap",31.85,9.22,19.55
+5,"Scenario 5","customers from north east region (avg and above avg)",4,"US Small Cap",24.55,9.22,19.55
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",5,"Foreign Ex",0,2.26,18.21
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",5,"Foreign Ex",0,2.26,18.21
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",5,"Foreign Ex",12.53,2.26,18.21
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",5,"Foreign Ex",8.38,2.26,18.21
+5,"Scenario 5","customers from north east region (avg and above avg)",5,"Foreign Ex",6.46,2.26,18.21
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",6,"Emerging",0,5.57,23.6
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",6,"Emerging",0,5.57,23.6
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",6,"Emerging",8.41,5.57,23.6
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",6,"Emerging",4.89,5.57,23.6
+5,"Scenario 5","customers from north east region (avg and above avg)",6,"Emerging",0,5.57,23.6
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",7,"Commodities",0,-2.62,18.11
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",7,"Commodities",0,-2.62,18.11
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",7,"Commodities",0,-2.62,18.11
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",7,"Commodities",0,-2.62,18.11
+5,"Scenario 5","customers from north east region (avg and above avg)",7,"Commodities",0,-2.62,18.11
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",8,"Market ETF",18.07,7.89,14.74
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",8,"Market ETF",16.68,7.89,14.74
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",8,"Market ETF",0,7.89,14.74
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",8,"Market ETF",11.01,7.89,14.74
+5,"Scenario 5","customers from north east region (avg and above avg)",8,"Market ETF",14.37,7.89,14.74

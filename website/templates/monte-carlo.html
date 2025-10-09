@@ -1,0 +1,201 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+
+  <!-- Input Card -->
+  <div class="card">
+    <h2>Monte Carlo Projections</h2>
+
+    <form method="POST" action="{{ url_for('monte_carlo') }}" id="sim-form" class="form-row" novalidate>
+      <div class="form-item">
+        <label for="fund">Select Fund</label>
+        <select name="fund" id="fund" required>
+          <option value="" disabled {% if not selected_fund %}selected{% endif %}>-- choose fund --</option>
+          {% for f in funds %}
+            <option value="{{ f['FUND_ID'] }}" {% if selected_fund and (selected_fund == (f['FUND_ID']|string)) %}selected{% endif %}>
+              {{ f['FUND_NAME'] }}
+            </option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="form-item">
+        <label for="amount">Invest Amount (USD)</label>
+        <input type="number" name="amount" id="amount" min="1" step="1" value="{{ amount or '' }}" placeholder="e.g. 100000" required>
+      </div>
+
+      <div class="form-item action">
+        <button class="btn primary" type="submit">Run Simulation</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Error Message -->
+  {% if error %}
+    <div class="card" role="alert" style="border-left:4px solid #ffb3b3; margin-top:12px; padding:12px;">
+      <strong>Error:</strong> {{ error }}
+    </div>
+  {% endif %}
+
+  <!-- Results card: hidden when no results -->
+  <div class="card" id="results-area" style="{% if not results %}display:none;{% endif %}">
+    <h3 class="fund-name">{{ results.fund_name if results else '' }}</h3>
+
+    <!-- Toggle Buttons -->
+    <div class="toggle-buttons" role="tablist" aria-label="Select horizon">
+      {% if results %}
+        {% for r in results.results %}
+          <button class="btn toggle" data-years="{{ r.years }}" type="button">{{ r.years }} Year{% if r.years > 1 %}s{% endif %}</button>
+        {% endfor %}
+      {% endif %}
+    </div>
+
+    <!-- Chart + Summary -->
+    <div class="chart-area">
+      <div id="growth-chart" class="chart" aria-live="polite"></div>
+      <div class="summary" id="summary" aria-live="polite"></div>
+    </div>
+
+    <!-- Small assumptions / footnote -->
+    <div style="margin-top:12px; font-size:0.92em; color:#2f4f4f; text-align:left;">
+      <strong>Assumptions:</strong>
+      <ul style="margin:6px 0 0 18px; padding:0;">
+        <li>Projections are probabilistic estimates (median and 25–75% band) based on historical mean/volatility.</li>
+        <li>No withdrawals or additional contributions are assumed.</li>
+        <li>Past returns do not guarantee future performance.</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<!-- Ensure Plotly is loaded (base.html usually includes it; this is safe even if duplicated) -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Embed results JSON safely for client-side rendering -->
+{% if results %}
+  <script>const simulationData = {{ results|tojson }};</script>
+{% else %}
+  <script>const simulationData = undefined;</script>
+{% endif %}
+
+<script>
+  // USD formatter
+  const fmtUSD = (v) => new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(v);
+
+  // Draw median growth curve with shaded 25-75% band
+  function drawGrowthChart(timeline, p25, median, p75, yearsLabel) {
+    // upper as first trace (invisible line)
+    const upper = {
+      x: timeline,
+      y: p75,
+      mode: 'lines',
+      line: { width: 0 },
+      name: '75th percentile',
+      hoverinfo: 'skip'
+    };
+
+    // lower trace filled to previous to create band
+    const lower = {
+      x: timeline,
+      y: p25,
+      mode: 'lines',
+      fill: 'tonexty',
+      fillcolor: 'rgba(127,255,212,0.25)', // aquamarine-ish fill
+      line: { width: 0 },
+      name: '25th percentile',
+      hoverinfo: 'skip'
+    };
+
+    // median line
+    const medianTrace = {
+      x: timeline,
+      y: median,
+      mode: 'lines+markers',
+      name: 'Median',
+      line: { color: '#0b6650', width: 3 }, // dark sea green-ish
+      marker: { size: 6 }
+    };
+
+    const data = [upper, lower, medianTrace];
+
+    const layout = {
+      title: `${yearsLabel}-Year Projection`,
+      xaxis: { title: 'Years', dtick: 1 },
+      yaxis: {
+        title: 'Portfolio Value (USD)',
+        automargin: true,
+        tickprefix: '$'
+      },
+      margin: { t: 48, l: 64, r: 16, b: 48 },
+      legend: { orientation: 'h', xanchor: 'center', x: 0.5, y: -0.18 },
+      hovermode: 'x unified'
+    };
+
+    Plotly.newPlot('growth-chart', data, layout, { responsive: true });
+  }
+
+  // Populate the summary tile block (final-year conservative/median/optimistic)
+  function showSummaryTile(obj, investedAmount) {
+    // Optionally show % growth relative to invested amount
+    const pct = (value) => {
+      if (!investedAmount || investedAmount === 0) return '';
+      const change = ((value - investedAmount) / investedAmount) * 100;
+      return ` (${change >= 0 ? '+' : ''}${change.toFixed(0)}%)`;
+    };
+
+    const html = `
+      <p><b>Conservative (25th):</b> ${fmtUSD(obj.final_p25)}${pct(obj.final_p25)}</p>
+      <p><b>Expected (Median):</b> ${fmtUSD(obj.final_median)}${pct(obj.final_median)}</p>
+      <p><b>Optimistic (75th):</b> ${fmtUSD(obj.final_p75)}${pct(obj.final_p75)}</p>
+      <p style="margin-top:8px; font-size:0.9em; color:#2f4f4f;">
+        <em>Estimates are probabilistic and not a guarantee of future returns.</em>
+      </p>
+    `;
+    document.getElementById('summary').innerHTML = html;
+  }
+
+  function setActiveButton(year) {
+    document.querySelectorAll('.toggle').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.years === String(year));
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // Always show the form; show results area only when we have simulationData
+    const resultsArea = document.getElementById('results-area');
+    if (!simulationData) {
+      if (resultsArea) resultsArea.style.display = 'none';
+      return;
+    }
+    if (resultsArea) resultsArea.style.display = 'block';
+
+    // Build a mapping from years -> result object
+    const mapping = {};
+    simulationData.results.forEach(r => {
+      mapping[String(r.years)] = r;
+    });
+
+    // Attach click handlers to toggles
+    document.querySelectorAll('.toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const years = btn.dataset.years;
+        const obj = mapping[years];
+        if (!obj) return;
+        setActiveButton(years);
+        drawGrowthChart(obj.timeline, obj.p25, obj.median, obj.p75, obj.years);
+        // invested amount is available on the page via the input value
+        const invested = Number(document.getElementById('amount').value) || null;
+        showSummaryTile(obj, invested);
+      });
+    });
+
+    // Default: show first horizon
+    const defaultObj = simulationData.results[0];
+    setActiveButton(defaultObj.years);
+    drawGrowthChart(defaultObj.timeline, defaultObj.p25, defaultObj.median, defaultObj.p75, defaultObj.years);
+    const invested = Number(document.getElementById('amount').value) || null;
+    showSummaryTile(defaultObj, invested);
+  });
+</script>
+{% endblock %}

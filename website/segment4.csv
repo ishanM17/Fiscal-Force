@@ -1,0 +1,2056 @@
+"CUSTOMER_ID","CONTACT_LAST_NAME","CONTACT_FIRST_NAME","STATE","AGE","MARITAL_STATUS","GENDER","NUMBER_OF_DEPENDENTS","ASSIGNED_RISK_PROFILE_ID","ASSIGNED_RISK_PROFILE","TOTAL_ASSETS"
+914,"Kim","Raphael","Texas",34,"Married","Male",5,3,"AVERAGE TOLERANCE",4503562.27
+920,"Pearson","Beau","Iowa",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3831742.86
+924,"Valdez","Ciara","Connecticut",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4213000.45
+948,"Vincent","Rhoda","Maryland",34,"Married","Female",4,3,"AVERAGE TOLERANCE",7574364.86
+962,"Stafford","Adrienne","Maryland",34,"Married","Male",4,3,"AVERAGE TOLERANCE",4084836.19
+999,"Nolan","Basia","Nevada",34,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2995442.44
+1013,"Baird","Paki","Illinois",34,"Married","Male",2,3,"AVERAGE TOLERANCE",4343852.75
+1019,"Church","Karen","Wisconsin",34,"Married","Male",2,3,"AVERAGE TOLERANCE",4261081.82
+1039,"Castro","Nero","Tennessee",34,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1756926.24
+1201,"Anderson","Keefe","Oregon",35,"","Male",3,4,"ABOVE AVG TOLERANCE",5622586.56
+1225,"Jennings","Cassidy","California",35,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1425965
+1230,"Stephens","Sarah","Colorado",35,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5011340.62
+1231,"Warner","Hermione","Georgia",35,"Married","Male",3,3,"AVERAGE TOLERANCE",6462618.81
+1234,"Key","Mohammad","Illinois",35,"Single","",3,4,"ABOVE AVG TOLERANCE",4090844.52
+1241,"Morin","Deirdre","Washington",35,"","Female",2,4,"ABOVE AVG TOLERANCE",8916280.68
+1242,"Perez","Rashad","Maryland",35,"Married","Female",2,3,"AVERAGE TOLERANCE",9187304.69
+1252,"Conley","Medge","Massachusetts",35,"Married","Male",2,3,"AVERAGE TOLERANCE",5182682.21
+1253,"Daniels","Francesca","Massachusetts",35,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5153943.03
+1261,"Owen","Abra","California",35,"Married","Male",2,4,"ABOVE AVG TOLERANCE",3647974.56
+1416,"Cote","Nero","Arizona",36,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1657939.8
+1457,"Richardson","Willow","Delaware",36,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3877753.69
+1462,"Vega","Vance","Ohio",36,"Married","Male",3,3,"AVERAGE TOLERANCE",4980995.91
+1466,"Anthony","Evelyn","Kentucky",36,"Married","Male",2,3,"AVERAGE TOLERANCE",5127902.89
+1468,"Brown","Daquan","Florida",36,"","Male",2,4,"ABOVE AVG TOLERANCE",3298184.72
+1469,"Burt","Sydnee","Georgia",36,"Married","Male",2,3,"AVERAGE TOLERANCE",5911606.18
+1472,"Hopkins","Raymond","Florida",36,"","Female",2,3,"AVERAGE TOLERANCE",2561628.6
+1487,"Gray","Natalie","Maine",36,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3625370.78
+1499,"Schroeder","Brianna","Ohio",36,"Married","Male",2,3,"AVERAGE TOLERANCE",8625152.45
+1609,"Nash","Basil","Maine",37,"Married","Male",5,3,"AVERAGE TOLERANCE",7152449.47
+1610,"Nielsen","Pearl","Pennsylvania",37,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4106343.83
+2282,"Ingram","Miriam","Minnesota",40,"Married","Male",5,2,"BELOW AVG TOLERANCE",7459735.33
+2283,"Mcpherson","Xander","Colorado",40,"Single","Male",5,4,"ABOVE AVG TOLERANCE",6037799.64
+2297,"Gibbs","Ursa","Oregon",40,"Married","Female",4,3,"AVERAGE TOLERANCE",5221125.84
+2298,"Gibbs","Burke","California",40,"Married","Female",4,3,"AVERAGE TOLERANCE",8358170.67
+2300,"Grimes","Astra","California",40,"","Female",4,4,"ABOVE AVG TOLERANCE",8565308.26
+2302,"Neal","Lev","Florida",40,"","Female",4,2,"BELOW AVG TOLERANCE",11240788.15
+2312,"Cantrell","Austin","Washington",40,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3379649.63
+2314,"Chambers","Troy","Washington",40,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3576322.95
+2334,"Baxter","Walter","California",40,"Married","Male",3,3,"AVERAGE TOLERANCE",5874732.66
+2337,"Delaney","Carl","Massachusetts",40,"","Female",3,3,"AVERAGE TOLERANCE",8851149.5
+2351,"Morrison","Garrison","Florida",40,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3942178.9
+2355,"Peters","Florence","Pennsylvania",40,"Married","Male",3,3,"AVERAGE TOLERANCE",6215310.5
+2358,"Rice","Lewis","Maryland",40,"","Male",3,3,"AVERAGE TOLERANCE",4135893.79
+2359,"Rocha","Sopoline","Georgia",40,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3320779.89
+2371,"Mcclain","Byron","Florida",40,"Married","Female",2,3,"AVERAGE TOLERANCE",10904547.29
+2372,"Mcgee","Marcia","Nevada",40,"Married","Female",2,4,"ABOVE AVG TOLERANCE",9491122.7
+2395,"Sherman","Demetrius","Florida",40,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1261689.09
+2497,"Watson","Lawrence","Pennsylvania",41,"Married","Female",4,2,"BELOW AVG TOLERANCE",8028321.37
+2547,"Sutton","Amber","Texas",41,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2670600.78
+2548,"Thornton","Halla","Colorado",41,"Divorced","Male",3,3,"AVERAGE TOLERANCE",2333733.24
+2553,"Faulkner","Bevis","Connecticut",41,"Single","",3,4,"ABOVE AVG TOLERANCE",6696298.23
+2566,"Weiss","Violet","Virginia",41,"Married","Female",2,2,"BELOW AVG TOLERANCE",10842038.06
+2567,"Chapman","Isaac","Kentucky",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2420590.12
+2571,"Haynes","Solomon","Georgia",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3403590.61
+2692,"Hobbs","Jana","Maryland",42,"Married","Female",4,3,"AVERAGE TOLERANCE",11796862.81
+2696,"Monroe","Giselle","Washington",42,"Married","Female",4,3,"AVERAGE TOLERANCE",5033500.56
+2708,"Glover","Lydia","Washington",42,"Single","Male",4,5,"HIGH RISK",2664227
+2752,"Joyner","Willow","Washington",42,"Divorced","Male",3,3,"AVERAGE TOLERANCE",949131.39
+2757,"Ward","Uriel","Minnesota",42,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4132200.76
+2761,"Prince","MacKensie","Massachusetts",42,"Single","",3,4,"ABOVE AVG TOLERANCE",5653063.15
+2779,"Collier","Thor","Michigan",42,"Single","Male",2,3,"AVERAGE TOLERANCE",2322258.44
+2781,"Dunn","Reed","Nevada",42,"Single","Male",2,3,"AVERAGE TOLERANCE",3797375.55
+2786,"Perez","Dakota","Florida",42,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3047626.52
+2886,"Hopkins","Ciara","Minnesota",43,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5517281.81
+2914,"Christian","Deirdre","Pennsylvania",43,"Married","Male",4,4,"ABOVE AVG TOLERANCE",7723948.11
+2915,"Christian","Ava","Florida",43,"Single","Male",4,3,"AVERAGE TOLERANCE",3644341.99
+2916,"Cote","Tamara","Nevada",43,"Married","Male",4,3,"AVERAGE TOLERANCE",4132010.05
+3569,"Mcconnell","Callie","California",46,"","Male",5,4,"ABOVE AVG TOLERANCE",5582955.22
+3571,"Porter","Elvis","Massachusetts",46,"Married","Male",5,4,"ABOVE AVG TOLERANCE",5555704.49
+3572,"Preston","Brielle","Massachusetts",46,"Single","Male",5,3,"AVERAGE TOLERANCE",6019781.8
+3585,"Mccall","Brielle","Texas",46,"Married","Female",4,3,"AVERAGE TOLERANCE",10938470.88
+3587,"Rich","Walter","Connecticut",46,"","Female",4,3,"AVERAGE TOLERANCE",5777117.41
+3595,"Fleming","Christian","Florida",46,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5471296.78
+3599,"Kirkland","Lewis","Pennsylvania",46,"Married","Male",4,2,"BELOW AVG TOLERANCE",3822068.55
+3604,"Patterson","Emerson","Tennessee",46,"Married","",4,2,"BELOW AVG TOLERANCE",6474236.34
+3633,"Maxwell","Driscoll","Michigan",46,"Married","Male",3,3,"AVERAGE TOLERANCE",5380131.71
+3640,"Dodson","Amaya","Wisconsin",46,"Married","",3,3,"AVERAGE TOLERANCE",10132582.94
+3654,"Peck","Xandra","California",46,"Married","Female",2,4,"ABOVE AVG TOLERANCE",9349535.13
+3672,"Summers","Burton","Florida",46,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1824063.51
+3801,"Sparks","Ramona","California",47,"","Female",4,3,"AVERAGE TOLERANCE",8070828.34
+3804,"Alvarado","Malcolm","Florida",47,"Married","Male",4,3,"AVERAGE TOLERANCE",7729865.08
+3861,"Houston","Kirsten","Florida",47,"Married","Female",2,3,"AVERAGE TOLERANCE",8585674.74
+3866,"Petersen","Micah","California",47,"Married","Female",2,2,"BELOW AVG TOLERANCE",7511132.85
+3876,"Johns","Beatrice","Florida",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2730793.91
+3879,"Lucas","Amos","Georgia",47,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1675177.6
+3886,"Leonard","Lois","Louisiana",47,"Single","",2,3,"AVERAGE TOLERANCE",6903805
+3983,"Carney","Meredith","Florida",48,"Married","",5,4,"ABOVE AVG TOLERANCE",6401935.44
+3998,"Keller","Joshua","Connecticut",48,"","Female",4,4,"ABOVE AVG TOLERANCE",6788302.88
+4001,"Robbins","Remedios","Maryland",48,"Married","Female",4,3,"AVERAGE TOLERANCE",7896431.99
+4007,"Battle","Tad","Hawaii",48,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5642050.07
+4014,"May","Tashya","Montana",48,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1972432.61
+4054,"Parrish","Charles","Ohio",48,"","Male",3,4,"ABOVE AVG TOLERANCE",3040721.46
+4057,"Schroeder","Tad","Indiana",48,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2540010.09
+4058,"Stuart","Whoopi","Nevada",48,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5122917.2
+4059,"Hughes","Brittany","Washington",48,"Single","",3,3,"AVERAGE TOLERANCE",4708089.75
+4065,"Franco","Tiger","California",48,"Married","Female",2,3,"AVERAGE TOLERANCE",9293800.99
+4072,"Travis","Adara","Florida",48,"","Female",2,5,"HIGH RISK",8444083.04
+4086,"Olson","Igor","Maryland",48,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4880131.1
+4087,"Perkins","Carter","Virginia",48,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3955737.77
+4089,"Terrell","Declan","Maryland",48,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3737731.05
+4171,"Sloan","Byron","Massachusetts",49,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2419450.39
+4176,"Long","Bree","Texas",49,"Married","",5,3,"AVERAGE TOLERANCE",9147402.53
+4187,"Mayo","Roanna","Indiana",49,"Married","Female",4,3,"AVERAGE TOLERANCE",4684115.77
+4189,"Puckett","Tanya","Arizona",49,"","Female",4,2,"BELOW AVG TOLERANCE",5858035.91
+4209,"Davidson","Brooke","Nevada",49,"","Female",3,3,"AVERAGE TOLERANCE",6376811.23
+2920,"Gates","Portia","Ohio",43,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3294828.11
+2943,"Carter","Irma","Maryland",43,"Married","Male",3,2,"BELOW AVG TOLERANCE",5929652.46
+2969,"Myers","Silas","Texas",43,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4910525.05
+2978,"Mathis","Maile","Kentucky",43,"Married","",3,2,"BELOW AVG TOLERANCE",8726962.47
+2983,"Hebert","Medge","Massachusetts",43,"Married","Female",2,3,"AVERAGE TOLERANCE",10585862.65
+2986,"Parsons","Callum","Illinois",43,"","Female",2,4,"ABOVE AVG TOLERANCE",10791579.35
+2989,"Ryan","Ulysses","Kentucky",43,"Married","Female",2,3,"AVERAGE TOLERANCE",10861614.88
+2998,"Nixon","Francis","Florida",43,"Married","Male",2,3,"AVERAGE TOLERANCE",2957545.01
+3114,"Mcmahon","Portia","Florida",44,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3174191.37
+3117,"Robles","Quynn","Texas",44,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1586789.02
+3142,"Richard","Wanda","Michigan",44,"","Female",4,3,"AVERAGE TOLERANCE",8193303.1
+3152,"Gilbert","Silas","Maine",44,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4623836.73
+3171,"Byrd","Ria","Virginia",44,"Married","Male",3,3,"AVERAGE TOLERANCE",7438346.36
+3199,"Roman","Gretchen","California",44,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4870332.72
+3215,"Mcmillan","Brynne","Colorado",44,"Married","Female",2,3,"AVERAGE TOLERANCE",9659254.81
+3216,"Merritt","Dominique","Oklahoma",44,"","Female",2,5,"HIGH RISK",4077234.34
+3219,"Ramsey","Trevor","Connecticut",44,"Married","Female",2,3,"AVERAGE TOLERANCE",3136255.85
+3221,"Walker","Harrison","Florida",44,"Married","Female",2,2,"BELOW AVG TOLERANCE",7056836.74
+3229,"Jimenez","Evelyn","Minnesota",44,"Married","Male",2,2,"BELOW AVG TOLERANCE",6309386.37
+3237,"Rosa","Yen","Kentucky",44,"","Male",2,4,"ABOVE AVG TOLERANCE",2014672.71
+3239,"Valenzuela","Idola","Massachusetts",44,"Single","Male",2,3,"AVERAGE TOLERANCE",5531122.31
+3240,"Velez","Olympia","Pennsylvania",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",2688785.83
+3352,"Whitehead","Salvador","Virginia",45,"Married","Male",5,3,"AVERAGE TOLERANCE",5245106.9
+3371,"Wiley","Emi","Texas",45,"Married","Female",4,3,"AVERAGE TOLERANCE",8475572.31
+3397,"Cantu","Karina","Pennsylvania",45,"","Male",3,4,"ABOVE AVG TOLERANCE",5306673.94
+3398,"Cervantes","Nathan","Pennsylvania",45,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4946910.42
+3430,"Butler","Rhiannon","Minnesota",45,"Married","Male",2,3,"AVERAGE TOLERANCE",5942362.06
+3432,"Diaz","Aiko","California",45,"Married","Female",2,3,"AVERAGE TOLERANCE",7777193.85
+3441,"Allison","Charde","Florida",45,"Married","Male",2,2,"BELOW AVG TOLERANCE",5140188.98
+3444,"David","Boris","Florida",45,"Married","Male",2,3,"AVERAGE TOLERANCE",4253393.86
+3448,"Fleming","Serena","Indiana",45,"Divorced","Male",2,3,"AVERAGE TOLERANCE",3088356
+3455,"Nichols","Castor","Florida",45,"Married","Male",2,4,"ABOVE AVG TOLERANCE",7694579.8
+3464,"Carson","Ocean","Texas",45,"Married","",2,2,"BELOW AVG TOLERANCE",3440869.75
+3466,"Quinn","Kyle","Delaware",45,"Single","",2,3,"AVERAGE TOLERANCE",7300526.9
+1627,"Hurst","Erasmus","Massachusetts",37,"Single","",5,4,"ABOVE AVG TOLERANCE",4206773.25
+1643,"Vang","Candice","Maryland",37,"","Female",4,4,"ABOVE AVG TOLERANCE",8862610.08
+1647,"Crawford","Travis","Maryland",37,"Married","Male",4,3,"AVERAGE TOLERANCE",5392125.13
+1653,"Larsen","Alisa","Oregon",37,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2924055.64
+1698,"Ashley","Chantale","Washington",37,"Married","Male",2,3,"AVERAGE TOLERANCE",7012238.69
+1717,"Barr","Cora","California",37,"","Male",2,4,"ABOVE AVG TOLERANCE",5385914.24
+1731,"Montgomery","Alea","Maine",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",6181386.54
+1734,"Slater","Lilah","Michigan",37,"Married","Male",2,3,"AVERAGE TOLERANCE",4897173.79
+1735,"Vega","Tanek","Michigan",37,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2336446.52
+1741,"Schmidt","Ainsley","Florida",37,"Single","",2,4,"ABOVE AVG TOLERANCE",6860675.34
+1835,"Simpson","Otto","Virginia",38,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2490486.68
+1855,"Melendez","Tanner","Texas",38,"","Female",4,4,"ABOVE AVG TOLERANCE",7375314.36
+1863,"Beard","Prescott","Florida",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2364739.72
+1864,"Benjamin","Jorden","Maryland",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2046146.32
+1903,"Larsen","Melinda","California",38,"Married","Male",3,3,"AVERAGE TOLERANCE",7527217.82
+1917,"Walsh","Mufutau","Florida",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4377436.27
+1933,"Kaufman","Ryder","California",38,"Married","Female",2,3,"AVERAGE TOLERANCE",10336825.58
+1936,"Preston","Rhea","Washington",38,"","Female",2,4,"ABOVE AVG TOLERANCE",1783394.64
+1939,"Savage","Bernard","California",38,"","Female",2,4,"ABOVE AVG TOLERANCE",4239011.52
+1957,"Mccarty","Dominic","Texas",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1204027.76
+1962,"Rhodes","Leandra","Florida",38,"","Male",2,4,"ABOVE AVG TOLERANCE",5410183.52
+1967,"Zamora","Glenna","Kentucky",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1567207.52
+2085,"Jones","Jasper","Ohio",39,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4119096.37
+2106,"Madden","Thor","Florida",39,"","Female",4,4,"ABOVE AVG TOLERANCE",2885721.72
+2110,"Booth","Porter","Minnesota",39,"Single","Male",4,4,"ABOVE AVG TOLERANCE",2764126.15
+2111,"Britt","Eaton","Georgia",39,"Married","Male",4,3,"AVERAGE TOLERANCE",4658314.18
+2154,"Valentine","Lara","Colorado",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3457096.13
+2167,"Hoffman","Magee","Nevada",39,"","Female",2,3,"AVERAGE TOLERANCE",6490545
+2174,"Snider","Lucian","Florida",39,"Married","Female",2,3,"AVERAGE TOLERANCE",7017536.45
+2185,"Orr","Casey","Florida",39,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4773888.79
+2187,"Snyder","Philip","California",39,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3515723.92
+2188,"Vinson","Merritt","Indiana",39,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2107154.52
+2191,"Hernandez","Kessie","Arizona",39,"Single","",2,4,"ABOVE AVG TOLERANCE",5648234.22
+5510,"Downs","Bethany","Nevada",55,"Single","",3,2,"BELOW AVG TOLERANCE",8394083.67
+5513,"Branch","Quemby","Florida",55,"Married","Male",2,4,"ABOVE AVG TOLERANCE",2821701.21
+5520,"Rivers","Clio","Florida",55,"","Female",2,3,"AVERAGE TOLERANCE",5702872.75
+5524,"Bass","Azalia","Maine",55,"","Male",2,4,"ABOVE AVG TOLERANCE",2882896.71
+5538,"Thornton","Henry","Florida",55,"","Male",2,3,"AVERAGE TOLERANCE",8670634.28
+5541,"Vance","Kendall","Florida",55,"Married","Male",2,3,"AVERAGE TOLERANCE",5595676.3
+5543,"Bauer","Kirby","Florida",55,"Single","",2,3,"AVERAGE TOLERANCE",7860890.16
+5544,"Burch","Guy","Illinois",55,"Single","",2,5,"HIGH RISK",5959282.53
+5547,"Mcleod","Claudia","Florida",55,"Married","",2,3,"AVERAGE TOLERANCE",6736180.75
+4228,"Hickman","Xanthus","Minnesota",49,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3668207.62
+4231,"Kim","Warren","Illinois",49,"Married","Male",3,3,"AVERAGE TOLERANCE",9442154.31
+4239,"Olson","Quamar","Oklahoma",49,"Single","",3,3,"AVERAGE TOLERANCE",4430995.27
+4248,"Keller","Alice","California",49,"","Female",2,2,"BELOW AVG TOLERANCE",7237118.59
+4251,"Perkins","Raja","Florida",49,"Married","Female",2,2,"BELOW AVG TOLERANCE",10727766.4
+4260,"Browning","Ignacia","Wyoming",49,"Married","Male",2,2,"BELOW AVG TOLERANCE",3533942.56
+4266,"Haley","Reuben","Pennsylvania",49,"Divorced","Male",2,5,"HIGH RISK",543042.68
+4267,"Hawkins","Leslie","Georgia",49,"","Male",2,3,"AVERAGE TOLERANCE",3350020.09
+4272,"Petty","Adrian","Alaska",49,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2062820.36
+4374,"Lawrence","Flavia","Maryland",50,"Divorced","Male",5,3,"AVERAGE TOLERANCE",4193042.93
+4393,"Garrett","Hyacinth","Maryland",50,"Single","Female",4,3,"AVERAGE TOLERANCE",11513034.14
+4407,"Clayton","Jordan","California",50,"Married","Male",4,3,"AVERAGE TOLERANCE",9268280.87
+4408,"Contreras","Paki","Oregon",50,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3352560.87
+4414,"Love","Hedda","California",50,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4627083.84
+4429,"Yates","Indira","Pennsylvania",50,"Single","",4,4,"ABOVE AVG TOLERANCE",7576029.03
+4451,"Hurley","Petra","Nebraska",50,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2497870.65
+4456,"Moody","Ulric","Virginia",50,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2394552.15
+4459,"Rodgers","Xena","Maryland",50,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3687301.53
+4461,"Tillman","Gary","Georgia",50,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3346137.8
+4468,"Lara","Shea","Florida",50,"Married","Female",2,3,"AVERAGE TOLERANCE",10993492.98
+4474,"Serrano","Julian","Maryland",50,"","Female",2,3,"AVERAGE TOLERANCE",3756900.24
+4487,"Guthrie","Hedy","Virginia",50,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1987353.61
+4495,"Massey","Iona","California",50,"Single","Male",2,3,"AVERAGE TOLERANCE",4059156.16
+4500,"Rasmussen","Travis","Mississippi",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3770573.67
+4506,"Wolfe","Odysseus","California",50,"Married","Male",2,3,"AVERAGE TOLERANCE",7117350.11
+4603,"Hutchinson","Rahim","Tennessee",51,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3465345.83
+4606,"Luna","Kristen","Pennsylvania",51,"Married","Male",5,4,"ABOVE AVG TOLERANCE",4436459.82
+4630,"Blackburn","Irene","Kentucky",51,"Married","Male",4,3,"AVERAGE TOLERANCE",8299800.34
+4639,"Gordon","Zephania","Texas",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6173610.9
+4641,"Hubbard","Neville","Nevada",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6318629.68
+4645,"Orr","Carlos","California",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4414006.74
+4680,"Sherman","Medge","Arizona",51,"Divorced","Male",3,3,"AVERAGE TOLERANCE",1414939.44
+4684,"Woods","Larissa","Connecticut",51,"Married","Male",3,2,"BELOW AVG TOLERANCE",7753065.87
+4700,"Kelley","Hakeem","Virginia",51,"Single","Female",2,2,"BELOW AVG TOLERANCE",6198712.4
+4707,"Silva","Tatum","Connecticut",51,"","Female",2,3,"AVERAGE TOLERANCE",5039776.37
+4717,"Delaney","Quamar","Florida",51,"Single","Male",2,4,"ABOVE AVG TOLERANCE",6127955.17
+4841,"Hoffman","August","Maine",52,"Single","",5,3,"AVERAGE TOLERANCE",3684373.98
+4852,"Guzman","Yvonne","Florida",52,"Married","Female",4,2,"BELOW AVG TOLERANCE",12233035.76
+4868,"Dillon","Philip","Florida",52,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3562192.9
+4870,"Mccray","Clayton","California",52,"Married","Male",4,3,"AVERAGE TOLERANCE",5117274.56
+4874,"Mullins","Angela","Florida",52,"","Male",4,4,"ABOVE AVG TOLERANCE",8090539.1
+4907,"Price","Sebastian","Colorado",52,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5853938.77
+4908,"Sykes","Tara","Kentucky",52,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3775209.2
+4912,"Shields","Irene","Ohio",52,"Single","",3,2,"BELOW AVG TOLERANCE",7296373.19
+4927,"Fry","Talon","Wyoming",52,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4572037.79
+4928,"Gilbert","Whilemina","California",52,"Married","Male",2,4,"ABOVE AVG TOLERANCE",5366523.11
+5054,"Matthews","Candice","Oregon",53,"Single","Female",4,3,"AVERAGE TOLERANCE",10607836.86
+5057,"Pacheco","Kirsten","Nevada",53,"Married","Female",4,3,"AVERAGE TOLERANCE",7305232.5
+5069,"Delaney","Ezra","Michigan",53,"Divorced","Male",4,3,"AVERAGE TOLERANCE",2315900.93
+5072,"Hart","Rhona","Maryland",53,"","Male",4,4,"ABOVE AVG TOLERANCE",3866802.33
+5073,"Higgins","Amal","California",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2552090.98
+5075,"Leon","Derek","Florida",53,"Married","Male",4,3,"AVERAGE TOLERANCE",7140245.18
+5089,"Casey","Zephania","Michigan",53,"","Male",3,3,"AVERAGE TOLERANCE",3722207.32
+5110,"Moody","September","California",53,"Married","Male",3,4,"ABOVE AVG TOLERANCE",7407747.54
+5113,"Quinn","Donna","Delaware",53,"Married","Male",3,3,"AVERAGE TOLERANCE",5054556.2
+5116,"Valenzuela","Pascale","Massachusetts",53,"Married","Male",3,3,"AVERAGE TOLERANCE",6196103.53
+5123,"Faulkner","Elaine","Maryland",53,"","Female",2,4,"ABOVE AVG TOLERANCE",6078237.12
+5126,"Kemp","Janna","Maryland",53,"Married","Female",2,4,"ABOVE AVG TOLERANCE",8718683.45
+5132,"Rosales","Channing","Maryland",53,"","Female",2,2,"BELOW AVG TOLERANCE",5948218.51
+5135,"Aguirre","Yoshi","Florida",53,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3099122.3
+5138,"Greene","Hakeem","Georgia",53,"Married","Male",2,2,"BELOW AVG TOLERANCE",7749401.83
+5139,"Gregory","Megan","California",53,"Married","Male",2,2,"BELOW AVG TOLERANCE",5372194.98
+5151,"Workman","Bevis","Minnesota",53,"Married","Male",2,2,"BELOW AVG TOLERANCE",7593742.2
+5261,"Ross","Prescott","California",54,"Married","Male",5,2,"BELOW AVG TOLERANCE",6330799.76
+5265,"Calderon","Shoshana","Florida",54,"Single","",5,4,"ABOVE AVG TOLERANCE",7425555.54
+5276,"Mcknight","Hedley","Massachusetts",54,"","Female",4,3,"AVERAGE TOLERANCE",8381124.87
+5281,"Blanchard","Charlotte","Delaware",54,"Married","Male",4,3,"AVERAGE TOLERANCE",6139317.66
+5282,"Burch","Amethyst","Maryland",54,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6524647.89
+5289,"Le","Ayanna","Arizona",54,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2473044.78
+5325,"Benton","Charles","Illinois",54,"","Male",2,4,"ABOVE AVG TOLERANCE",7241727.17
+5328,"Gilliam","Cynthia","Florida",54,"Married","Female",2,3,"AVERAGE TOLERANCE",7449771.74
+5336,"Terry","Ori","Massachusetts",54,"","Female",2,4,"ABOVE AVG TOLERANCE",12409736.56
+5337,"Aguilar","Shana","Alaska",54,"Married","Male",2,3,"AVERAGE TOLERANCE",8446857.64
+5340,"Cantu","Jordan","Wyoming",54,"Single","Male",2,3,"AVERAGE TOLERANCE",3827310.39
+5351,"Walker","Desirae","Washington",54,"Single","Male",2,3,"AVERAGE TOLERANCE",3609267.89
+5353,"Stanley","Casey","Indiana",54,"Single","",2,3,"AVERAGE TOLERANCE",3975178.57
+5433,"Mcneil","Chanda","Indiana",55,"Single","Male",5,3,"AVERAGE TOLERANCE",3300637.69
+5457,"May","Vernon","Washington",55,"","Female",4,4,"ABOVE AVG TOLERANCE",8983467.23
+5464,"Hinton","Knox","Nevada",55,"","Male",4,4,"ABOVE AVG TOLERANCE",6333596.46
+5468,"Moon","Armando","Minnesota",55,"Married","Male",4,3,"AVERAGE TOLERANCE",8925976.63
+5483,"Bishop","Odessa","California",55,"Married","Male",3,4,"ABOVE AVG TOLERANCE",7482034.94
+5485,"Dunlap","Winter","Arizona",55,"Married","Female",3,2,"BELOW AVG TOLERANCE",6991948.17
+5498,"Irwin","Dustin","Indiana",55,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2915353.06
+913,"Jackson","Aladdin","Connecticut",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3406893.2
+927,"Reilly","Robin","California",34,"Single","",5,3,"AVERAGE TOLERANCE",5543926.56
+928,"Riddle","McKenzie","Virginia",34,"Married","",5,3,"AVERAGE TOLERANCE",7874131.68
+931,"Warren","Porter","Pennsylvania",34,"Single","",5,4,"ABOVE AVG TOLERANCE",5435427.69
+940,"Monroe","Bryar","California",34,"Married","Female",4,3,"AVERAGE TOLERANCE",6472256.97
+943,"Ortega","Warren","Oregon",34,"Married","Female",4,3,"AVERAGE TOLERANCE",8860389.4
+945,"Roach","Ahmed","Arizona",34,"Married","Female",4,3,"AVERAGE TOLERANCE",7385330.17
+946,"Simmons","Edan","Ohio",34,"Married","Female",4,2,"BELOW AVG TOLERANCE",8559196.55
+951,"Abbott","Xantha","Massachusetts",34,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2038085.64
+990,"Hodge","Fallon","Alabama",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1606732.32
+992,"Hunt","Oprah","Wyoming",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1433395.32
+1000,"Odonnell","Josephine","Florida",34,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3405525.9
+1014,"Benson","Gannon","Florida",34,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4200821.07
+1017,"Carpenter","Ursa","Pennsylvania",34,"Married","Male",2,3,"AVERAGE TOLERANCE",6090693.41
+1038,"Burns","Ferdinand","Wyoming",34,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2891074.24
+1151,"Vaughan","Hope","Kentucky",35,"","Male",5,4,"ABOVE AVG TOLERANCE",4721009.44
+1155,"Marks","Carol","Indiana",35,"Single","",5,4,"ABOVE AVG TOLERANCE",3965796.27
+1164,"Kramer","Jacob","Minnesota",35,"","Female",4,4,"ABOVE AVG TOLERANCE",10018057.92
+1169,"Parsons","Ryder","Nevada",35,"Married","Female",4,3,"AVERAGE TOLERANCE",6286183.92
+1174,"Cole","Gareth","Indiana",35,"Married","Male",4,3,"AVERAGE TOLERANCE",6465867.16
+1180,"Jacobson","Kadeem","Florida",35,"","Male",4,4,"ABOVE AVG TOLERANCE",2450721.6
+1184,"Mccall","Deborah","Kentucky",35,"","Male",4,4,"ABOVE AVG TOLERANCE",3398020.16
+1186,"Mcmillan","Helen","California",35,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5334848.42
+1191,"Stevenson","Aubrey","Illinois",35,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1629286.92
+1204,"Bray","Ahmed","Virginia",35,"","Male",3,4,"ABOVE AVG TOLERANCE",2578642.8
+1239,"Burgess","Bradley","Wisconsin",35,"Married","Male",2,3,"AVERAGE TOLERANCE",3471525.11
+1254,"Fields","Zephania","Illinois",35,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2665932.96
+1265,"Woodward","Ila","Ohio",35,"Single","Male",2,4,"ABOVE AVG TOLERANCE",1535164.56
+1271,"Moore","Yeo","Alaska",35,"Single","",2,3,"AVERAGE TOLERANCE",4668012.63
+1397,"Weaver","Jordan","Virginia",36,"Single","",5,3,"AVERAGE TOLERANCE",2280295.89
+1409,"Mcleod","Nola","Florida",36,"Married","Female",4,2,"BELOW AVG TOLERANCE",4526649.94
+1411,"Moon","Aidan","Virginia",36,"Married","Female",4,3,"AVERAGE TOLERANCE",10056760.14
+1450,"Levy","Cadman","Pennsylvania",36,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2571877.92
+1451,"Mcdonald","Hedy","Texas",36,"Single","Male",3,4,"ABOVE AVG TOLERANCE",1910188.38
+1459,"Rojas","Charlotte","Minnesota",36,"Married","Male",3,3,"AVERAGE TOLERANCE",8526875.51
+1477,"Sloan","Ruth","Florida",36,"Married","Female",2,3,"AVERAGE TOLERANCE",7398346.9
+1479,"Ball","Shafira","Wyoming",36,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1355401.76
+1604,"Lynn","Flynn","Wisconsin",37,"Married","Male",5,3,"AVERAGE TOLERANCE",2942199.27
+1621,"Vega","Neve","Florida",37,"Married","Male",5,3,"AVERAGE TOLERANCE",7643119.87
+2281,"Hoover","Martha","Florida",40,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3522629.64
+2285,"Saunders","Eagan","Pennsylvania",40,"Married","Male",5,3,"AVERAGE TOLERANCE",3665278.21
+2288,"Williams","Kiara","Florida",40,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2308520.23
+2301,"Lancaster","Macey","California",40,"","Female",4,4,"ABOVE AVG TOLERANCE",5542189.35
+2303,"Peters","Philip","Connecticut",40,"","Female",4,4,"ABOVE AVG TOLERANCE",4002477.07
+2310,"Boyer","Sydney","Delaware",40,"","Male",4,3,"AVERAGE TOLERANCE",5363550.46
+2315,"Dodson","Alexis","Washington",40,"Married","Male",4,3,"AVERAGE TOLERANCE",5404631.03
+2317,"Edwards","Alvin","Colorado",40,"Married","Male",4,3,"AVERAGE TOLERANCE",9537900.23
+2324,"Oconnor","Naida","Arkansas",40,"Single","Male",4,5,"HIGH RISK",3804220.65
+2336,"Cross","Yvonne","Florida",40,"Married","Male",3,2,"BELOW AVG TOLERANCE",5531948.5
+2366,"Grimes","Allegra","Florida",40,"Single","",3,5,"HIGH RISK",5911886.48
+2378,"Rocha","Oleg","Florida",40,"","Female",2,2,"BELOW AVG TOLERANCE",8325888.91
+2380,"Vargas","Tara","Maine",40,"","Female",2,2,"BELOW AVG TOLERANCE",6722725.8
+2399,"English","Pamela","Georgia",40,"Married","",2,3,"AVERAGE TOLERANCE",10514569.17
+2489,"Roberson","Camden","Florida",41,"Single","",5,3,"AVERAGE TOLERANCE",5672091.95
+2539,"Joyner","Ashely","Illinois",41,"","Male",3,4,"ABOVE AVG TOLERANCE",3666316.36
+2540,"Leblanc","Jared","Maryland",41,"Divorced","Male",3,3,"AVERAGE TOLERANCE",2483839.33
+2554,"Waller","Brennan","Florida",41,"Single","",3,4,"ABOVE AVG TOLERANCE",6776702.45
+2568,"Crane","Chava","Virginia",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3230443.04
+2577,"Morgan","Dacey","Florida",41,"Married","Male",2,3,"AVERAGE TOLERANCE",6940984.93
+2583,"Bauer","Aphrodite","Florida",41,"Single","",2,4,"ABOVE AVG TOLERANCE",2068679.44
+2584,"Hodge","Briar","Minnesota",41,"Married","",2,3,"AVERAGE TOLERANCE",8041521.57
+2695,"Justice","Slade","Maryland",42,"","Female",4,3,"AVERAGE TOLERANCE",10640917.19
+2729,"Dodson","Denton","Maryland",42,"Married","Female",3,3,"AVERAGE TOLERANCE",4979837.49
+2765,"Conrad","Bert","California",42,"Married","Male",2,3,"AVERAGE TOLERANCE",4429799.93
+2770,"Mitchell","Doris","Wisconsin",42,"Single","Female",2,3,"AVERAGE TOLERANCE",9803379.68
+2775,"Vargas","Basia","Massachusetts",42,"Married","Female",2,3,"AVERAGE TOLERANCE",8708199.18
+2785,"Macias","Chancellor","Wyoming",42,"Married","Male",2,2,"BELOW AVG TOLERANCE",2044409.24
+2787,"Schwartz","Demetrius","Michigan",42,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3458136.04
+2890,"Reese","Genevieve","California",43,"","Male",5,4,"ABOVE AVG TOLERANCE",3761982.4
+2907,"Parks","Rhiannon","Minnesota",43,"Married","Female",4,2,"BELOW AVG TOLERANCE",5703309.69
+2909,"Trujillo","Destiny","Pennsylvania",43,"Married","Female",4,3,"AVERAGE TOLERANCE",8531559.43
+3573,"Wynn","Rana","Kentucky",46,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2852065.83
+3583,"Horn","Sacha","Arizona",46,"Married","Female",4,2,"BELOW AVG TOLERANCE",4975779.12
+3584,"Lindsay","Jada","Minnesota",46,"","Female",4,1,"LOW-RISK",6547269.04
+3593,"Compton","Shelby","California",46,"Single","Male",4,3,"AVERAGE TOLERANCE",3850177.48
+3594,"Ferguson","Miranda","Florida",46,"","Male",4,4,"ABOVE AVG TOLERANCE",3648719.9
+3609,"Burke","Ava","Maryland",46,"","Male",3,4,"ABOVE AVG TOLERANCE",5491091.85
+3643,"Kinney","Odessa","Arizona",46,"Married","",3,4,"ABOVE AVG TOLERANCE",8893917.64
+3652,"Herrera","Kirsten","Virginia",46,"Married","Female",2,3,"AVERAGE TOLERANCE",6563977.68
+3656,"Taylor","Sylvester","Connecticut",46,"","Female",2,3,"AVERAGE TOLERANCE",4636811
+3664,"Levine","Amaya","California",46,"Married","Male",2,2,"BELOW AVG TOLERANCE",6013748.3
+3665,"Mann","Briar","Georgia",46,"Divorced","Male",2,5,"HIGH RISK",2750067.63
+3775,"Knapp","Florence","Kentucky",47,"Married","Male",5,3,"AVERAGE TOLERANCE",6052361.89
+3795,"Leon","Miranda","Florida",47,"Married","Female",4,2,"BELOW AVG TOLERANCE",9039618.88
+3807,"Bradford","Mollie","Michigan",47,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2067676.07
+3844,"Monroe","Sydnee","Florida",47,"Married","Male",3,3,"AVERAGE TOLERANCE",7338467.13
+3852,"Osborn","Bree","Tennessee",47,"Married","",3,3,"AVERAGE TOLERANCE",9035615.95
+3853,"Potter","Burton","Maine",47,"Single","",3,3,"AVERAGE TOLERANCE",6887643.35
+3865,"Odom","Cameron","Georgia",47,"Married","Female",2,3,"AVERAGE TOLERANCE",7481723.99
+3867,"Reed","Zahir","Maryland",47,"Married","Female",2,2,"BELOW AVG TOLERANCE",2101920.64
+3874,"Dillon","Roth","Texas",47,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5197897.11
+3875,"George","Robert","Texas",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3055377.12
+3881,"Reilly","Isaac","Nevada",47,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1621273.45
+3885,"Trujillo","Michelle","Maine",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2209152.53
+3887,"Myers","Genevieve","Florida",47,"Married","",2,3,"AVERAGE TOLERANCE",5639626.34
+3984,"Fitzgerald","Dominic","Michigan",48,"Single","",5,3,"AVERAGE TOLERANCE",6271950.97
+3995,"Harrison","Mechelle","Delaware",48,"Single","Female",4,3,"AVERAGE TOLERANCE",5140203.94
+3999,"Mckay","Deacon","Florida",48,"Married","Female",4,2,"BELOW AVG TOLERANCE",6079140.62
+4004,"Rowland","Keane","California",48,"Married","Female",4,3,"AVERAGE TOLERANCE",4026095.41
+4010,"Ellison","Jaquelyn","Oregon",48,"","Male",4,4,"ABOVE AVG TOLERANCE",4442618.58
+4011,"Francis","Karleigh","Massachusetts",48,"","Male",4,4,"ABOVE AVG TOLERANCE",3883586.25
+4027,"Butler","Isabelle","Michigan",48,"Married","Male",3,3,"AVERAGE TOLERANCE",4645557.84
+4053,"Park","Germane","Massachusetts",48,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2471493.34
+4077,"Black","Lydia","Massachusetts",48,"Married","Male",2,3,"AVERAGE TOLERANCE",2720397.29
+4162,"Leach","Tara","Florida",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4341208.14
+4163,"Munoz","Wesley","California",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2406193.82
+4164,"Nielsen","Marah","California",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",6051383.23
+4167,"Rocha","Maxwell","Washington",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3874541.3
+4179,"Watson","Porter","Massachusetts",49,"Married","",5,3,"AVERAGE TOLERANCE",8637021.76
+4191,"Albert","Virginia","Florida",49,"","Male",4,4,"ABOVE AVG TOLERANCE",3879565.8
+4194,"Key","Megan","Florida",49,"Married","Male",4,2,"BELOW AVG TOLERANCE",2725085.94
+4207,"Baird","Herrod","Oregon",49,"Married","Male",3,2,"BELOW AVG TOLERANCE",5827841.51
+2928,"Mccoy","Natalie","Indiana",43,"Married","Male",4,3,"AVERAGE TOLERANCE",5357219.98
+2944,"Copeland","John","Florida",43,"Married","Male",3,2,"BELOW AVG TOLERANCE",3883741.48
+2971,"Patel","August","Pennsylvania",43,"","Male",3,4,"ABOVE AVG TOLERANCE",5132396.73
+2987,"Petty","Madeline","Virginia",43,"","Female",2,3,"AVERAGE TOLERANCE",7309095.81
+3118,"Ruiz","Evan","Ohio",44,"Married","Male",5,2,"BELOW AVG TOLERANCE",4727510.09
+3125,"Blevins","Dahlia","Pennsylvania",44,"Single","",5,2,"BELOW AVG TOLERANCE",7547726.34
+3127,"Talley","Leonard","Illinois",44,"Single","",5,3,"AVERAGE TOLERANCE",6938122.25
+3128,"Velasquez","Berk","Alaska",44,"Single","",5,3,"AVERAGE TOLERANCE",5287059.95
+3138,"Jenkins","Donovan","Florida",44,"Married","Female",4,3,"AVERAGE TOLERANCE",8023235.78
+3143,"Saunders","Dylan","Virginia",44,"Married","Female",4,3,"AVERAGE TOLERANCE",10264133.72
+3146,"Vargas","Kaitlin","Wisconsin",44,"Married","Female",4,2,"BELOW AVG TOLERANCE",5420836.55
+3149,"Castaneda","Jocelyn","California",44,"","Male",4,4,"ABOVE AVG TOLERANCE",5361473.58
+3160,"Solomon","Keiko","Massachusetts",44,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2541540.67
+3169,"Tillman","Dahlia","Virginia",44,"Single","",4,3,"AVERAGE TOLERANCE",4398941.06
+3197,"Powers","Quinn","Montana",44,"Married","Male",3,3,"AVERAGE TOLERANCE",6205780.83
+3210,"Jackson","Acton","Massachusetts",44,"Married","Female",2,2,"BELOW AVG TOLERANCE",10178929.41
+3227,"Greene","Shea","Michigan",44,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2641728.84
+3235,"Rogers","Neil","Florida",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",6049204.67
+3349,"Rodriquez","Fitzgerald","Maryland",45,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5704970.43
+3362,"Macdonald","George","Minnesota",45,"","Female",4,3,"AVERAGE TOLERANCE",4596621.62
+3396,"Buck","Cadman","Arizona",45,"Married","Male",3,3,"AVERAGE TOLERANCE",8265089.08
+3433,"Espinoza","Maris","Texas",45,"Married","Female",2,3,"AVERAGE TOLERANCE",12328394.6
+3442,"Ashley","Hayes","Florida",45,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2477103.29
+3445,"Dixon","Raphael","Oklahoma",45,"Married","Male",2,3,"AVERAGE TOLERANCE",8142644.09
+3459,"Stout","Omar","Indiana",45,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3019187.95
+1635,"Hays","Ulla","Indiana",37,"Married","Female",4,2,"BELOW AVG TOLERANCE",9819932.11
+1639,"Molina","Nathaniel","Florida",37,"","Female",4,4,"ABOVE AVG TOLERANCE",3812642.64
+1651,"Franklin","Sierra","Oregon",37,"Married","Male",4,2,"BELOW AVG TOLERANCE",7799120.35
+1655,"Moss","Angelica","Maryland",37,"Married","Male",4,3,"AVERAGE TOLERANCE",4625107.86
+1667,"Copeland","Barbara","Maine",37,"Married","Male",3,3,"AVERAGE TOLERANCE",4553704.89
+1694,"Avila","Reuben","Pennsylvania",37,"Single","",3,4,"ABOVE AVG TOLERANCE",5887763.82
+1700,"Cole","Deacon","Maryland",37,"","Male",2,4,"ABOVE AVG TOLERANCE",5532034.56
+1709,"Russo","Portia","Maryland",37,"","Female",2,4,"ABOVE AVG TOLERANCE",7384506.12
+1712,"Valentine","Nolan","California",37,"Single","Female",2,3,"AVERAGE TOLERANCE",4354542.93
+1718,"Bass","Joshua","Florida",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4464771.78
+1849,"Garza","Justina","California",38,"Married","Female",4,2,"BELOW AVG TOLERANCE",5547836.15
+1853,"Mann","Kiayada","Texas",38,"","Female",4,4,"ABOVE AVG TOLERANCE",4411693.44
+1854,"Mcdowell","Blossom","Minnesota",38,"Married","Female",4,3,"AVERAGE TOLERANCE",11491383.03
+1861,"Whitfield","Tasha","Florida",38,"","Female",4,3,"AVERAGE TOLERANCE",9383175.96
+1867,"Carey","Amethyst","Nevada",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3328749.16
+1873,"Hobbs","Karleigh","California",38,"","Male",4,4,"ABOVE AVG TOLERANCE",4366635.92
+1902,"Justice","Madonna","Minnesota",38,"Married","Male",3,3,"AVERAGE TOLERANCE",5548413.89
+1904,"Maldonado","Bianca","Georgia",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3655514.12
+1915,"Valenzuela","Keely","Nevada",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3084323
+1916,"Waller","Tucker","Pennsylvania",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2258504.4
+1924,"Cervantes","Gretchen","Oregon",38,"Married","Male",2,3,"AVERAGE TOLERANCE",7206773.86
+1926,"Delaney","Eleanor","Minnesota",38,"Married","Female",2,3,"AVERAGE TOLERANCE",8425670.25
+1931,"Hays","Samson","Florida",38,"Married","Female",2,2,"BELOW AVG TOLERANCE",7524877.25
+1935,"Koch","Nissim","Massachusetts",38,"Single","Female",2,4,"ABOVE AVG TOLERANCE",4171220.5
+1946,"Bowen","Galvin","California",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1236904.32
+1964,"Stout","Ronan","Virginia",38,"","Male",2,4,"ABOVE AVG TOLERANCE",3817164.32
+2088,"Mclean","Josephine","Nebraska",39,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1813377.92
+2090,"Rowland","Kieran","Maryland",39,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1855171.68
+2091,"Talley","Hermione","Wyoming",39,"Married","Male",5,3,"AVERAGE TOLERANCE",6087746.4
+2093,"Doyle","Larissa","Florida",39,"Single","",5,3,"AVERAGE TOLERANCE",5704410.42
+2095,"Jacobs","Clare","Georgia",39,"Married","",5,3,"AVERAGE TOLERANCE",6991290
+2113,"Cunningham","Hayfa","Colorado",39,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3156457.76
+2127,"Campbell","Micah","Massachusetts",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3317597.58
+2160,"Gibbs","Xena","Alaska",39,"Single","",3,3,"AVERAGE TOLERANCE",2460456.81
+2166,"Hawkins","Aidan","Florida",39,"","Female",2,3,"AVERAGE TOLERANCE",8642038.92
+2169,"Mccarty","Arden","Maryland",39,"Married","Female",2,2,"BELOW AVG TOLERANCE",7688161.72
+2172,"Rosario","Yoko","Illinois",39,"Married","Female",2,3,"AVERAGE TOLERANCE",7275530.16
+2176,"Wynn","Ebony","Georgia",39,"Married","Female",2,2,"BELOW AVG TOLERANCE",8878630.88
+2180,"Fleming","Dana","Texas",39,"Married","Male",2,3,"AVERAGE TOLERANCE",2732111.32
+5505,"Stafford","Iris","Florida",55,"Single","Male",3,3,"AVERAGE TOLERANCE",4200754.77
+5528,"Cortez","Jordan","Georgia",55,"","Male",2,4,"ABOVE AVG TOLERANCE",4632284.26
+4234,"Winters","Clark","Florida",49,"","Male",3,4,"ABOVE AVG TOLERANCE",3913441.48
+4247,"Hoover","Quyn","Ohio",49,"Married","Female",2,3,"AVERAGE TOLERANCE",5639596.79
+4249,"Navarro","Montana","Ohio",49,"Married","Female",2,3,"AVERAGE TOLERANCE",8501090.87
+4253,"Rosario","Quail","Wisconsin",49,"Married","Female",2,3,"AVERAGE TOLERANCE",11373509.98
+4258,"Wise","Justine","Massachusetts",49,"Married","Female",2,2,"BELOW AVG TOLERANCE",12073802.39
+4397,"Mills","Dai","Oregon",50,"","Female",4,3,"AVERAGE TOLERANCE",3674112.76
+4399,"Rivas","Alice","Colorado",50,"Married","Female",4,3,"AVERAGE TOLERANCE",13554479.17
+4403,"William","Fitzgerald","Florida",50,"Married","Female",4,2,"BELOW AVG TOLERANCE",9602584.13
+4411,"Hopkins","Sage","California",50,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5935161.17
+4430,"Alvarado","Ray","Washington",50,"Married","Male",3,2,"BELOW AVG TOLERANCE",8620424.64
+4432,"Curtis","Mason","Massachusetts",50,"","Male",3,4,"ABOVE AVG TOLERANCE",4459185.3
+4479,"Bryan","Melanie","Oregon",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3684341.24
+4480,"Calhoun","Ivy","Florida",50,"Married","Male",2,3,"AVERAGE TOLERANCE",3683235.92
+4492,"Kim","Anastasia","California",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1793826.15
+4496,"Mcfadden","Chancellor","Florida",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2381565.65
+4498,"Pruitt","Donovan","Ohio",50,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3782834.1
+4610,"Vaughan","Chantale","California",51,"Married","Male",5,3,"AVERAGE TOLERANCE",3811001.58
+4613,"Gonzales","Isadora","Florida",51,"Married","",5,3,"AVERAGE TOLERANCE",8248555.3
+4614,"Hardin","Lucian","Texas",51,"Married","",5,3,"AVERAGE TOLERANCE",5891167.29
+4616,"Sweet","Blythe","Kentucky",51,"Single","",5,3,"AVERAGE TOLERANCE",7454439.28
+4624,"Petty","Amber","Oklahoma",51,"","Female",4,3,"AVERAGE TOLERANCE",11305014.34
+4632,"Dale","Lucas","Michigan",51,"Married","Male",4,3,"AVERAGE TOLERANCE",7686578.3
+4692,"Bowers","Pamela","Connecticut",51,"Married","Male",2,3,"AVERAGE TOLERANCE",3987867.68
+4706,"Pope","Camille","California",51,"Married","Female",2,3,"AVERAGE TOLERANCE",8615493.33
+4714,"Cantrell","Chase","Ohio",51,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2691573.41
+4721,"Murphy","Ulla","California",51,"Married","Male",2,2,"BELOW AVG TOLERANCE",4149266.79
+4724,"Villarreal","Amery","Massachusetts",51,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3236690.21
+4861,"Smith","Melvin","Washington",52,"Married","Female",4,3,"AVERAGE TOLERANCE",8371678.05
+4872,"Mckee","Sonia","California",52,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1618946.97
+4905,"Miranda","Deanna","California",52,"Married","Male",3,4,"ABOVE AVG TOLERANCE",6308106.4
+4906,"Parker","Calista","California",52,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3159775.93
+4916,"Kaufman","Mohammad","Maine",52,"Married","Female",2,4,"ABOVE AVG TOLERANCE",10049633.29
+4918,"Lloyd","Raymond","Massachusetts",52,"","Female",2,2,"BELOW AVG TOLERANCE",6694597.72
+4920,"Romero","Dahlia","Michigan",52,"Married","Female",2,3,"AVERAGE TOLERANCE",13388702.98
+4933,"Norton","Aaron","Georgia",52,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3469956.86
+4934,"Perez","Rosalyn","Washington",52,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3928713.32
+4937,"Tyson","Fay","Oregon",52,"Married","Male",2,3,"AVERAGE TOLERANCE",4113005.41
+5031,"Lawson","Dora","Florida",53,"Single","Male",5,3,"AVERAGE TOLERANCE",4677384.79
+5042,"Mckenzie","Montana","Delaware",53,"Single","",5,4,"ABOVE AVG TOLERANCE",6189165.3
+5052,"Keller","Giacomo","Wisconsin",53,"Married","Female",4,2,"BELOW AVG TOLERANCE",6331594.86
+5105,"Kirk","George","California",53,"","Male",3,4,"ABOVE AVG TOLERANCE",3443021.18
+5133,"Short","Cadman","Delaware",53,"Married","Female",2,3,"AVERAGE TOLERANCE",14107397.53
+5140,"Henderson","Grace","California",53,"Married","Male",2,3,"AVERAGE TOLERANCE",4700706.74
+5144,"Norman","Emery","Florida",53,"Divorced","Male",2,3,"AVERAGE TOLERANCE",3476218.47
+5148,"Silva","Giselle","Michigan",53,"Married","Male",2,3,"AVERAGE TOLERANCE",6724395.53
+5152,"Flynn","Hayes","Maryland",53,"Single","",2,3,"AVERAGE TOLERANCE",5073767.65
+5260,"Quinn","Alma","California",54,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2905010.64
+5262,"Tate","Christen","Louisiana",54,"Married","Male",5,3,"AVERAGE TOLERANCE",8464250.19
+5264,"Barr","Ulla","Colorado",54,"Single","",5,3,"AVERAGE TOLERANCE",3472997.26
+5267,"Richard","Adria","Indiana",54,"Single","",5,3,"AVERAGE TOLERANCE",4270849.53
+5283,"Cameron","Rafael","Texas",54,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4687128.55
+5285,"Dunlap","Amelia","Minnesota",54,"","Male",4,4,"ABOVE AVG TOLERANCE",6194767.3
+5298,"Castaneda","Shafira","Florida",54,"Married","Male",3,4,"ABOVE AVG TOLERANCE",7518966.68
+5319,"Spears","Pascale","Florida",54,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3695112.08
+5326,"Figueroa","Nomlanga","Florida",54,"","Female",2,3,"AVERAGE TOLERANCE",7792333.91
+5333,"Pruitt","Avram","Nevada",54,"Married","Female",2,2,"BELOW AVG TOLERANCE",8617254.68
+5334,"Russo","Paula","Florida",54,"","Female",2,3,"AVERAGE TOLERANCE",8860407.26
+5338,"Baldwin","Naida","Maine",54,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3821802.63
+5349,"Stephens","Brenden","Florida",54,"","Male",2,5,"HIGH RISK",7410067.87
+5432,"Klein","Jamal","Virginia",55,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3528357.93
+5445,"Hendricks","Conan","Alabama",55,"Married","",5,3,"AVERAGE TOLERANCE",8561865.6
+5456,"Maddox","Elton","Maryland",55,"Married","Female",4,3,"AVERAGE TOLERANCE",14908338.14
+5459,"Morales","Jamal","California",55,"Married","Female",4,2,"BELOW AVG TOLERANCE",9385747.6
+5463,"Clayton","Abigail","Massachusetts",55,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3301891.68
+5466,"Lancaster","Isabelle","Colorado",55,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",4166121.22
+5474,"Smith","Fleur","Florida",55,"Married","Male",4,2,"BELOW AVG TOLERANCE",3293119.52
+923,"Sims","Hop","Kentucky",34,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2923799.88
+925,"Walter","Sigourney","Florida",34,"","Male",5,4,"ABOVE AVG TOLERANCE",6451545.52
+968,"Bean","Vivian","Florida",34,"Married","Male",3,3,"AVERAGE TOLERANCE",6499467.74
+994,"Mccarthy","Jada","California",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2459015
+998,"Noel","Gannon","Nevada",34,"Married","Male",3,4,"ABOVE AVG TOLERANCE",1759504.13
+1007,"Cash","Trevor","Minnesota",34,"Single","",3,3,"AVERAGE TOLERANCE",5838537.69
+1011,"Silva","Andrew","California",34,"Single","",3,4,"ABOVE AVG TOLERANCE",6272936.28
+1025,"Larson","Steven","Indiana",34,"Married","Female",2,2,"BELOW AVG TOLERANCE",7887963.6
+1029,"Parks","Judith","Delaware",34,"","Female",2,4,"ABOVE AVG TOLERANCE",8513454.48
+1031,"Santana","Kevin","Texas",34,"Married","Female",2,3,"AVERAGE TOLERANCE",10294230.38
+1041,"Hancock","Jin","Massachusetts",34,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3555249.32
+1165,"Lindsey","William","Michigan",35,"","Female",4,4,"ABOVE AVG TOLERANCE",5004220.44
+1176,"Duncan","Dennis","Florida",35,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4493647.44
+1183,"Logan","Cairo","Florida",35,"Married","Male",4,3,"AVERAGE TOLERANCE",3706837.25
+1187,"Mosley","Holmes","Florida",35,"Married","Male",4,3,"AVERAGE TOLERANCE",3607052.92
+1188,"Orr","Basil","Maryland",35,"Married","Male",4,3,"AVERAGE TOLERANCE",7107626.98
+1203,"Bradley","Ignatius","Florida",35,"Married","Male",3,3,"AVERAGE TOLERANCE",7911177.04
+1257,"Gates","Blythe","Kentucky",35,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5004440.21
+1259,"Macias","Baker","Delaware",35,"Single","Male",2,4,"ABOVE AVG TOLERANCE",2230809.84
+1269,"Ellison","Dalton","Florida",35,"Married","",2,3,"AVERAGE TOLERANCE",4294176
+1393,"Kirk","Charity","Maryland",36,"Single","",5,3,"AVERAGE TOLERANCE",4008600.99
+1394,"Powers","Alea","Michigan",36,"Single","",5,3,"AVERAGE TOLERANCE",6365006.46
+1404,"Grant","Maryam","Ohio",36,"Married","Female",4,3,"AVERAGE TOLERANCE",8730073.29
+1415,"Burt","Eliana","Wyoming",36,"Married","Male",4,3,"AVERAGE TOLERANCE",8169866.88
+1427,"Cantrell","Tanisha","Nevada",36,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2576372.54
+1449,"Lester","Dennis","Florida",36,"","Male",3,4,"ABOVE AVG TOLERANCE",3673666.32
+1484,"Dominguez","Brenden","Washington",36,"Married","Male",2,3,"AVERAGE TOLERANCE",4347153.22
+1485,"Duran","Scott","Washington",36,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3957308.87
+1491,"Lopez","Moses","Nevada",36,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2034828.88
+1493,"Mckinney","Shafira","Maryland",36,"Married","Male",2,3,"AVERAGE TOLERANCE",8291208.77
+1500,"Tanner","Boris","Massachusetts",36,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3619136.48
+1501,"Wagner","Azalia","California",36,"Married","Male",2,3,"AVERAGE TOLERANCE",5044021.15
+1607,"Michael","Hannah","California",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2514096.08
+1608,"Morin","Prescott","Michigan",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2671113.56
+1622,"Woods","Jelani","Montana",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1984276.72
+1623,"Bowen","Aline","Alaska",37,"Single","",5,3,"AVERAGE TOLERANCE",6016699.89
+1624,"Cantrell","Yeo","Florida",37,"Married","",5,2,"BELOW AVG TOLERANCE",4172882.52
+2287,"Townsend","Peter","Texas",40,"Married","Male",5,3,"AVERAGE TOLERANCE",3042327.13
+2308,"Barber","Cole","Massachusetts",40,"Married","Male",4,3,"AVERAGE TOLERANCE",6272014.2
+2322,"Livingston","Luke","California",40,"Married","Male",4,2,"BELOW AVG TOLERANCE",9871570.79
+2335,"Buck","Remedios","Florida",40,"Married","Male",3,2,"BELOW AVG TOLERANCE",5924509.21
+2365,"Adams","Hollee","Florida",40,"Single","",3,4,"ABOVE AVG TOLERANCE",3841873.5
+2369,"Delgado","Eaton","Virginia",40,"Married","Female",2,2,"BELOW AVG TOLERANCE",7396753.32
+2386,"Beach","Bo","Colorado",40,"Married","Male",2,3,"AVERAGE TOLERANCE",5360677.45
+2400,"Robles","Aurora","Florida",40,"Single","",2,4,"ABOVE AVG TOLERANCE",3028497.41
+2482,"Mack","Camden","Florida",41,"Single","Male",5,3,"AVERAGE TOLERANCE",3826402.5
+2490,"Wiley","Hedley","Maryland",41,"Married","",5,2,"BELOW AVG TOLERANCE",10046920.37
+2495,"Kane","Cedric","Ohio",41,"Married","Female",4,3,"AVERAGE TOLERANCE",7849821.35
+2504,"Hopper","Hedley","California",41,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3146818.13
+2508,"Oconnor","Mariko","Nevada",41,"Married","Male",4,4,"ABOVE AVG TOLERANCE",5437464.59
+2543,"Noel","Clinton","Kansas",41,"Married","Male",3,4,"ABOVE AVG TOLERANCE",4627272.36
+2546,"Snow","Colby","California",41,"Married","Male",3,3,"AVERAGE TOLERANCE",2553181.7
+2562,"Odonnell","Iris","Nevada",41,"","Female",2,4,"ABOVE AVG TOLERANCE",8712141.38
+2569,"Duncan","Sade","Florida",41,"Married","Male",2,3,"AVERAGE TOLERANCE",6504818.38
+2575,"Melton","Eagan","Indiana",41,"","Male",2,4,"ABOVE AVG TOLERANCE",4536402.99
+2581,"West","Lilah","Michigan",41,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5605459.36
+2679,"Richards","Amity","Georgia",42,"Married","Male",5,3,"AVERAGE TOLERANCE",5961024.44
+2682,"Bartlett","Allegra","Kentucky",42,"Married","",5,4,"ABOVE AVG TOLERANCE",8090796.52
+2693,"Hurley","Orli","Illinois",42,"","Female",4,3,"AVERAGE TOLERANCE",12111175.82
+2699,"Singleton","Cameran","Pennsylvania",42,"Married","Female",4,2,"BELOW AVG TOLERANCE",9800183.12
+2701,"Strong","Ronan","California",42,"Married","Female",4,3,"AVERAGE TOLERANCE",9144669.44
+2703,"Ayers","Maxwell","Massachusetts",42,"","Male",4,5,"HIGH RISK",4738794.45
+2704,"Blevins","Lunea","California",42,"","Male",4,4,"ABOVE AVG TOLERANCE",3922318.39
+2756,"Rosario","Sybil","Ohio",42,"","Male",3,3,"AVERAGE TOLERANCE",6788604.6
+2763,"Buckner","Hiroko","Florida",42,"Married","Male",2,2,"BELOW AVG TOLERANCE",4950188.18
+2764,"Calhoun","Bert","Delaware",42,"","Male",2,4,"ABOVE AVG TOLERANCE",5784398.23
+2772,"Nelson","Eliana","California",42,"Married","Female",2,3,"AVERAGE TOLERANCE",7802453.88
+2774,"Peterson","Veda","Pennsylvania",42,"Single","Female",2,3,"AVERAGE TOLERANCE",5228217.05
+2777,"Calhoun","Leroy","Maine",42,"Married","Male",2,2,"BELOW AVG TOLERANCE",5816698.79
+2790,"Waller","Paki","Connecticut",42,"Single","",2,3,"AVERAGE TOLERANCE",5496364.27
+2885,"Hines","Myles","Maine",43,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2565794.65
+2897,"Mckay","Lee","Florida",43,"Single","",5,3,"AVERAGE TOLERANCE",5352563.61
+2906,"Martinez","Lara","California",43,"Married","Female",4,2,"BELOW AVG TOLERANCE",9099204.52
+2908,"Reilly","Elijah","Michigan",43,"","Female",4,3,"AVERAGE TOLERANCE",9869346.56
+2911,"Austin","Jemima","Connecticut",43,"Married","Male",4,3,"AVERAGE TOLERANCE",3751428.59
+2918,"Ellison","Ian","California",43,"Divorced","Male",4,5,"HIGH RISK",1584346.37
+3586,"Navarro","Eliana","Florida",46,"","Female",4,4,"ABOVE AVG TOLERANCE",4487727.3
+3588,"Schwartz","Lacy","Indiana",46,"","Female",4,1,"LOW-RISK",6424765.91
+3597,"Henson","Clark","Georgia",46,"Married","Male",4,3,"AVERAGE TOLERANCE",6162606.92
+3600,"Moses","Emmanuel","Florida",46,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6094964.7
+3607,"Bruce","Brendan","Maryland",46,"","Male",3,4,"ABOVE AVG TOLERANCE",3225379.44
+3637,"Sharp","Phyllis","Pennsylvania",46,"Married","Male",3,3,"AVERAGE TOLERANCE",6466425.93
+3646,"Carver","Libby","Florida",46,"","Male",2,4,"ABOVE AVG TOLERANCE",4131904.91
+3669,"Rosa","Dillon","Maine",46,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3464173.39
+3670,"Rutledge","Dominique","Massachusetts",46,"Married","Male",2,3,"AVERAGE TOLERANCE",6383767.74
+3776,"Landry","Constance","Florida",47,"Married","Male",5,2,"BELOW AVG TOLERANCE",7277126.54
+3785,"Garza","Rafael","Wisconsin",47,"Single","",5,4,"ABOVE AVG TOLERANCE",2120352.39
+3786,"Kane","Elaine","Florida",47,"Single","",5,4,"ABOVE AVG TOLERANCE",4993066.99
+3816,"Morrison","Dorian","Maryland",47,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6216301.79
+3841,"Joyce","Bianca","Indiana",47,"Married","Male",3,3,"AVERAGE TOLERANCE",3319855.85
+3842,"Love","Buckminster","Florida",47,"Married","Male",3,4,"ABOVE AVG TOLERANCE",8299567.17
+3845,"Olson","Maya","Maine",47,"Married","Male",3,3,"AVERAGE TOLERANCE",5299933.89
+3851,"Hampton","Ruby","Maryland",47,"Single","",3,3,"AVERAGE TOLERANCE",3722627.51
+3860,"Glass","Shelly","California",47,"Married","Female",2,3,"AVERAGE TOLERANCE",9684140.56
+3868,"Wilder","Hakeem","California",47,"","Female",2,3,"AVERAGE TOLERANCE",6318847.53
+3877,"Keller","Keith","Florida",47,"Married","Male",2,3,"AVERAGE TOLERANCE",1802820.73
+3884,"Sandoval","Hannah","Massachusetts",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1679663.44
+3985,"Graham","Calvin","Ohio",48,"Single","",5,2,"BELOW AVG TOLERANCE",6518154.47
+3989,"Wolf","Myra","Maryland",48,"Married","",5,2,"BELOW AVG TOLERANCE",3561680.36
+4006,"Andrews","Cade","Florida",48,"Married","Male",4,2,"BELOW AVG TOLERANCE",2104012.21
+4064,"Cohen","Jescie","Virginia",48,"Married","Male",2,3,"AVERAGE TOLERANCE",5107658.05
+4079,"Dawson","Barry","Florida",48,"Married","Male",2,3,"AVERAGE TOLERANCE",9271755.08
+4090,"Velasquez","Gannon","Florida",48,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2500020.62
+4174,"Strong","Richard","Wyoming",49,"Married","Male",5,3,"AVERAGE TOLERANCE",9010834.16
+4188,"Parrish","Meredith","Pennsylvania",49,"Married","Female",4,2,"BELOW AVG TOLERANCE",13230070.92
+4192,"Ayala","Quail","Virginia",49,"Married","Male",4,3,"AVERAGE TOLERANCE",5655127.11
+4196,"Mendez","Ray","Oklahoma",49,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4880209.36
+2919,"Fleming","Maite","Florida",43,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6413091.86
+2923,"Hawkins","Mia","Washington",43,"Married","Male",4,4,"ABOVE AVG TOLERANCE",4040340.47
+2964,"Mcdaniel","Colorado","Virginia",43,"Married","Male",3,3,"AVERAGE TOLERANCE",7925734.83
+2965,"Mcfadden","Christine","Pennsylvania",43,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2913943.74
+2967,"Meadows","Clio","Florida",43,"Married","Male",3,3,"AVERAGE TOLERANCE",7786698.38
+2980,"Foreman","Karyn","Florida",43,"Married","Female",2,3,"AVERAGE TOLERANCE",7654599.06
+2990,"Whitley","Sylvia","Florida",43,"Married","Female",2,3,"AVERAGE TOLERANCE",4656748.39
+2994,"Drake","Kirk","Virginia",43,"Married","Male",2,3,"AVERAGE TOLERANCE",7977311.56
+2996,"Mcmillan","Olivia","Texas",43,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1972821.83
+3151,"Cooley","Fletcher","Texas",44,"","Male",4,4,"ABOVE AVG TOLERANCE",4946009.65
+3157,"Mitchell","Aristotle","Colorado",44,"Divorced","Male",4,3,"AVERAGE TOLERANCE",1512835.72
+3168,"Rice","Drake","Minnesota",44,"Single","",4,3,"AVERAGE TOLERANCE",4869418.26
+3186,"Jordan","Haley","California",44,"Married","Male",3,3,"AVERAGE TOLERANCE",5348851.62
+3188,"Kelley","Britanni","Maine",44,"Married","Male",3,2,"BELOW AVG TOLERANCE",4671709.06
+3196,"Pierce","Zelda","Florida",44,"Married","Male",3,3,"AVERAGE TOLERANCE",6456500.59
+3205,"Bennett","Chiquita","Texas",44,"Married","Male",2,4,"ABOVE AVG TOLERANCE",6429409.11
+3208,"Garcia","Quinn","Michigan",44,"Married","Female",2,3,"AVERAGE TOLERANCE",9956655.72
+3241,"Chan","Odysseus","California",44,"Married","",2,3,"AVERAGE TOLERANCE",7885521.59
+3345,"Lucas","Nevada","Indiana",45,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1677761.58
+3351,"Warren","Zelda","Connecticut",45,"Married","Male",5,2,"BELOW AVG TOLERANCE",2235905.97
+3363,"Mathis","Geraldine","Georgia",45,"Married","Female",4,3,"AVERAGE TOLERANCE",9309009.44
+3376,"Greene","Akeem","Minnesota",45,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5274620.05
+3379,"Holden","Dylan","Texas",45,"Married","Male",4,3,"AVERAGE TOLERANCE",5143230.57
+3400,"Cooper","Dolan","Washington",45,"","Male",3,4,"ABOVE AVG TOLERANCE",1533956.6
+3401,"Davidson","Nerea","Michigan",45,"Married","Female",3,3,"AVERAGE TOLERANCE",9235028.4
+3418,"Jimenez","Macey","Virginia",45,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1093427.94
+3424,"Ray","Rebecca","Massachusetts",45,"Married","Male",3,3,"AVERAGE TOLERANCE",3125589.35
+3439,"Rivers","Imelda","Maryland",45,"Single","Female",2,3,"AVERAGE TOLERANCE",5260138.01
+3453,"Mathis","George","Kentucky",45,"Married","Male",2,3,"AVERAGE TOLERANCE",5347620.12
+3460,"Terry","Savannah","Georgia",45,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1494128.24
+1642,"Rosales","Keiko","Florida",37,"Married","Female",4,2,"BELOW AVG TOLERANCE",6752969
+1650,"Franco","Justin","Indiana",37,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1890162.48
+1654,"Mcmahon","Phelan","Nevada",37,"","Male",4,4,"ABOVE AVG TOLERANCE",4948992.96
+1686,"Henderson","Finn","Wyoming",37,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5322929.11
+1689,"Pope","Dale","Texas",37,"Married","Male",3,3,"AVERAGE TOLERANCE",5369810.01
+1701,"Conway","Mercedes","Georgia",37,"Married","Male",2,3,"AVERAGE TOLERANCE",3051841.35
+1705,"Flowers","Ryan","California",37,"Married","Female",2,3,"AVERAGE TOLERANCE",7057581.56
+1723,"Farrell","Kennedy","California",37,"Married","Male",2,3,"AVERAGE TOLERANCE",1807540.03
+1834,"Salazar","Erasmus","Colorado",38,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3805837.64
+1840,"Reid","Merrill","Minnesota",38,"Single","",5,4,"ABOVE AVG TOLERANCE",4647639.15
+1858,"Sheppard","Alisa","Pennsylvania",38,"Married","Female",4,3,"AVERAGE TOLERANCE",4037578.56
+1874,"Jones","Charles","Minnesota",38,"Married","Male",4,3,"AVERAGE TOLERANCE",7511378.39
+1909,"Robinson","Yardley","Georgia",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2037702.84
+1911,"Sanders","Sean","Pennsylvania",38,"","Male",3,4,"ABOVE AVG TOLERANCE",4863080.88
+1928,"Gonzales","Emma","Washington",38,"","Female",2,4,"ABOVE AVG TOLERANCE",7532953.8
+1930,"Hatfield","Hannah","Florida",38,"Married","Female",2,3,"AVERAGE TOLERANCE",9298352.16
+1934,"King","Timon","Georgia",38,"Married","Female",2,4,"ABOVE AVG TOLERANCE",8876657.53
+1949,"Crane","Oprah","Florida",38,"Married","Male",2,3,"AVERAGE TOLERANCE",4669076.84
+1950,"Dillard","Oliver","Massachusetts",38,"Married","Male",2,4,"ABOVE AVG TOLERANCE",3016460.54
+1955,"Lucas","Chanda","Florida",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1257455.2
+1959,"Murray","Elaine","Maryland",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2130357.36
+1966,"Watts","Karly","Indiana",38,"","Male",2,4,"ABOVE AVG TOLERANCE",4301893.76
+1968,"Noble","Gemma","Washington",38,"Single","",2,4,"ABOVE AVG TOLERANCE",4755997.53
+1970,"Rich","Florence","Maryland",38,"Single","",2,4,"ABOVE AVG TOLERANCE",5017088.07
+2089,"Norman","Amir","Michigan",39,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5002687.94
+2165,"Dominguez","Abel","Florida",39,"Single","Female",2,4,"ABOVE AVG TOLERANCE",6441595.62
+2175,"Vega","Quintessa","Texas",39,"Married","Female",2,3,"AVERAGE TOLERANCE",7335893.67
+2182,"Leonard","Candace","Florida",39,"","Male",2,4,"ABOVE AVG TOLERANCE",2788738.88
+2193,"Ware","Whoopi","Florida",39,"Single","",2,3,"AVERAGE TOLERANCE",4679069.04
+5506,"Swanson","Adrienne","California",55,"Married","Male",3,3,"AVERAGE TOLERANCE",8117201.2
+5507,"Travis","Ariel","Florida",55,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2970014.06
+5508,"Valencia","Merritt","Washington",55,"Married","Male",3,3,"AVERAGE TOLERANCE",6441197.99
+5512,"Wolfe","Tana","Washington",55,"Single","",3,3,"AVERAGE TOLERANCE",6154131.15
+5523,"Baldwin","Forrest","Nevada",55,"Married","Male",2,3,"AVERAGE TOLERANCE",9568647.49
+5529,"Craft","Adara","Maryland",55,"Married","Male",2,2,"BELOW AVG TOLERANCE",6467384.79
+5534,"Leach","Forrest","Nevada",55,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2650919.18
+4242,"Conway","Cleo","Massachusetts",49,"Married","Male",2,3,"AVERAGE TOLERANCE",6658988.37
+4245,"Gonzalez","Jonas","California",49,"Married","Female",2,2,"BELOW AVG TOLERANCE",7430215.8
+4255,"Sykes","Kaseem","California",49,"Married","Female",2,3,"AVERAGE TOLERANCE",6619669.38
+4256,"Tillman","Susan","Ohio",49,"Married","Female",2,3,"AVERAGE TOLERANCE",6888665.21
+4270,"Moses","Lev","California",49,"","Male",2,2,"BELOW AVG TOLERANCE",6000014.68
+4372,"Hull","Martena","Florida",50,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3732991.63
+4383,"Roberson","Zenia","Illinois",50,"Single","",5,1,"LOW-RISK",6233427.57
+4394,"Jordan","Stacy","Maryland",50,"Married","Female",4,3,"AVERAGE TOLERANCE",12488238.55
+4400,"Rivers","Faith","Colorado",50,"","Female",4,4,"ABOVE AVG TOLERANCE",5163186.53
+4413,"Livingston","Lareina","California",50,"","Male",4,4,"ABOVE AVG TOLERANCE",4572617.66
+4426,"Steele","Steel","Florida",50,"Single","",4,3,"AVERAGE TOLERANCE",6258801.54
+4427,"Vaughan","Julie","Louisiana",50,"Married","",4,3,"AVERAGE TOLERANCE",7861049.28
+4478,"Blair","Nola","Michigan",50,"Married","Male",2,4,"ABOVE AVG TOLERANCE",3419374
+4485,"Fischer","Jael","Florida",50,"Married","Male",2,3,"AVERAGE TOLERANCE",6160624.47
+4497,"Peck","Ross","Florida",50,"","Male",2,2,"BELOW AVG TOLERANCE",6551088.67
+4499,"Pugh","Chava","Virginia",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1810453.97
+4504,"Short","Cally","Maryland",50,"","Male",2,4,"ABOVE AVG TOLERANCE",3249214.38
+4505,"Vazquez","McKenzie","Kentucky",50,"Married","Male",2,3,"AVERAGE TOLERANCE",7714858.99
+4650,"Ruiz","Jonas","Florida",51,"Married","",4,4,"ABOVE AVG TOLERANCE",5596772.54
+4653,"Carroll","Joshua","California",51,"Married","Male",3,3,"AVERAGE TOLERANCE",9775458.56
+4675,"Lawson","Gavin","Kentucky",51,"","Male",3,4,"ABOVE AVG TOLERANCE",3186628.61
+4685,"Wyatt","Fredericka","Illinois",51,"Married","Male",3,3,"AVERAGE TOLERANCE",5339249.17
+4691,"Allen","Karly","California",51,"Married","Male",2,4,"ABOVE AVG TOLERANCE",5166002.53
+4698,"French","Acton","Maine",51,"","Female",2,3,"AVERAGE TOLERANCE",5034247.05
+4701,"Kidd","Theodore","California",51,"Married","Female",2,3,"AVERAGE TOLERANCE",7606440.18
+4705,"Oneill","Dana","Ohio",51,"","Female",2,3,"AVERAGE TOLERANCE",9120102.34
+4710,"Ayala","Quail","Ohio",51,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1566085.24
+4829,"Mcclain","Warren","Oregon",52,"Married","Male",5,3,"AVERAGE TOLERANCE",7529215.22
+4859,"Murphy","Leilani","Minnesota",52,"","Female",4,2,"BELOW AVG TOLERANCE",11231964.56
+4862,"Allen","Dale","Oklahoma",52,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6159109.28
+4863,"Anderson","Xaviera","Delaware",52,"Married","Male",4,3,"AVERAGE TOLERANCE",6842920.67
+4875,"Nichols","Beatrice","California",52,"Single","Male",4,3,"AVERAGE TOLERANCE",2370642.35
+4885,"Brennan","Judah","Massachusetts",52,"Married","Male",3,3,"AVERAGE TOLERANCE",9860334.45
+4888,"Doyle","Cole","Oklahoma",52,"Married","Female",3,3,"AVERAGE TOLERANCE",6641187.66
+4901,"Hogan","Kyra","Nebraska",52,"Married","Male",3,3,"AVERAGE TOLERANCE",5635240.71
+4910,"Carey","Ariel","Maryland",52,"Single","",3,4,"ABOVE AVG TOLERANCE",3519792.24
+4913,"Carpenter","Abbot","Georgia",52,"Married","Male",2,3,"AVERAGE TOLERANCE",7474727.58
+5033,"Mcclure","Palmer","California",53,"Married","Male",5,3,"AVERAGE TOLERANCE",6729706.25
+5040,"Fulton","Allistair","Oregon",53,"Single","",5,4,"ABOVE AVG TOLERANCE",4123598.65
+5051,"James","Cameran","Michigan",53,"","Female",4,3,"AVERAGE TOLERANCE",11866595.91
+5063,"Whitaker","Rafael","Florida",53,"Married","Female",4,3,"AVERAGE TOLERANCE",9030681.28
+5067,"Brock","Angelica","Colorado",53,"","Male",4,4,"ABOVE AVG TOLERANCE",2404616.94
+5074,"Holt","Plato","Georgia",53,"Single","Male",4,5,"HIGH RISK",6433681.4
+5090,"Clemons","Miranda","Florida",53,"Married","Male",3,4,"ABOVE AVG TOLERANCE",5324192.06
+5109,"Miranda","Orson","Virginia",53,"Married","Male",3,3,"AVERAGE TOLERANCE",4528644.01
+5111,"Parsons","James","Pennsylvania",53,"Married","Male",3,2,"BELOW AVG TOLERANCE",4382980.55
+5114,"Tanner","Ria","Virginia",53,"Single","Male",3,5,"HIGH RISK",5850966.45
+5115,"Todd","Maite","Georgia",53,"Married","Male",3,4,"ABOVE AVG TOLERANCE",5684699.05
+5121,"Cherry","Chase","Florida",53,"Married","Male",2,3,"AVERAGE TOLERANCE",6120598.35
+5125,"Kemp","Diana","Florida",53,"","Female",2,4,"ABOVE AVG TOLERANCE",11733657.12
+5136,"Benjamin","Desirae","Florida",53,"Married","Male",2,3,"AVERAGE TOLERANCE",5079399.22
+5141,"Logan","Sandra","California",53,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2745494.31
+5150,"Wolf","Jackson","Kentucky",53,"Married","Male",2,2,"BELOW AVG TOLERANCE",7254417.14
+5258,"Melton","Cheryl","California",54,"","Male",5,3,"AVERAGE TOLERANCE",3747058.47
+5274,"Herman","Nolan","Massachusetts",54,"Married","Female",4,3,"AVERAGE TOLERANCE",3214752.88
+5277,"Rodgers","Gannon","Maryland",54,"Married","Female",4,2,"BELOW AVG TOLERANCE",13401580.9
+5284,"Case","Salvador","California",54,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1394074.71
+5287,"Hale","Lacey","Florida",54,"Married","Male",4,2,"BELOW AVG TOLERANCE",9196444.23
+5291,"Mcmahon","Britanni","Maryland",54,"Divorced","Male",4,3,"AVERAGE TOLERANCE",2527056.14
+5299,"Clay","Geoffrey","Ohio",54,"","Male",3,4,"ABOVE AVG TOLERANCE",6242001.31
+5313,"Huff","Melinda","Florida",54,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2977263.12
+5315,"Nguyen","Abraham","Maine",54,"Married","Male",3,3,"AVERAGE TOLERANCE",10383670.54
+5316,"Pace","Chanda","Colorado",54,"Divorced","Male",3,3,"AVERAGE TOLERANCE",2978039.27
+5322,"Mejia","Timothy","Florida",54,"Single","",3,5,"HIGH RISK",4426458.4
+5324,"Riggs","Lawrence","Nevada",54,"Single","",3,4,"ABOVE AVG TOLERANCE",5478661.05
+5332,"Peters","Winter","Delaware",54,"","Female",2,3,"AVERAGE TOLERANCE",5113663.92
+5348,"Riley","Porter","Massachusetts",54,"Married","Male",2,3,"AVERAGE TOLERANCE",6341953.2
+5350,"Talley","Noel","Alaska",54,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2829217.69
+5352,"Burns","Lois","Florida",54,"Single","",2,2,"BELOW AVG TOLERANCE",6712676.29
+5354,"Winters","Nigel","Florida",54,"Married","",2,2,"BELOW AVG TOLERANCE",10729747.58
+5435,"Pacheco","Anjolie","Connecticut",55,"Divorced","Male",5,3,"AVERAGE TOLERANCE",1057204.75
+5438,"Pope","Portia","Florida",55,"Married","Male",5,3,"AVERAGE TOLERANCE",9446306.81
+5453,"Holt","Anne","Pennsylvania",55,"Married","Female",4,3,"AVERAGE TOLERANCE",9702615.28
+5465,"Kent","Angelica","Missouri",55,"Single","Male",4,3,"AVERAGE TOLERANCE",5138251.55
+5479,"Olson","Fleur","Texas",55,"Single","",4,3,"AVERAGE TOLERANCE",3118155.8
+5502,"Parsons","Liberty","Florida",55,"","Male",3,4,"ABOVE AVG TOLERANCE",5793630.71
+918,"Navarro","Jack","Maryland",34,"Married","Male",5,3,"AVERAGE TOLERANCE",8131045.63
+941,"Newman","Whitney","Colorado",34,"Married","Female",4,3,"AVERAGE TOLERANCE",4846498.42
+942,"Noble","Dorian","Kentucky",34,"Married","Female",4,3,"AVERAGE TOLERANCE",7486132.75
+955,"Foster","Amela","Ohio",34,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3481339.04
+967,"Whitehead","Allistair","Illinois",34,"Single","",4,4,"ABOVE AVG TOLERANCE",3998023.02
+971,"Contreras","Catherine","California",34,"Married","Male",3,3,"AVERAGE TOLERANCE",3298595.9
+995,"Mcclain","Aiko","Florida",34,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3495188.17
+1004,"Ware","Beatrice","Michigan",34,"Married","Male",3,3,"AVERAGE TOLERANCE",6371246.88
+1009,"Hammond","Lane","Florida",34,"Single","",3,3,"AVERAGE TOLERANCE",4344727.41
+1022,"Grant","Victoria","Kentucky",34,"Married","Female",2,3,"AVERAGE TOLERANCE",8730975.88
+1024,"Kerr","Freya","Illinois",34,"Single","Female",2,4,"ABOVE AVG TOLERANCE",5106422.08
+1026,"Newman","William","Pennsylvania",34,"Married","Female",2,3,"AVERAGE TOLERANCE",8830559.96
+1028,"Nieves","Darryl","Delaware",34,"","Female",2,3,"AVERAGE TOLERANCE",10462403.88
+1030,"Rosales","Ulla","Ohio",34,"Married","Female",2,3,"AVERAGE TOLERANCE",7017696.72
+1032,"Sherman","Adara","Indiana",34,"Married","Female",2,2,"BELOW AVG TOLERANCE",8243254.37
+1047,"Juarez","Stuart","Arizona",34,"Married","",2,3,"AVERAGE TOLERANCE",7512641.28
+1143,"Oneill","Lana","California",35,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1867085.64
+1148,"Rosales","Darrel","Oregon",35,"Married","Male",5,3,"AVERAGE TOLERANCE",5216308.04
+1152,"Velazquez","Glenna","Oregon",35,"","Male",5,4,"ABOVE AVG TOLERANCE",3531159.28
+1170,"Simpson","Adele","Georgia",35,"Single","Female",4,3,"AVERAGE TOLERANCE",3432549.2
+1175,"Doyle","Brady","Georgia",35,"Married","Male",4,3,"AVERAGE TOLERANCE",6586120.99
+1182,"Lewis","Raven","Connecticut",35,"Married","Male",4,3,"AVERAGE TOLERANCE",7509073.35
+1202,"Austin","Dawn","Maryland",35,"Married","Male",3,3,"AVERAGE TOLERANCE",3158960.74
+1224,"Hobbs","Vaughan","Wyoming",35,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2398674.04
+1228,"Payne","Dominic","Massachusetts",35,"Married","Male",3,3,"AVERAGE TOLERANCE",4832281.15
+1238,"Blackwell","Shana","Connecticut",35,"","Male",2,4,"ABOVE AVG TOLERANCE",4454114.24
+1243,"Roach","Mikayla","Oregon",35,"","Female",2,4,"ABOVE AVG TOLERANCE",8005825.44
+1258,"Hardy","Maggie","Pennsylvania",35,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1368763.72
+1270,"Miller","Indigo","Wisconsin",35,"Married","",2,2,"BELOW AVG TOLERANCE",9672654
+1385,"Melendez","Hedda","Wyoming",36,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2998028.95
+1395,"Tate","Bell","Texas",36,"Single","",5,3,"AVERAGE TOLERANCE",4910595.48
+1425,"Tyson","Constance","Massachusetts",36,"Single","",4,4,"ABOVE AVG TOLERANCE",7382438.1
+1453,"Owens","Steel","Maryland",36,"Married","Male",3,3,"AVERAGE TOLERANCE",6414244.14
+1456,"Richard","Hayes","Virginia",36,"Married","Male",3,3,"AVERAGE TOLERANCE",4387239.17
+1465,"Mcguire","Omar","Nevada",36,"Married","",3,4,"ABOVE AVG TOLERANCE",9867150.12
+1486,"Fulton","Lacota","Kentucky",36,"Married","Male",2,3,"AVERAGE TOLERANCE",5794780.33
+1488,"Harris","Dara","Connecticut",36,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3485905.96
+1490,"Jarvis","Zephr","Florida",36,"Married","Male",2,3,"AVERAGE TOLERANCE",3629470.28
+1614,"Rhodes","Boris","Maryland",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1449250.4
+2289,"Durham","Zia","Illinois",40,"Single","",5,3,"AVERAGE TOLERANCE",6008366.83
+2306,"Sutton","Sylvester","California",40,"Married","Female",4,3,"AVERAGE TOLERANCE",4713307
+2348,"Hoffman","Chantale","Texas",40,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3395325.92
+2360,"Rush","Lyle","Nevada",40,"Married","Male",3,3,"AVERAGE TOLERANCE",8490448.99
+2362,"Stevens","Carl","Ohio",40,"Single","Male",3,4,"ABOVE AVG TOLERANCE",7268562.98
+2364,"Watts","Barbara","Florida",40,"Married","Male",3,3,"AVERAGE TOLERANCE",8011258.15
+2384,"Aguilar","Hoyt","Connecticut",40,"Single","Male",2,3,"AVERAGE TOLERANCE",5273437.59
+2385,"Barnett","Rooney","Oregon",40,"Married","Male",2,3,"AVERAGE TOLERANCE",7978735.15
+2387,"Cabrera","Chaim","Pennsylvania",40,"Married","Male",2,3,"AVERAGE TOLERANCE",8673499.19
+2389,"Ferrell","Amir","Maryland",40,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2698132.54
+2390,"Flores","Katell","Massachusetts",40,"","Male",2,4,"ABOVE AVG TOLERANCE",5659979.61
+2397,"Williamson","Sydnee","Alabama",40,"Married","Male",2,2,"BELOW AVG TOLERANCE",5546770.64
+2481,"Lynn","Beau","Florida",41,"Married","Male",5,3,"AVERAGE TOLERANCE",6170708.54
+2499,"Bauer","Leandra","Maryland",41,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4393699.75
+2505,"Hull","Darrel","California",41,"Married","Male",4,3,"AVERAGE TOLERANCE",8569935.47
+2515,"Spencer","Harding","Delaware",41,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2688482.46
+2525,"Dillon","Germaine","Indiana",41,"Married","Female",3,3,"AVERAGE TOLERANCE",5796042.59
+2544,"Perez","Hope","Delaware",41,"Married","Male",3,3,"AVERAGE TOLERANCE",4866675.27
+2550,"West","Benjamin","Florida",41,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2349144.25
+2559,"Hays","Tamara","Florida",41,"","Female",2,3,"AVERAGE TOLERANCE",5126537.71
+2565,"Sullivan","Imogene","Florida",41,"Married","Female",2,3,"AVERAGE TOLERANCE",8075784.65
+2572,"Justice","Brenda","California",41,"","Male",2,4,"ABOVE AVG TOLERANCE",5968814.1
+2685,"Merritt","Pandora","Pennsylvania",42,"Married","",5,3,"AVERAGE TOLERANCE",8724253.16
+2707,"Frank","Adria","Florida",42,"Married","Male",4,2,"BELOW AVG TOLERANCE",5894461.05
+2709,"Henson","Maris","Maryland",42,"","Male",4,4,"ABOVE AVG TOLERANCE",5460913.75
+2728,"Delacruz","Hiram","California",42,"Single","Female",3,3,"AVERAGE TOLERANCE",6199114.68
+2753,"Leach","Rae","Illinois",42,"Married","Male",3,2,"BELOW AVG TOLERANCE",4715984.48
+2755,"Mcneil","Cecilia","Nebraska",42,"Divorced","Male",3,3,"AVERAGE TOLERANCE",1432246.68
+2759,"Higgins","Fiona","Montana",42,"Single","",3,2,"BELOW AVG TOLERANCE",6810497.31
+2788,"Waters","Brent","Michigan",42,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3032070.54
+2789,"Alvarado","Urielle","Delaware",42,"Single","",2,4,"ABOVE AVG TOLERANCE",4983873.43
+2888,"Howard","Magee","California",43,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5510456.74
+2889,"May","Christine","Wyoming",43,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1360044.01
+2892,"Weeks","Aphrodite","Ohio",43,"Married","Male",5,2,"BELOW AVG TOLERANCE",4773248.3
+2904,"Harvey","Cally","California",43,"Married","Female",4,3,"AVERAGE TOLERANCE",10059662.76
+3568,"Mathis","Yuli","Florida",46,"Married","Male",5,2,"BELOW AVG TOLERANCE",6543790.07
+3570,"Pearson","Tanner","Maryland",46,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1746988.85
+3596,"Hansen","Emerald","Iowa",46,"Divorced","Male",4,5,"HIGH RISK",2828192.92
+3641,"Dudley","Ahmed","Nevada",46,"Single","",3,3,"AVERAGE TOLERANCE",5953474.4
+3642,"Gaines","Aladdin","Delaware",46,"Single","",3,3,"AVERAGE TOLERANCE",6837675.97
+3644,"Patrick","Molly","Florida",46,"Married","",3,3,"AVERAGE TOLERANCE",9111141.2
+3649,"Gilbert","Odysseus","Massachusetts",46,"","Female",2,3,"AVERAGE TOLERANCE",5602620.68
+3651,"Hanson","Nash","Colorado",46,"","Female",2,3,"AVERAGE TOLERANCE",3249345.39
+3660,"Cotton","Carla","Florida",46,"Married","Male",2,3,"AVERAGE TOLERANCE",7233566.74
+3666,"Oneal","Xenos","Florida",46,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2324848.23
+3671,"Snider","Nola","Florida",46,"Married","Male",2,2,"BELOW AVG TOLERANCE",4214141.82
+3673,"Weiss","Nicholas","Delaware",46,"Single","Male",2,4,"ABOVE AVG TOLERANCE",6785915.87
+3676,"Mendez","Warren","Alabama",46,"Single","",2,4,"ABOVE AVG TOLERANCE",7969897.19
+3778,"Roy","Ulric","Ohio",47,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5860591.55
+3780,"Tate","Shannon","Virginia",47,"","Male",5,4,"ABOVE AVG TOLERANCE",6026549.15
+3781,"Carpenter","Sasha","Nevada",47,"Single","",5,2,"BELOW AVG TOLERANCE",5742907.73
+3782,"David","Paloma","Maine",47,"Married","",5,2,"BELOW AVG TOLERANCE",3971021.21
+3792,"Golden","Camille","Connecticut",47,"","Female",4,3,"AVERAGE TOLERANCE",7023041.26
+3793,"Hendrix","Rylee","Indiana",47,"","Female",4,3,"AVERAGE TOLERANCE",9140537.88
+3797,"Marquez","Patience","Arizona",47,"Married","Female",4,3,"AVERAGE TOLERANCE",9587977.83
+3806,"Blanchard","Bo","Indiana",47,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3182396.34
+3827,"Reilly","Daniel","California",47,"Single","",4,4,"ABOVE AVG TOLERANCE",6302896.1
+3846,"Sampson","Alexis","Connecticut",47,"Married","Male",3,2,"BELOW AVG TOLERANCE",4113690.67
+3847,"Scott","Zia","California",47,"","Male",3,4,"ABOVE AVG TOLERANCE",4150870.51
+3849,"Wheeler","Regan","Ohio",47,"Single","Male",3,4,"ABOVE AVG TOLERANCE",6060031.4
+3858,"Cummings","Charissa","Michigan",47,"Married","Male",2,4,"ABOVE AVG TOLERANCE",7953713.85
+3862,"Lancaster","Haviva","Michigan",47,"Married","Female",2,3,"AVERAGE TOLERANCE",5134992.98
+3882,"Rivers","Lucas","Ohio",47,"Married","Male",2,3,"AVERAGE TOLERANCE",3416818.42
+3888,"Robles","Cecilia","Washington",47,"Single","",2,2,"BELOW AVG TOLERANCE",7143274.42
+3979,"Stevens","Cassady","Pennsylvania",48,"Married","Male",5,4,"ABOVE AVG TOLERANCE",6847683.11
+3980,"Suarez","Leslie","Wyoming",48,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1257110.32
+3986,"Hyde","Quyn","Delaware",48,"Married","",5,3,"AVERAGE TOLERANCE",8654461.34
+4013,"Howard","Zia","Massachusetts",48,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4055815.84
+4025,"Robinson","Mallory","Maryland",48,"Married","",4,3,"AVERAGE TOLERANCE",7217185.8
+4062,"Barnett","Winifred","Kentucky",48,"Married","Male",2,3,"AVERAGE TOLERANCE",4584268.03
+4068,"Rowe","Quyn","California",48,"Married","Female",2,3,"AVERAGE TOLERANCE",8812593.34
+4173,"Stout","Sebastian","Maryland",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3465689.67
+4175,"Cox","Penelope","Florida",49,"Single","",5,3,"AVERAGE TOLERANCE",5951002.16
+4186,"Lynn","Dexter","Florida",49,"Married","Female",4,3,"AVERAGE TOLERANCE",7491234.01
+4206,"Moss","Gisela","Colorado",49,"Single","",4,2,"BELOW AVG TOLERANCE",6253293.62
+4208,"Bentley","Kennan","Massachusetts",49,"Married","Male",3,3,"AVERAGE TOLERANCE",8529633.66
+2922,"Griffith","Kato","Texas",43,"","Male",4,3,"AVERAGE TOLERANCE",6448148.88
+2925,"Hogan","Brandon","Colorado",43,"Married","Male",4,3,"AVERAGE TOLERANCE",4343971
+2926,"Lancaster","Caesar","Florida",43,"","Male",4,4,"ABOVE AVG TOLERANCE",4620465.43
+2946,"Cummings","Rafael","Texas",43,"","Male",3,4,"ABOVE AVG TOLERANCE",4045896.62
+2947,"Dodson","Sade","Michigan",43,"Married","Female",3,3,"AVERAGE TOLERANCE",9652452.32
+2974,"Vega","Abra","Tennessee",43,"Divorced","Male",3,5,"HIGH RISK",2748721.45
+2975,"Dillard","Mollie","Virginia",43,"Married","",3,3,"AVERAGE TOLERANCE",7130260.1
+2977,"Hoffman","Gail","Indiana",43,"Single","",3,3,"AVERAGE TOLERANCE",3450175.64
+2981,"Gibson","Vance","Wisconsin",43,"","Female",2,3,"AVERAGE TOLERANCE",8616330.63
+2988,"Rich","Calista","Florida",43,"Married","Female",2,3,"AVERAGE TOLERANCE",5973451.7
+3002,"Waters","Kenyon","Florida",43,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3839305.15
+3003,"Russell","Kareem","Oklahoma",43,"Single","",2,4,"ABOVE AVG TOLERANCE",2881926.92
+3124,"Ballard","Alisa","Delaware",44,"Married","",5,3,"AVERAGE TOLERANCE",4808558.83
+3136,"Golden","Dawn","Arizona",44,"","Female",4,4,"ABOVE AVG TOLERANCE",10051076.5
+3153,"Goodwin","Ivor","Kansas",44,"Married","Male",4,3,"AVERAGE TOLERANCE",7785122.83
+3156,"Harper","Keefe","Maine",44,"Single","Male",4,5,"HIGH RISK",2076820.73
+3172,"Delaney","Vanna","Florida",44,"Single","Female",3,3,"AVERAGE TOLERANCE",6795276.23
+3189,"Kelly","Jada","California",44,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4553794.55
+3200,"Solomon","Michael","Florida",44,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2760436.49
+3203,"Yates","Hermione","Kentucky",44,"Single","",3,3,"AVERAGE TOLERANCE",7570941.84
+3206,"Boyd","Whitney","Connecticut",44,"","Male",2,4,"ABOVE AVG TOLERANCE",7128469.05
+3207,"Copeland","Keegan","Florida",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3826410.19
+3218,"Pitts","Mira","Texas",44,"Married","Female",2,3,"AVERAGE TOLERANCE",5373281.55
+3220,"Stevenson","Luke","Oregon",44,"Married","Female",2,2,"BELOW AVG TOLERANCE",12374510.38
+3230,"Navarro","Berk","Pennsylvania",44,"","Male",2,4,"ABOVE AVG TOLERANCE",5690818.14
+3233,"Parrish","Noelani","Florida",44,"","Male",2,4,"ABOVE AVG TOLERANCE",4392137.12
+3348,"Rios","Isabelle","Nevada",45,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1797377.31
+3355,"Elliott","Sara","California",45,"Married","",5,3,"AVERAGE TOLERANCE",7674643.14
+3356,"Savage","Ocean","Massachusetts",45,"Single","",5,3,"AVERAGE TOLERANCE",4202492.19
+3364,"Mcclure","Sybil","Michigan",45,"Married","Female",4,2,"BELOW AVG TOLERANCE",9320587.53
+3382,"Mathews","Skyler","Oklahoma",45,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2481231.01
+3395,"Ray","Josephine","Connecticut",45,"Single","",4,3,"AVERAGE TOLERANCE",3916938.37
+3419,"Joyner","Nolan","Oklahoma",45,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2527939.61
+3427,"Sandoval","Zeus","Minnesota",45,"Single","Male",3,3,"AVERAGE TOLERANCE",2076549.72
+3428,"Sanford","Quynn","Ohio",45,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2414942.21
+3449,"Glass","Jordan","Florida",45,"","Male",2,3,"AVERAGE TOLERANCE",4957515.2
+3451,"Johns","Zachery","Illinois",45,"Married","Male",2,3,"AVERAGE TOLERANCE",6721767.89
+3457,"Pena","Jordan","Florida",45,"Married","Male",2,3,"AVERAGE TOLERANCE",6296915.54
+3462,"Williamson","Brynne","Wisconsin",45,"","Male",2,3,"AVERAGE TOLERANCE",2181840.59
+1636,"Kirk","Howard","Pennsylvania",37,"Married","Female",4,3,"AVERAGE TOLERANCE",9739092.82
+1645,"Baker","Macey","Wyoming",37,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2457368.8
+1646,"Carrillo","Aquila","Florida",37,"Married","Male",4,3,"AVERAGE TOLERANCE",6728812.13
+1688,"Peck","Cailin","Pennsylvania",37,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1244930.12
+1710,"Shields","Bethany","Florida",37,"Married","Female",2,3,"AVERAGE TOLERANCE",8606289.16
+1713,"Ward","Jena","Massachusetts",37,"","Female",2,4,"ABOVE AVG TOLERANCE",8327013
+1716,"Andrews","Alan","Florida",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4731217.71
+1724,"Franklin","Brent","Massachusetts",37,"Married","Male",2,3,"AVERAGE TOLERANCE",1783847.8
+1739,"Goodwin","Mercedes","Maryland",37,"Married","",2,3,"AVERAGE TOLERANCE",10066690.8
+1830,"Jackson","Colette","Oregon",38,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2946257.29
+1831,"Joyce","Violet","Ohio",38,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5051759.11
+1832,"Joyner","Gisela","Nevada",38,"Married","Male",5,3,"AVERAGE TOLERANCE",5596378.26
+1857,"Peters","Hadley","California",38,"","Female",4,4,"ABOVE AVG TOLERANCE",6743169.48
+1862,"Barker","Haviva","Florida",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2821437.56
+1865,"Booth","Vera","Texas",38,"Married","Male",4,2,"BELOW AVG TOLERANCE",7785337.91
+1866,"Bright","Faith","Texas",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3786804.96
+1868,"Fox","Paki","Maine",38,"Married","Male",4,3,"AVERAGE TOLERANCE",5598524.64
+1869,"Frazier","Kaitlin","Florida",38,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5060678.05
+1872,"Higgins","Courtney","Kentucky",38,"Married","Male",4,3,"AVERAGE TOLERANCE",6227277.5
+1883,"Daniel","Demetria","Florida",38,"Married","Male",3,3,"AVERAGE TOLERANCE",3763485.71
+1914,"Terrell","Aurora","Nevada",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5073089.9
+1921,"Cooley","Matthew","Arizona",38,"Single","",3,2,"BELOW AVG TOLERANCE",4760505.63
+1941,"Shaffer","Maia","Florida",38,"","Female",2,3,"AVERAGE TOLERANCE",5701947.6
+1951,"Franks","Nolan","Texas",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2352925.08
+1954,"Leonard","Naida","California",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2180595.2
+1960,"Nguyen","Ulric","Oregon",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4231629
+1963,"Shelton","Ashton","California",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3202011.87
+1972,"Walsh","Oren","Virginia",38,"Single","",2,4,"ABOVE AVG TOLERANCE",7001974.26
+2092,"Williamson","Burton","Florida",39,"Married","Male",5,4,"ABOVE AVG TOLERANCE",3854916.95
+2109,"Barton","Dorothy","Florida",39,"","Male",4,4,"ABOVE AVG TOLERANCE",3460367.84
+2128,"Curry","Naomi","Florida",39,"","Male",3,4,"ABOVE AVG TOLERANCE",4212278.88
+2147,"Leon","Pandora","Virginia",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4205928.82
+2148,"Logan","Kimberly","Texas",39,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1804786.12
+2150,"Ross","Abel","Oregon",39,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2808518.2
+2159,"Crosby","Victoria","Florida",39,"Single","",3,3,"AVERAGE TOLERANCE",4921483.77
+2163,"Baxter","Azalia","Wisconsin",39,"Married","Male",2,3,"AVERAGE TOLERANCE",3277942.75
+2164,"Chaney","Kai","Virginia",39,"Married","Male",2,3,"AVERAGE TOLERANCE",6592324.32
+2192,"Keith","Hayley","Maryland",39,"Single","",2,3,"AVERAGE TOLERANCE",7415128.98
+5509,"Williamson","Brenda","California",55,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3771750.02
+5515,"Cobb","Thor","Colorado",55,"","Male",2,4,"ABOVE AVG TOLERANCE",4262960.45
+5518,"Hewitt","Melissa","California",55,"","Female",2,3,"AVERAGE TOLERANCE",6575686.13
+5519,"Richmond","Barbara","Texas",55,"Married","Female",2,3,"AVERAGE TOLERANCE",12229659.59
+5521,"Tran","Ifeoma","Nevada",55,"Married","Female",2,3,"AVERAGE TOLERANCE",10602154.72
+5522,"Acosta","Quincy","Delaware",55,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3823068.43
+5525,"Buchanan","Kai","Pennsylvania",55,"","Male",2,4,"ABOVE AVG TOLERANCE",6858908.06
+5531,"Francis","Jesse","Massachusetts",55,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4550952.38
+5535,"Mckinney","Maryam","Texas",55,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1818338.3
+5536,"Myers","Alexis","Colorado",55,"Married","Male",2,3,"AVERAGE TOLERANCE",7972048.4
+4254,"Singleton","Gannon","Michigan",49,"","Female",2,2,"BELOW AVG TOLERANCE",7788394.94
+4377,"Medina","May","California",50,"Divorced","Male",5,3,"AVERAGE TOLERANCE",2120520.96
+4378,"Sampson","Solomon","California",50,"Married","Male",5,3,"AVERAGE TOLERANCE",3951565.97
+4381,"Collier","Briar","Alabama",50,"Single","",5,3,"AVERAGE TOLERANCE",4715079.45
+4396,"Mckenzie","Fletcher","Kentucky",50,"Married","Female",4,4,"ABOVE AVG TOLERANCE",13290236.86
+4401,"Wall","Dane","Maryland",50,"Married","Female",4,3,"AVERAGE TOLERANCE",10945965.19
+4428,"Weeks","Forrest","Alabama",50,"Single","",4,2,"BELOW AVG TOLERANCE",4429469.22
+4431,"Barnes","Daria","Georgia",50,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3275572.1
+4452,"Irwin","Patience","Ohio",50,"Married","Male",3,3,"AVERAGE TOLERANCE",9392946.86
+4457,"Pollard","Clayton","California",50,"Single","Male",3,3,"AVERAGE TOLERANCE",6572616.4
+4460,"Stuart","Drew","California",50,"Single","Male",3,5,"HIGH RISK",5258150.12
+4462,"Reed","Galena","Wisconsin",50,"Single","",3,3,"AVERAGE TOLERANCE",9567486.07
+4463,"Bauer","Aurelia","Florida",50,"Married","Male",2,4,"ABOVE AVG TOLERANCE",5994010.14
+4464,"Blair","Finn","Pennsylvania",50,"","Male",2,4,"ABOVE AVG TOLERANCE",6598776.95
+4470,"Mooney","Alexandra","Indiana",50,"Married","Female",2,3,"AVERAGE TOLERANCE",8032397
+4477,"Walton","Quinn","Florida",50,"Married","Female",2,3,"AVERAGE TOLERANCE",5370148.1
+4488,"Hancock","Liberty","Massachusetts",50,"Married","Male",2,3,"AVERAGE TOLERANCE",4136052.67
+4489,"Hicks","Sopoline","Washington",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3497478.96
+4491,"Kelly","Cairo","Delaware",50,"Married","Male",2,3,"AVERAGE TOLERANCE",10544806.2
+4508,"Galloway","Hammett","California",50,"Single","",2,3,"AVERAGE TOLERANCE",7504028.91
+4609,"Simpson","Emery","California",51,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2656834.85
+4612,"Wynn","Ethan","California",51,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2387955.36
+4625,"Roach","Chloe","Montana",51,"","Female",4,4,"ABOVE AVG TOLERANCE",3691049.61
+4629,"Bartlett","Pascale","Pennsylvania",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4384901.18
+4640,"Gross","Holly","Pennsylvania",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3505503.23
+4655,"Duke","Montana","Washington",51,"Married","Female",3,2,"BELOW AVG TOLERANCE",11396172.79
+4678,"Parks","Kai","Washington",51,"","Male",3,4,"ABOVE AVG TOLERANCE",3536596.8
+4719,"Gonzales","Bernard","Michigan",51,"Divorced","Male",2,5,"HIGH RISK",1272726.19
+4832,"Powell","Shea","Oregon",52,"Divorced","Male",5,5,"HIGH RISK",3200241.22
+4833,"Salas","Magee","Massachusetts",52,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2558176.09
+4856,"Mcpherson","Kenyon","Florida",52,"Married","Female",4,2,"BELOW AVG TOLERANCE",7309988.12
+4886,"Carver","Honorato","Kentucky",52,"","Male",3,4,"ABOVE AVG TOLERANCE",5684474.51
+4902,"Joyner","Francesca","Michigan",52,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3934871.66
+4903,"Lamb","Jason","Ohio",52,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",747071.38
+4909,"Watts","Yuri","California",52,"","Male",3,4,"ABOVE AVG TOLERANCE",3129236.74
+4919,"Mills","Samantha","Michigan",52,"","Female",2,4,"ABOVE AVG TOLERANCE",6694245.78
+4925,"Ayers","Otto","California",52,"","Male",2,4,"ABOVE AVG TOLERANCE",3857884.6
+4930,"Martinez","Delilah","Oklahoma",52,"Married","Male",2,3,"AVERAGE TOLERANCE",4468498.33
+4939,"Whitley","Macy","Nevada",52,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4729490.03
+5043,"Rivers","Hector","Georgia",53,"Married","",5,3,"AVERAGE TOLERANCE",8949894.2
+5045,"Vaughn","Kelsey","Maryland",53,"Single","",5,3,"AVERAGE TOLERANCE",6250520.3
+5060,"Roy","Blaine","Kentucky",53,"Married","Female",4,3,"AVERAGE TOLERANCE",12441314.87
+5077,"Morales","Burke","Massachusetts",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1609053.98
+5119,"Wise","Camden","Maine",53,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3126722.36
+5127,"Landry","Uta","Virginia",53,"Married","Female",2,3,"AVERAGE TOLERANCE",11962326.93
+5131,"Patel","Holly","Oregon",53,"Married","Female",2,3,"AVERAGE TOLERANCE",8033973.82
+5134,"Stokes","Bernard","Minnesota",53,"Married","Female",2,3,"AVERAGE TOLERANCE",12839628.38
+5273,"Harris","Emery","Washington",54,"","Female",4,3,"AVERAGE TOLERANCE",9394623.5
+5280,"Atkins","Justin","Florida",54,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3708323.26
+5290,"Mcconnell","Sean","California",54,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4458383.6
+5292,"Mcmillan","Tana","Texas",54,"Married","Male",4,2,"BELOW AVG TOLERANCE",6295264.82
+5318,"Sims","Meredith","Wyoming",54,"Divorced","Male",3,3,"AVERAGE TOLERANCE",3218318.67
+5321,"Alvarado","Jena","Pennsylvania",54,"Single","",3,3,"AVERAGE TOLERANCE",6989802.66
+5430,"Howe","Mannix","Georgia",55,"Single","Male",5,3,"AVERAGE TOLERANCE",4273437.4
+5439,"Ratliff","Barrett","Florida",55,"Divorced","Male",5,3,"AVERAGE TOLERANCE",2077354.79
+5441,"Ruiz","Hasad","Colorado",55,"Married","Male",5,3,"AVERAGE TOLERANCE",5756379.73
+5469,"Mueller","Zenia","Massachusetts",55,"Married","Male",4,2,"BELOW AVG TOLERANCE",5891080.2
+917,"Mosley","Sydnee","California",34,"Married","Male",5,3,"AVERAGE TOLERANCE",3627992.63
+954,"Conway","Lenore","Virginia",34,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1696312.16
+956,"Hoover","Guy","Nevada",34,"Married","Male",4,3,"AVERAGE TOLERANCE",7054753.82
+993,"Kane","Hermione","Massachusetts",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1959352.2
+997,"Newton","Iris","Louisiana",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1969832.72
+1008,"Gross","Chava","Texas",34,"Single","",3,4,"ABOVE AVG TOLERANCE",2152418.85
+1023,"Howe","Giselle","Maryland",34,"Married","Female",2,3,"AVERAGE TOLERANCE",7170198.76
+1033,"Whitley","Phoebe","Massachusetts",34,"Single","Female",2,3,"AVERAGE TOLERANCE",5125755.27
+1048,"Knight","Lara","Arizona",34,"Single","",2,4,"ABOVE AVG TOLERANCE",2911554.99
+1142,"Hughes","Ross","California",35,"Married","Male",5,3,"AVERAGE TOLERANCE",5134433.36
+1149,"Shields","Adara","Washington",35,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3047429.81
+1150,"Vargas","Xandra","Massachusetts",35,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3406851.07
+1156,"Massey","Cheyenne","California",35,"Single","",5,3,"AVERAGE TOLERANCE",4260178.53
+1167,"Mcknight","Ruby","Connecticut",35,"Married","Female",4,2,"BELOW AVG TOLERANCE",10792105.49
+1172,"Barnett","Hanae","Maine",35,"Married","Male",4,3,"AVERAGE TOLERANCE",7386965.19
+1173,"Cantu","Jamal","Minnesota",35,"Married","Male",4,3,"AVERAGE TOLERANCE",6207593.76
+1178,"Forbes","Suki","Florida",35,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1511828.2
+1179,"Hawkins","Ali","Florida",35,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5954122.87
+1226,"Mcgowan","Mari","Indiana",35,"Married","Male",3,3,"AVERAGE TOLERANCE",3263768.16
+1240,"Lynn","David","Maryland",35,"","Female",2,3,"AVERAGE TOLERANCE",2694814.44
+1244,"Sanchez","Amanda","Connecticut",35,"Married","Female",2,3,"AVERAGE TOLERANCE",8936902.94
+1246,"Stevenson","Hiroko","Illinois",35,"Married","Female",2,3,"AVERAGE TOLERANCE",8978098.46
+1247,"Turner","Jamalia","Florida",35,"Married","Female",2,2,"BELOW AVG TOLERANCE",7131621.16
+1268,"Duffy","Mallory","Indiana",35,"Single","",2,3,"AVERAGE TOLERANCE",4348992.78
+1388,"Mullins","Hedwig","Washington",36,"Married","Male",5,3,"AVERAGE TOLERANCE",5186879.91
+1389,"Odom","Fredericka","Kansas",36,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2522032.48
+1390,"Prince","Jason","Pennsylvania",36,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2473618.32
+1406,"Hoffman","Shaine","Florida",36,"","Female",4,4,"ABOVE AVG TOLERANCE",9192229.92
+1412,"Morrison","Teagan","Virginia",36,"Single","Female",4,3,"AVERAGE TOLERANCE",5592280.72
+1414,"Santos","Aurora","Nevada",36,"Married","Female",4,3,"AVERAGE TOLERANCE",7864453.73
+1426,"Wong","Jessica","Virginia",36,"Single","",4,4,"ABOVE AVG TOLERANCE",8172894.15
+1458,"Robles","Giacomo","Virginia",36,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2958670.58
+1473,"Murray","Colette","Oklahoma",36,"","Female",2,4,"ABOVE AVG TOLERANCE",5921692.44
+1481,"Burke","Oscar","Florida",36,"Married","Male",2,3,"AVERAGE TOLERANCE",6934045.06
+1492,"Marshall","Jack","Florida",36,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2497463.32
+1495,"Morrison","Amena","Florida",36,"Married","Male",2,3,"AVERAGE TOLERANCE",4210949.86
+1496,"Nixon","Darryl","Maryland",36,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3258313.41
+1605,"Mathews","Bradley","Florida",37,"Married","Male",5,3,"AVERAGE TOLERANCE",7631869.92
+1611,"Pacheco","Richard","Connecticut",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1567415
+1617,"Sandoval","Kellie","Washington",37,"","Male",5,4,"ABOVE AVG TOLERANCE",4937309.44
+2284,"Mitchell","Chester","Florida",40,"Married","Male",5,2,"BELOW AVG TOLERANCE",7219039.97
+2304,"Pittman","Lila","Florida",40,"Married","Female",4,3,"AVERAGE TOLERANCE",6920376.58
+2320,"Kramer","Ursa","Iowa",40,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3122605.42
+2323,"Mullins","Aurora","Florida",40,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5190530.01
+2338,"Diaz","Kellie","Florida",40,"Married","Female",3,3,"AVERAGE TOLERANCE",7993458.95
+2349,"Humphrey","Dean","Oregon",40,"Married","Male",3,3,"AVERAGE TOLERANCE",5778558.82
+2350,"Mcdowell","Petra","Maryland",40,"Married","Male",3,3,"AVERAGE TOLERANCE",6851531.91
+2354,"Osborne","Buckminster","California",40,"","Male",3,3,"AVERAGE TOLERANCE",3873131.5
+2368,"Ayala","Tara","Kentucky",40,"","Male",2,3,"AVERAGE TOLERANCE",5655642.79
+2373,"Norris","Palmer","Florida",40,"Married","Female",2,2,"BELOW AVG TOLERANCE",7634068.68
+2382,"Woods","Zeus","Florida",40,"Married","Female",2,3,"AVERAGE TOLERANCE",7453175.57
+2388,"Conway","Belle","Delaware",40,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1775094.42
+2393,"Mullins","Adele","Pennsylvania",40,"","Male",2,4,"ABOVE AVG TOLERANCE",2900177.63
+2483,"Martinez","Aretha","Florida",41,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2392278.42
+2485,"Pacheco","Forrest","Florida",41,"Married","Male",5,3,"AVERAGE TOLERANCE",8910817.02
+2488,"Humphrey","Hyacinth","Florida",41,"Single","",5,3,"AVERAGE TOLERANCE",7149057.6
+2496,"Moody","Jelani","Maryland",41,"","Female",4,3,"AVERAGE TOLERANCE",11434413.4
+2500,"Burch","Quinn","Florida",41,"Married","Male",4,3,"AVERAGE TOLERANCE",2986132.62
+2542,"Moses","Aaron","Maryland",41,"Married","Male",3,2,"BELOW AVG TOLERANCE",7922462.38
+2549,"Torres","Zena","Pennsylvania",41,"Married","Male",3,3,"AVERAGE TOLERANCE",3157615.4
+2557,"Dean","Aileen","Ohio",41,"","Female",2,2,"BELOW AVG TOLERANCE",9165057.15
+2558,"Erickson","Winter","Minnesota",41,"Married","Female",2,2,"BELOW AVG TOLERANCE",9270885.57
+2563,"Parks","Aiko","Minnesota",41,"Married","Female",2,2,"BELOW AVG TOLERANCE",8314767.49
+2578,"Noel","Troy","Florida",41,"Married","Male",2,2,"BELOW AVG TOLERANCE",5595666.17
+2684,"Ferrell","Rama","Florida",42,"Single","",5,2,"BELOW AVG TOLERANCE",7507182.68
+2697,"Osborn","Kimberly","Florida",42,"Married","Female",4,3,"AVERAGE TOLERANCE",10934200.11
+2760,"Petersen","Gabriel","Maryland",42,"Married","",3,4,"ABOVE AVG TOLERANCE",7220570.93
+2766,"Figueroa","Jaquelyn","Colorado",42,"Married","Female",2,3,"AVERAGE TOLERANCE",8525806.18
+2778,"Carey","Calvin","Wyoming",42,"Divorced","Male",2,5,"HIGH RISK",2604036.25
+2783,"Huff","Joelle","California",42,"Married","Male",2,3,"AVERAGE TOLERANCE",4605566.7
+2784,"Lynn","Hilda","Ohio",42,"Married","Male",2,3,"AVERAGE TOLERANCE",7069833.95
+2912,"Battle","Darius","Ohio",43,"Married","Male",4,2,"BELOW AVG TOLERANCE",5259477.91
+3567,"Juarez","Meredith","Maine",46,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4380623.28
+3581,"Harper","Hollee","Ohio",46,"Single","Female",4,4,"ABOVE AVG TOLERANCE",5010757.57
+3582,"Harvey","Lyle","California",46,"Married","Female",4,2,"BELOW AVG TOLERANCE",11709601.52
+3598,"Holmes","Garth","Florida",46,"Single","Male",4,4,"ABOVE AVG TOLERANCE",2408001.79
+3605,"Robles","Felix","Ohio",46,"Single","",4,3,"AVERAGE TOLERANCE",7062140.64
+3606,"Simpson","Dorothy","California",46,"Single","",4,3,"AVERAGE TOLERANCE",5958510.42
+3608,"Buck","Ahmed","California",46,"Married","Male",3,3,"AVERAGE TOLERANCE",6466067.94
+3635,"Melton","Dieter","Florida",46,"","Male",3,4,"ABOVE AVG TOLERANCE",5314190.2
+3638,"Wise","Baxter","Delaware",46,"Married","Male",3,2,"BELOW AVG TOLERANCE",4362944.78
+3639,"Wood","Hunter","Alaska",46,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1906617.36
+3647,"Cobb","Thaddeus","California",46,"Married","Male",2,3,"AVERAGE TOLERANCE",6127671.15
+3648,"Coleman","Kiona","California",46,"Single","Male",2,3,"AVERAGE TOLERANCE",4649176.31
+3653,"Obrien","Serena","California",46,"","Female",2,2,"BELOW AVG TOLERANCE",9174768.76
+3655,"Sellers","Robin","California",46,"","Female",2,2,"BELOW AVG TOLERANCE",8215327.16
+3657,"Brooks","Derek","Massachusetts",46,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1914583.43
+3659,"Chapman","Plato","Texas",46,"","Male",2,4,"ABOVE AVG TOLERANCE",3710312.31
+3674,"Wilcox","Luke","Kentucky",46,"Married","Male",2,2,"BELOW AVG TOLERANCE",4470234.5
+3675,"Allen","Gretchen","Florida",46,"Single","",2,3,"AVERAGE TOLERANCE",6489083.9
+3773,"Hopkins","Isaac","Georgia",47,"Married","Male",5,3,"AVERAGE TOLERANCE",7029895.71
+3779,"Sheppard","Kenneth","Florida",47,"Married","Male",5,3,"AVERAGE TOLERANCE",2442962.34
+3787,"Nichols","Charde","Arizona",47,"Married","",5,3,"AVERAGE TOLERANCE",5858426.91
+3796,"Lindsay","Wing","Illinois",47,"Married","Female",4,4,"ABOVE AVG TOLERANCE",6831182.32
+3799,"Munoz","Olympia","Florida",47,"Married","Female",4,2,"BELOW AVG TOLERANCE",5980966.04
+3805,"Becker","Zephr","Florida",47,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4079755.56
+3813,"Harding","Gillian","Ohio",47,"","Male",4,4,"ABOVE AVG TOLERANCE",3873840.78
+3831,"Briggs","Phelan","Texas",47,"","Male",3,3,"AVERAGE TOLERANCE",3274887.88
+3854,"Allen","Skyler","Pennsylvania",47,"","Male",2,4,"ABOVE AVG TOLERANCE",6115485.03
+3857,"Bowers","Reed","Florida",47,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4682740.15
+3864,"Norris","Wyatt","Ohio",47,"Married","Female",2,3,"AVERAGE TOLERANCE",8808112.53
+3878,"Leonard","Mercedes","Massachusetts",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3736806.04
+3976,"Jensen","Avye","Delaware",48,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4520171.94
+3996,"Ingram","Ashely","Minnesota",48,"","Female",4,3,"AVERAGE TOLERANCE",5440502.5
+4026,"Wilder","Blythe","Arizona",48,"Married","",4,3,"AVERAGE TOLERANCE",6254049.78
+4028,"Cervantes","Akeem","Maryland",48,"Married","Male",3,3,"AVERAGE TOLERANCE",4657477.88
+4029,"Clayton","Courtney","Oklahoma",48,"Married","Male",3,2,"BELOW AVG TOLERANCE",5605023.29
+4052,"Mckenzie","Amir","Kentucky",48,"Married","Male",3,2,"BELOW AVG TOLERANCE",3515714.92
+4055,"Patton","Tara","Florida",48,"Married","Male",3,3,"AVERAGE TOLERANCE",5334296.25
+4066,"Frederick","Melinda","Washington",48,"Married","Female",2,2,"BELOW AVG TOLERANCE",6118307.86
+4069,"Sears","Halla","Pennsylvania",48,"","Female",2,4,"ABOVE AVG TOLERANCE",6286000.91
+4070,"Sheppard","Garrett","Nevada",48,"Single","Female",2,3,"AVERAGE TOLERANCE",3617069.5
+4081,"Ferguson","Ramona","Virginia",48,"Single","Male",2,3,"AVERAGE TOLERANCE",3110890.46
+4084,"Little","Lee","Maine",48,"Married","Male",2,3,"AVERAGE TOLERANCE",8095561.06
+4088,"Phillips","Amos","Florida",48,"Married","Male",2,3,"AVERAGE TOLERANCE",5600184.69
+4166,"Ray","Rudyard","California",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3651092.12
+4169,"Rowe","Lyle","Maryland",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5174879.85
+4177,"Mcmahon","Clark","Illinois",49,"Single","",5,3,"AVERAGE TOLERANCE",6885366.74
+4178,"Rasmussen","Hasad","Virginia",49,"Married","",5,3,"AVERAGE TOLERANCE",5249023.17
+4190,"Stanton","Harrison","Florida",49,"","Female",4,4,"ABOVE AVG TOLERANCE",5464107.14
+2921,"Glover","Leo","California",43,"Married","Male",4,2,"BELOW AVG TOLERANCE",6759703.74
+2976,"Garrison","Stephen","Kentucky",43,"Single","",3,2,"BELOW AVG TOLERANCE",5877329.53
+2991,"Yang","Beverly","California",43,"","Female",2,3,"AVERAGE TOLERANCE",8340623.15
+2999,"Pearson","Hedda","Delaware",43,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2988326.27
+3113,"Mccoy","Lev","Massachusetts",44,"Divorced","Male",5,3,"AVERAGE TOLERANCE",3200771.55
+3115,"Oliver","Wing","Indiana",44,"","Male",5,4,"ABOVE AVG TOLERANCE",6505136.97
+3120,"Sanders","Dakota","Florida",44,"Married","Male",5,2,"BELOW AVG TOLERANCE",4555840.09
+3123,"Yang","Wanda","California",44,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2909734.53
+3137,"Hammond","Xavier","California",44,"Married","Female",4,2,"BELOW AVG TOLERANCE",9190213.39
+3140,"Ramirez","Patricia","California",44,"","Female",4,2,"BELOW AVG TOLERANCE",5716605.57
+3147,"Bishop","Olga","Florida",44,"","Male",4,3,"AVERAGE TOLERANCE",4145238.77
+3150,"Clemons","Colleen","Florida",44,"Single","Male",4,4,"ABOVE AVG TOLERANCE",7162291.07
+3154,"Greer","Hoyt","Massachusetts",44,"","Male",4,4,"ABOVE AVG TOLERANCE",5334387.6
+3155,"Hahn","Robin","Florida",44,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2533422.36
+3170,"Alford","Althea","Maine",44,"Married","Male",3,3,"AVERAGE TOLERANCE",4705183.18
+3209,"Garner","Cynthia","Florida",44,"","Female",2,2,"BELOW AVG TOLERANCE",4172079.39
+3213,"Malone","Nina","Maryland",44,"Married","Female",2,3,"AVERAGE TOLERANCE",5912209.65
+3217,"Monroe","Rigel","Maine",44,"","Female",2,2,"BELOW AVG TOLERANCE",6918478.64
+3222,"Wiggins","Eugenia","Arizona",44,"","Female",2,3,"AVERAGE TOLERANCE",7324054.58
+3224,"Boyd","Blossom","California",44,"Married","Male",2,3,"AVERAGE TOLERANCE",7378213.38
+3343,"Holmes","Danielle","Pennsylvania",45,"Single","Male",5,2,"BELOW AVG TOLERANCE",6156965.95
+3354,"Dillard","Chantale","Georgia",45,"Single","",5,3,"AVERAGE TOLERANCE",5961488.05
+3365,"Morris","Katell","Massachusetts",45,"Married","Female",4,3,"AVERAGE TOLERANCE",8839061.99
+3369,"Riley","Melanie","Florida",45,"","Female",4,3,"AVERAGE TOLERANCE",6944191.58
+3370,"Smith","Ryan","Virginia",45,"Single","Female",4,3,"AVERAGE TOLERANCE",7324405.63
+3374,"Wynn","Ralph","Massachusetts",45,"Married","Female",4,3,"AVERAGE TOLERANCE",9005776.09
+3380,"Horn","Brennan","Texas",45,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4076989.41
+3381,"Jarvis","Keefe","Maine",45,"Married","Male",4,3,"AVERAGE TOLERANCE",8309984.5
+3426,"Roberts","Amery","Nevada",45,"Married","Male",3,2,"BELOW AVG TOLERANCE",7488746.4
+3443,"Bond","Helen","Connecticut",45,"Married","Male",2,3,"AVERAGE TOLERANCE",3560656.71
+3446,"Erickson","Buffy","Maryland",45,"Single","Male",2,3,"AVERAGE TOLERANCE",5126300.15
+3461,"Velazquez","Jesse","Washington",45,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2783349.02
+3463,"Workman","Cade","Florida",45,"Married","Male",2,3,"AVERAGE TOLERANCE",4662919.75
+3465,"Hickman","Fletcher","Alaska",45,"Married","",2,3,"AVERAGE TOLERANCE",8125301.32
+3467,"Sykes","Xantha","Georgia",45,"Married","",2,3,"AVERAGE TOLERANCE",8689354.08
+1625,"Compton","Elijah","California",37,"Single","",5,4,"ABOVE AVG TOLERANCE",3471449.76
+1630,"Stafford","Karyn","California",37,"Single","",5,4,"ABOVE AVG TOLERANCE",4512491.55
+1652,"Guzman","Oren","Indiana",37,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3451865.97
+1657,"Oliver","Nevada","Texas",37,"Married","Male",4,3,"AVERAGE TOLERANCE",5231742.73
+1693,"Tyler","Sacha","California",37,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2655741.56
+1695,"Montgomery","Kelsey","Washington",37,"Married","",3,3,"AVERAGE TOLERANCE",8372254.56
+1702,"Cook","Gabriel","Michigan",37,"","Male",2,4,"ABOVE AVG TOLERANCE",5814448.72
+1707,"Gilbert","Jonas","Massachusetts",37,"Married","Female",2,2,"BELOW AVG TOLERANCE",5455127.52
+1736,"Walsh","Dai","Maryland",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3560599.66
+1740,"Reilly","Cameran","Montana",37,"Single","",2,4,"ABOVE AVG TOLERANCE",3684868.2
+1833,"Pate","Adena","Pennsylvania",38,"Married","Male",5,3,"AVERAGE TOLERANCE",3285031.1
+1838,"Chang","Ferdinand","Florida",38,"Married","",5,3,"AVERAGE TOLERANCE",8189971.68
+1850,"Green","Indigo","Massachusetts",38,"Single","Female",4,3,"AVERAGE TOLERANCE",2209344.66
+1851,"Kline","Aurora","California",38,"","Female",4,3,"AVERAGE TOLERANCE",8756434.8
+1852,"Langley","Amity","Florida",38,"Single","Female",4,3,"AVERAGE TOLERANCE",5182280.42
+1859,"Stanley","Mallory","Vermont",38,"Married","Female",4,4,"ABOVE AVG TOLERANCE",5055804.58
+1912,"Schultz","Idona","Georgia",38,"","Male",3,4,"ABOVE AVG TOLERANCE",2662616.16
+1918,"Whitfield","Emi","California",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2823447.02
+1923,"Banks","Aurora","Florida",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3448638.08
+1927,"Franks","Leilani","Wisconsin",38,"Married","Female",2,2,"BELOW AVG TOLERANCE",6056153.43
+1938,"Rutledge","Keegan","Arizona",38,"Married","Female",2,3,"AVERAGE TOLERANCE",6663770.06
+1944,"Albert","Summer","Minnesota",38,"Married","Male",2,3,"AVERAGE TOLERANCE",5351138.21
+1969,"Pittman","Vernon","Florida",38,"Single","",2,3,"AVERAGE TOLERANCE",5239983.78
+2087,"Lamb","Lillith","Connecticut",39,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2413978.84
+2102,"Gilliam","Dante","Wisconsin",39,"Married","Female",4,2,"BELOW AVG TOLERANCE",10175047.5
+2103,"Gonzalez","Carissa","Illinois",39,"","Female",4,4,"ABOVE AVG TOLERANCE",2404459.44
+2146,"Johnson","Malcolm","Georgia",39,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2776540
+2149,"Pacheco","Edward","Florida",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4252990.04
+2151,"Sellers","Hilda","Ohio",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4857534
+2156,"Weeks","Madison","Maryland",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3279726.21
+5527,"Cleveland","Claudia","Delaware",55,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3049749.35
+4229,"Hines","Aiko","Oregon",49,"Divorced","Male",3,3,"AVERAGE TOLERANCE",1336332.84
+4233,"Watson","Brianna","Florida",49,"","Male",3,4,"ABOVE AVG TOLERANCE",7417891.18
+4238,"Galloway","Jessica","Florida",49,"Single","",3,3,"AVERAGE TOLERANCE",4437424.83
+4240,"Silva","Elaine","Nevada",49,"Single","",3,3,"AVERAGE TOLERANCE",3582992.46
+4243,"Dorsey","Keaton","California",49,"Single","Female",2,3,"AVERAGE TOLERANCE",5926576.31
+4259,"Woodard","Laura","Maryland",49,"Married","Female",2,3,"AVERAGE TOLERANCE",7998058.1
+4263,"Faulkner","Oren","Florida",49,"","Male",2,4,"ABOVE AVG TOLERANCE",3947080.37
+4265,"Greene","Jasper","Florida",49,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1178849.81
+4269,"Miller","Mohammad","Florida",49,"","Male",2,4,"ABOVE AVG TOLERANCE",6735663.18
+4276,"Witt","Yoshi","Oregon",49,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1970975.96
+4373,"Johnston","Casey","Delaware",50,"","Male",5,4,"ABOVE AVG TOLERANCE",5887335.36
+4379,"Stein","Noel","Virginia",50,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2856738.24
+4410,"Hood","Martin","Arizona",50,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2387806.56
+4412,"Jennings","Mikayla","Kentucky",50,"Married","Male",4,3,"AVERAGE TOLERANCE",6290236.8
+4415,"Manning","Brandon","Massachusetts",50,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5149486.31
+4458,"Robles","Marcia","Indiana",50,"Married","Male",3,4,"ABOVE AVG TOLERANCE",8128168.14
+4476,"Summers","Germane","Nevada",50,"","Female",2,2,"BELOW AVG TOLERANCE",9420944.98
+4503,"Schmidt","Aurora","Illinois",50,"","Male",2,4,"ABOVE AVG TOLERANCE",5323902.44
+4604,"Kim","Victor","Indiana",51,"Single","Male",5,3,"AVERAGE TOLERANCE",4970308.61
+4605,"Kirby","Halla","Oregon",51,"Divorced","Male",5,3,"AVERAGE TOLERANCE",1596650.63
+4611,"Wolfe","Jackson","California",51,"Single","Male",5,5,"HIGH RISK",4920252.68
+4615,"Santiago","Maya","Florida",51,"Single","",5,3,"AVERAGE TOLERANCE",7805856.5
+4654,"Cote","Shelby","Illinois",51,"Married","Male",3,3,"AVERAGE TOLERANCE",8074514.43
+4681,"Stafford","Savannah","Florida",51,"Married","Male",3,3,"AVERAGE TOLERANCE",7630316.81
+4686,"Cleveland","Stephen","Massachusetts",51,"Married","",3,2,"BELOW AVG TOLERANCE",6466874.7
+4690,"Adams","Jaime","Georgia",51,"Married","Male",2,3,"AVERAGE TOLERANCE",7557165.85
+4694,"Brown","Caryn","Maryland",51,"Married","Male",2,3,"AVERAGE TOLERANCE",4939290.55
+4696,"Crawford","Bruce","Florida",51,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4227274.57
+4697,"Dickson","Dakota","Ohio",51,"Married","Female",2,3,"AVERAGE TOLERANCE",2297386.73
+4703,"Merritt","Venus","Florida",51,"Married","Female",2,4,"ABOVE AVG TOLERANCE",8054617.53
+4709,"Vance","Christine","Maryland",51,"Married","Female",2,3,"AVERAGE TOLERANCE",9086408.93
+4713,"Bruce","Hillary","Connecticut",51,"Single","Male",2,4,"ABOVE AVG TOLERANCE",7557252.4
+4716,"Davis","Karyn","Louisiana",51,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3783272.63
+4722,"Paul","Glenna","Florida",51,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2904870.92
+4835,"Sherman","Hiram","Massachusetts",52,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2264479.98
+4837,"Blevins","Leandra","Oklahoma",52,"Single","",5,3,"AVERAGE TOLERANCE",8439852.57
+4854,"Mathews","Alma","Arizona",52,"Married","Female",4,3,"AVERAGE TOLERANCE",6532524.63
+4858,"Montgomery","Brendan","Michigan",52,"Married","Female",4,2,"BELOW AVG TOLERANCE",12115191.33
+4860,"Ray","Leah","Kentucky",52,"","Female",4,3,"AVERAGE TOLERANCE",7000831.16
+4887,"Deleon","Yoko","Arizona",52,"Married","Female",3,3,"AVERAGE TOLERANCE",6280088.03
+4914,"Foley","Bevis","Minnesota",52,"","Female",2,4,"ABOVE AVG TOLERANCE",6648947.71
+4923,"Williams","Kameko","California",52,"Married","Female",2,2,"BELOW AVG TOLERANCE",9609081.07
+4931,"Medina","Cyrus","Kansas",52,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2489748.54
+4935,"Ratliff","Sean","Ohio",52,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3337713.46
+4940,"Little","Eagan","Nevada",52,"Single","",2,4,"ABOVE AVG TOLERANCE",6365652.84
+5032,"Levine","Tallulah","Massachusetts",53,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5335399.59
+5035,"Powell","Phyllis","Ohio",53,"Single","Male",5,3,"AVERAGE TOLERANCE",5768548.01
+5036,"Pugh","Rhea","California",53,"Married","Male",5,3,"AVERAGE TOLERANCE",5510604.08
+5053,"Lowe","Xerxes","Massachusetts",53,"Married","Female",4,2,"BELOW AVG TOLERANCE",9743547.46
+5056,"Myers","Miriam","Virginia",53,"Married","Female",4,3,"AVERAGE TOLERANCE",13104184.49
+5062,"Washington","Karleigh","Florida",53,"","Female",4,3,"AVERAGE TOLERANCE",12017899.16
+5065,"Adkins","Leonard","Colorado",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3995998.66
+5068,"Colon","Perry","Illinois",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2592425.66
+5076,"Mcclain","TaShya","Connecticut",53,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6068226.33
+5106,"Leblanc","Bianca","Minnesota",53,"Married","Male",3,3,"AVERAGE TOLERANCE",5178628.57
+5108,"Mcbride","Erica","Delaware",53,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4075461.05
+5118,"Warner","Ora","Connecticut",53,"Single","Male",3,3,"AVERAGE TOLERANCE",2351562.88
+5129,"Mercado","Devin","Indiana",53,"Married","Female",2,2,"BELOW AVG TOLERANCE",7752963.34
+5137,"Gay","Lillith","California",53,"Married","Male",2,3,"AVERAGE TOLERANCE",7306576.01
+5146,"Parker","Thane","Florida",53,"Married","Male",2,4,"ABOVE AVG TOLERANCE",6461074.47
+5153,"Washington","Fleur","Alabama",53,"Single","",2,3,"AVERAGE TOLERANCE",6916200.12
+5259,"Patterson","Octavia","Colorado",54,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",4078995.4
+5263,"Wilcox","Drake","Maryland",54,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4731510.76
+5275,"Martinez","Jameson","Oregon",54,"Married","Female",4,3,"AVERAGE TOLERANCE",10340223.09
+5279,"Acevedo","Karleigh","Ohio",54,"Married","Male",4,3,"AVERAGE TOLERANCE",6234956.58
+5323,"Ortega","Adrian","Florida",54,"Single","",3,3,"AVERAGE TOLERANCE",6327043.91
+5329,"Horn","Unity","Colorado",54,"Single","Female",2,2,"BELOW AVG TOLERANCE",8192229.58
+5331,"Mcguire","Kaye","Ohio",54,"Married","Female",2,4,"ABOVE AVG TOLERANCE",9353199.86
+5431,"Howell","Cullen","Texas",55,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3901446.6
+5434,"Mercado","Craig","Massachusetts",55,"Single","Male",5,4,"ABOVE AVG TOLERANCE",6104522.53
+5442,"Savage","Cameron","Florida",55,"Married","Male",5,3,"AVERAGE TOLERANCE",10018258.68
+5444,"Ayala","Keiko","Alaska",55,"Single","",5,3,"AVERAGE TOLERANCE",4785599.55
+5454,"Knox","Fulton","Ohio",55,"Married","Female",4,3,"AVERAGE TOLERANCE",11314754.62
+5467,"Mckee","Salvador","Virginia",55,"Married","Male",4,3,"AVERAGE TOLERANCE",4294553.35
+921,"Potter","Chandler","Florida",34,"","Male",5,4,"ABOVE AVG TOLERANCE",2000539.6
+926,"Woods","Damon","Massachusetts",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3124704.59
+929,"Rodriguez","Kelsey","Virginia",34,"Single","",5,4,"ABOVE AVG TOLERANCE",3871126.53
+938,"Harris","Xena","Florida",34,"Married","Female",4,2,"BELOW AVG TOLERANCE",9548439.84
+944,"Reed","Diana","Ohio",34,"","Female",4,3,"AVERAGE TOLERANCE",7127046.12
+947,"Snow","Galvin","Indiana",34,"Married","Female",4,2,"BELOW AVG TOLERANCE",9938853.94
+950,"Wilcox","Olga","Florida",34,"","Female",4,4,"ABOVE AVG TOLERANCE",8747445
+957,"Kaufman","Ursula","Arizona",34,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2443775.16
+970,"Colon","Arden","Pennsylvania",34,"Married","Male",3,3,"AVERAGE TOLERANCE",6663743.91
+991,"Humphrey","Lawrence","Alabama",34,"Married","Male",3,3,"AVERAGE TOLERANCE",6192358.08
+1006,"Carey","Timothy","Montana",34,"Single","",3,3,"AVERAGE TOLERANCE",5119580.79
+1010,"Ortiz","Macy","Nevada",34,"Single","",3,4,"ABOVE AVG TOLERANCE",8307837.45
+1018,"Chang","Cara","Florida",34,"Married","Male",2,3,"AVERAGE TOLERANCE",4567915.01
+1021,"Gilbert","Solomon","Nevada",34,"Married","Female",2,3,"AVERAGE TOLERANCE",4412003.75
+1037,"Buck","Veda","Virginia",34,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2960349.48
+1040,"Finch","Imani","Florida",34,"Married","Male",2,3,"AVERAGE TOLERANCE",3344582.02
+1042,"Jarvis","Xaviera","California",34,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5296452.11
+1044,"Obrien","Sloane","Massachusetts",34,"Married","Male",2,3,"AVERAGE TOLERANCE",5200875.74
+1046,"Eaton","Calista","Arizona",34,"Married","",2,3,"AVERAGE TOLERANCE",3721145.76
+1146,"Pickett","Willow","Texas",35,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2058146.44
+1154,"Davis","Kasper","Massachusetts",35,"Married","",5,3,"AVERAGE TOLERANCE",4430074.8
+1157,"Orr","Charde","Virginia",35,"Single","",5,4,"ABOVE AVG TOLERANCE",5115365.46
+1189,"Ortiz","Camilla","Florida",35,"Married","Male",4,3,"AVERAGE TOLERANCE",5524440.76
+1232,"Weiss","Iola","Kentucky",35,"Married","Male",3,3,"AVERAGE TOLERANCE",4113166.56
+1233,"English","Hall","California",35,"Married","",3,3,"AVERAGE TOLERANCE",5738457.48
+1235,"Puckett","Penelope","Florida",35,"Married","",3,2,"BELOW AVG TOLERANCE",7957776.48
+1236,"Torres","Wallace","Tennessee",35,"Married","",3,3,"AVERAGE TOLERANCE",4670055.36
+1237,"Vega","Inga","Massachusetts",35,"Single","",3,4,"ABOVE AVG TOLERANCE",7331798.61
+1248,"Underwood","Kyra","Florida",35,"","Female",2,4,"ABOVE AVG TOLERANCE",6946435.2
+1262,"Phelps","Cadman","Wisconsin",35,"Married","Male",2,3,"AVERAGE TOLERANCE",7993519.87
+1266,"Bond","Rafael","Pennsylvania",35,"Single","",2,3,"AVERAGE TOLERANCE",3949437.78
+1387,"Moore","Mechelle","Oregon",36,"Married","Male",5,3,"AVERAGE TOLERANCE",6137380.61
+1392,"Rodgers","Ulysses","Ohio",36,"","Male",5,4,"ABOVE AVG TOLERANCE",4812306.56
+1405,"Hebert","Mara","Pennsylvania",36,"Married","Female",4,3,"AVERAGE TOLERANCE",11016540.57
+1408,"Key","Tasha","California",36,"","Female",4,3,"AVERAGE TOLERANCE",10794712.68
+1410,"Middleton","Wynter","California",36,"","Female",4,3,"AVERAGE TOLERANCE",4787830.32
+1417,"Graves","Colton","Ohio",36,"Married","Male",4,3,"AVERAGE TOLERANCE",5093408.55
+1452,"Newman","Sophia","Florida",36,"Married","Male",3,3,"AVERAGE TOLERANCE",5514727.78
+1467,"Bentley","Eugenia","Delaware",36,"Married","Male",2,3,"AVERAGE TOLERANCE",5663478.33
+1475,"Roman","Tad","Texas",36,"Married","Female",2,4,"ABOVE AVG TOLERANCE",8099767.15
+1476,"Shepard","Gemma","Illinois",36,"Married","Female",2,3,"AVERAGE TOLERANCE",11583431.29
+1478,"Vincent","Trevor","Oklahoma",36,"Married","Female",2,3,"AVERAGE TOLERANCE",11303058.23
+1482,"Chan","Alea","Texas",36,"Married","Male",2,3,"AVERAGE TOLERANCE",3583463.43
+1497,"Peters","Velma","Florida",36,"","Male",2,4,"ABOVE AVG TOLERANCE",2452433.92
+1498,"Puckett","Lesley","Oregon",36,"","Male",2,4,"ABOVE AVG TOLERANCE",2045369.44
+1606,"Mcpherson","Jermaine","Massachusetts",37,"Married","Male",5,3,"AVERAGE TOLERANCE",5080445.09
+1618,"Simmons","Kato","Connecticut",37,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3121447.83
+2286,"Stewart","Helen","Michigan",40,"Married","Male",5,3,"AVERAGE TOLERANCE",2727122.74
+2316,"Dodson","Elliott","California",40,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4129195.36
+2361,"Shields","Tallulah","Alaska",40,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1977191.97
+2370,"Fernandez","Talon","Pennsylvania",40,"Married","Female",2,3,"AVERAGE TOLERANCE",8852686.61
+2376,"Patrick","Octavia","Maryland",40,"","Female",2,3,"AVERAGE TOLERANCE",12206578.3
+2392,"Mcguire","Abigail","Ohio",40,"Single","Male",2,3,"AVERAGE TOLERANCE",4355606.61
+2394,"Page","Sade","Florida",40,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2931649.47
+2401,"Schultz","Aphrodite","Arizona",40,"Single","",2,4,"ABOVE AVG TOLERANCE",7721708.45
+2486,"Roth","Illiana","Massachusetts",41,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1573679.2
+2498,"Wolf","Ian","Georgia",41,"","Female",4,3,"AVERAGE TOLERANCE",8591138.16
+2501,"Chapman","Troy","Delaware",41,"Single","Male",4,5,"HIGH RISK",4300787.14
+2502,"Conner","Maia","Illinois",41,"","Male",4,4,"ABOVE AVG TOLERANCE",3731181.35
+2545,"Russo","Charissa","Connecticut",41,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2904466.75
+2552,"Banks","Caryn","Florida",41,"Single","",3,4,"ABOVE AVG TOLERANCE",5769151.55
+2556,"Contreras","Dean","Washington",41,"Married","Male",2,3,"AVERAGE TOLERANCE",3401400.82
+2564,"Santos","Selma","Pennsylvania",41,"","Female",2,3,"AVERAGE TOLERANCE",8954710.25
+2576,"Mooney","Jamalia","Texas",41,"Married","Male",2,3,"AVERAGE TOLERANCE",4873978.57
+2580,"Patel","Constance","California",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3495128.03
+2678,"Pratt","Mari","Connecticut",42,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3193583.34
+2683,"Delacruz","Emily","Nevada",42,"Single","",5,3,"AVERAGE TOLERANCE",5045963.76
+2700,"Stephenson","Alec","Oklahoma",42,"Married","Female",4,4,"ABOVE AVG TOLERANCE",8983694.65
+2710,"Jordan","Yeo","Florida",42,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3615413.78
+2712,"Mathis","Elton","California",42,"","Male",4,4,"ABOVE AVG TOLERANCE",3762338.71
+2725,"Bates","Stacey","Kentucky",42,"Married","Male",3,4,"ABOVE AVG TOLERANCE",5179948.01
+2751,"Hull","Adrienne","Kentucky",42,"Married","Male",3,3,"AVERAGE TOLERANCE",4952935.58
+2769,"Hodges","Eden","California",42,"Married","Female",2,3,"AVERAGE TOLERANCE",8454708.5
+2780,"Decker","Kevin","Florida",42,"Divorced","Male",2,3,"AVERAGE TOLERANCE",3560728.96
+2887,"Hopkins","Faith","Florida",43,"","Male",5,5,"HIGH RISK",1703526
+2891,"Rich","Farrah","California",43,"Married","Male",5,3,"AVERAGE TOLERANCE",4224585.88
+2894,"Horn","Fuller","Delaware",43,"Single","",5,3,"AVERAGE TOLERANCE",4136841.63
+2896,"Mcdonald","Rooney","California",43,"Married","",5,3,"AVERAGE TOLERANCE",4858619.82
+2913,"Booker","Jasper","Georgia",43,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2273520.3
+3574,"Justice","Olivia","Oregon",46,"Single","",5,3,"AVERAGE TOLERANCE",8756549.81
+3589,"Waters","Irma","Oklahoma",46,"Married","Female",4,3,"AVERAGE TOLERANCE",7272651.52
+3603,"Spears","Keith","Florida",46,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4056210.27
+3645,"Benjamin","Wynter","California",46,"Married","Male",2,3,"AVERAGE TOLERANCE",7091202.52
+3668,"Ratliff","Bianca","Colorado",46,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2351069.85
+3774,"Kaufman","Malcolm","Texas",47,"Married","Male",5,3,"AVERAGE TOLERANCE",6664759.74
+3777,"Lindsay","Noelani","Florida",47,"Single","Male",5,3,"AVERAGE TOLERANCE",5248408.81
+3784,"Gallegos","Priscilla","Arizona",47,"Single","",5,3,"AVERAGE TOLERANCE",3446008.04
+3798,"Mccray","Geraldine","Florida",47,"Married","Female",4,3,"AVERAGE TOLERANCE",12127370.75
+3802,"Talley","August","California",47,"Married","Female",4,2,"BELOW AVG TOLERANCE",12629638.93
+3803,"Vinson","Kylynn","Florida",47,"","Female",4,4,"ABOVE AVG TOLERANCE",7595373.58
+3811,"Ferrell","Aspen","Maine",47,"Married","Male",4,3,"AVERAGE TOLERANCE",7483702.52
+3817,"Orr","Erica","California",47,"","Male",4,4,"ABOVE AVG TOLERANCE",4489539.12
+3828,"Wiley","Michelle","Alaska",47,"Single","",4,4,"ABOVE AVG TOLERANCE",3768263.63
+3829,"Atkins","Darrel","Colorado",47,"","Male",3,4,"ABOVE AVG TOLERANCE",7199120.89
+3830,"Blackwell","Erasmus","Indiana",47,"","Male",3,3,"AVERAGE TOLERANCE",2937617.05
+3850,"Castillo","Desirae","Washington",47,"Married","",3,2,"BELOW AVG TOLERANCE",7753799.84
+3855,"Becker","Lila","Virginia",47,"Married","Male",2,3,"AVERAGE TOLERANCE",3759541.95
+3870,"Bender","Chastity","Florida",47,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1900145.55
+3872,"Carpenter","Zachary","Kansas",47,"Married","Male",2,3,"AVERAGE TOLERANCE",3694366.58
+3883,"Sanders","Casey","Connecticut",47,"Married","Male",2,3,"AVERAGE TOLERANCE",3112091.98
+3981,"Sutton","Todd","Georgia",48,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5848945.02
+3982,"Bowman","Alea","Maryland",48,"Single","",5,4,"ABOVE AVG TOLERANCE",6361938.8
+3987,"Wallace","Veronica","Ohio",48,"Single","",5,2,"BELOW AVG TOLERANCE",3849037.24
+4003,"Rosario","Florence","Massachusetts",48,"","Female",4,3,"AVERAGE TOLERANCE",4925024.4
+4005,"Salazar","Sylvester","Connecticut",48,"","Female",4,4,"ABOVE AVG TOLERANCE",7214802.68
+4017,"Ochoa","Abigail","California",48,"Married","Male",4,3,"AVERAGE TOLERANCE",7306983.87
+4021,"Strickland","Xyla","Florida",48,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2667422.82
+4073,"Vazquez","Hoyt","Florida",48,"","Female",2,3,"AVERAGE TOLERANCE",8802610.87
+4074,"Young","Baxter","Washington",48,"Married","Female",2,3,"AVERAGE TOLERANCE",11770451.99
+4078,"Church","MacKenzie","California",48,"Single","Male",2,3,"AVERAGE TOLERANCE",6092888.56
+4091,"Ward","Noel","California",48,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2043736.42
+4195,"Lancaster","Clare","Massachusetts",49,"Married","Male",4,2,"BELOW AVG TOLERANCE",4370396.98
+2945,"Cortez","Zephania","Massachusetts",43,"","Male",3,4,"ABOVE AVG TOLERANCE",7413178.43
+2966,"Mcfadden","Ezra","Connecticut",43,"Married","Male",3,2,"BELOW AVG TOLERANCE",6199838.84
+2984,"Houston","Aladdin","California",43,"Married","Female",2,4,"ABOVE AVG TOLERANCE",9770837.32
+2993,"Callahan","Zoe","Oregon",43,"Married","Male",2,3,"AVERAGE TOLERANCE",7618501.24
+2995,"Freeman","Kelly","Michigan",43,"Married","Male",2,3,"AVERAGE TOLERANCE",2318493.41
+3116,"Petty","Chase","Florida",44,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1140748.22
+3119,"Rush","Elmo","Florida",44,"Divorced","Male",5,3,"AVERAGE TOLERANCE",1638143.89
+3126,"Butler","Chase","Colorado",44,"Single","",5,4,"ABOVE AVG TOLERANCE",5368691.2
+3139,"Paul","Vincent","Florida",44,"","Female",4,3,"AVERAGE TOLERANCE",4692647.39
+3141,"Randall","Lunea","Colorado",44,"","Female",4,3,"AVERAGE TOLERANCE",8186711.81
+3195,"Munoz","Dawn","Connecticut",44,"","Male",3,4,"ABOVE AVG TOLERANCE",5755459.86
+3212,"Lynn","Kieran","Oklahoma",44,"","Female",2,3,"AVERAGE TOLERANCE",9607261.61
+3225,"Franco","Leo","Virginia",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3597263.05
+3228,"Greene","Blaze","California",44,"","Male",2,4,"ABOVE AVG TOLERANCE",6021061.83
+3347,"Meadows","Freya","Nevada",45,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4641554.5
+3353,"Whitney","Tara","California",45,"Married","Male",5,4,"ABOVE AVG TOLERANCE",4001190.66
+3378,"Gutierrez","Nolan","California",45,"","Male",4,5,"HIGH RISK",2973052.02
+3384,"Mosley","Chastity","Minnesota",45,"Married","Male",4,3,"AVERAGE TOLERANCE",3798108.76
+3425,"Rice","Blossom","Nevada",45,"Single","Male",3,3,"AVERAGE TOLERANCE",4558377.46
+3429,"Vincent","Rashad","Maine",45,"Married","Male",3,3,"AVERAGE TOLERANCE",1919759.1
+3431,"Callahan","Oren","Maryland",45,"","Male",2,3,"AVERAGE TOLERANCE",4744681.48
+3435,"Hansen","Nasim","Washington",45,"","Female",2,2,"BELOW AVG TOLERANCE",5545528.96
+3437,"Holland","Rowan","Florida",45,"","Female",2,3,"AVERAGE TOLERANCE",7118019.88
+3438,"Love","Callie","Pennsylvania",45,"Married","Female",2,4,"ABOVE AVG TOLERANCE",12669700.66
+3450,"Gonzalez","Kirestin","Indiana",45,"Married","Male",2,2,"BELOW AVG TOLERANCE",6973344.46
+3458,"Simmons","Brock","Pennsylvania",45,"Married","Male",2,3,"AVERAGE TOLERANCE",7178016.59
+1641,"Raymond","Rinah","Florida",37,"Single","Female",4,4,"ABOVE AVG TOLERANCE",4054482.55
+1648,"Curtis","Seth","Pennsylvania",37,"Married","Male",4,3,"AVERAGE TOLERANCE",5692575.93
+1649,"Fitzpatrick","Amena","California",37,"Married","Male",4,3,"AVERAGE TOLERANCE",2479962.8
+1665,"Ruiz","Brielle","Virginia",37,"Married","",4,3,"AVERAGE TOLERANCE",10198175.28
+1666,"Cooke","Kadeem","Florida",37,"","Male",3,4,"ABOVE AVG TOLERANCE",3349252.8
+1690,"Ratliff","Xyla","Illinois",37,"Married","Male",3,3,"AVERAGE TOLERANCE",7370727.74
+1699,"Buckner","Myra","Florida",37,"Married","Male",2,3,"AVERAGE TOLERANCE",4848167.42
+1703,"Cross","Marny","Michigan",37,"","Male",2,4,"ABOVE AVG TOLERANCE",4603465.36
+1714,"Weiss","Iola","California",37,"Married","Female",2,3,"AVERAGE TOLERANCE",9293414.11
+1715,"Wise","Perry","Connecticut",37,"Married","Female",2,2,"BELOW AVG TOLERANCE",9547058.01
+1720,"Carver","Talon","Massachusetts",37,"Married","Male",2,3,"AVERAGE TOLERANCE",4432427.32
+1722,"Donaldson","Denton","Florida",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3207329.65
+1727,"Hawkins","MacKensie","Minnesota",37,"Married","Male",2,3,"AVERAGE TOLERANCE",6823759.59
+1729,"Macias","Garth","Ohio",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3602316.16
+1730,"Melendez","Emi","Ohio",37,"","Male",2,4,"ABOVE AVG TOLERANCE",6609134.88
+1732,"Pruitt","Maite","Illinois",37,"Married","Male",2,3,"AVERAGE TOLERANCE",3951808.22
+1733,"Rivers","Alisa","Florida",37,"Married","Male",2,3,"AVERAGE TOLERANCE",3922017.89
+1841,"Santiago","Erasmus","Georgia",38,"Married","",5,3,"AVERAGE TOLERANCE",7784117.28
+1870,"Fulton","Nola","Virginia",38,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4676028.55
+1871,"Higgins","Dominic","Massachusetts",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2249796.44
+1884,"Edwards","Paki","Michigan",38,"Married","Female",3,3,"AVERAGE TOLERANCE",12629613.6
+1907,"Pennington","Allen","Oregon",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5669596.74
+1913,"Scott","Macon","Michigan",38,"Married","Male",3,3,"AVERAGE TOLERANCE",5199702.05
+1920,"Clemons","James","Montana",38,"Married","",3,3,"AVERAGE TOLERANCE",4105669.68
+1947,"Cantrell","Adria","Nevada",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3357122.17
+1956,"Mayo","Dennis","Maryland",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",3448489.36
+1965,"Velazquez","Jemima","California",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2718756.32
+2094,"Hunter","Sandra","Florida",39,"Married","",5,3,"AVERAGE TOLERANCE",5399719.56
+2104,"Hooper","Vivian","Florida",39,"","Female",4,4,"ABOVE AVG TOLERANCE",2595363.36
+2107,"Mills","Mia","Delaware",39,"Married","Female",4,4,"ABOVE AVG TOLERANCE",7695235.14
+2116,"Garner","Hanae","Florida",39,"Married","Male",4,3,"AVERAGE TOLERANCE",5795716.13
+2117,"Hawkins","Herman","Massachusetts",39,"","Male",4,4,"ABOVE AVG TOLERANCE",4046951.6
+2152,"Short","Buffy","California",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4327774.57
+2153,"Travis","Breanna","Indiana",39,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1730700.6
+2161,"Middleton","Ferdinand","Michigan",39,"Married","",3,3,"AVERAGE TOLERANCE",4404056.52
+2173,"Scott","Oliver","Maryland",39,"","Female",2,4,"ABOVE AVG TOLERANCE",4861800.12
+2186,"Reynolds","Wang","Texas",39,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2757470.16
+5511,"Porter","Akeem","Michigan",55,"Married","",3,3,"AVERAGE TOLERANCE",9150395.76
+5526,"Clayton","Uriah","Florida",55,"Single","Male",2,3,"AVERAGE TOLERANCE",6464904.71
+5530,"Estrada","Madaline","Kentucky",55,"","Male",2,4,"ABOVE AVG TOLERANCE",3433343.9
+5533,"Howell","Amber","Colorado",55,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",4050143.14
+5542,"Welch","Zane","Texas",55,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2425761.79
+5546,"Lyons","Orla","Indiana",55,"Married","",2,2,"BELOW AVG TOLERANCE",9490832.35
+4230,"Kerr","Dylan","Massachusetts",49,"Divorced","Male",3,3,"AVERAGE TOLERANCE",4286682.66
+4232,"Lopez","Carol","Maryland",49,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4866050.14
+4235,"Wynn","Harrison","Maryland",49,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1719971.56
+4237,"Conley","Sage","Oklahoma",49,"Single","",3,4,"ABOVE AVG TOLERANCE",8069915.71
+4241,"Casey","Brenna","California",49,"","Male",2,3,"AVERAGE TOLERANCE",5829885.07
+4250,"Nguyen","Dolan","Maryland",49,"Married","Female",2,3,"AVERAGE TOLERANCE",12538130.3
+4261,"Carey","Kessie","Pennsylvania",49,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3859562.12
+4264,"Glover","Faith","Florida",49,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4205570.6
+4277,"Benton","Ali","California",49,"Married","",2,3,"AVERAGE TOLERANCE",5261091.39
+4278,"Downs","Alice","Texas",49,"Married","",2,3,"AVERAGE TOLERANCE",8987068.07
+4375,"Martin","Naida","Louisiana",50,"Married","Male",5,3,"AVERAGE TOLERANCE",8050966.74
+4380,"Wallace","Ivor","Maryland",50,"Married","Male",5,3,"AVERAGE TOLERANCE",5153076.75
+4384,"Whitaker","Edward","Wisconsin",50,"Single","",5,3,"AVERAGE TOLERANCE",6281330.11
+4395,"Love","Tanisha","California",50,"Married","Female",4,3,"AVERAGE TOLERANCE",8312563.69
+4404,"Benson","Megan","Texas",50,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2173943.04
+4406,"Callahan","Jorden","Nevada",50,"Married","Male",4,4,"ABOVE AVG TOLERANCE",7960022.09
+4409,"Glenn","Martina","Florida",50,"Married","Male",4,3,"AVERAGE TOLERANCE",5179864.78
+4453,"Jackson","Murphy","Florida",50,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4009924.14
+4454,"Kramer","Nero","California",50,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2588871.98
+4465,"Camacho","Orla","Florida",50,"Married","Male",2,2,"BELOW AVG TOLERANCE",5430237.35
+4472,"Richmond","Chase","Maryland",50,"Married","Female",2,3,"AVERAGE TOLERANCE",6510159.3
+4475,"Strickland","Nash","Delaware",50,"Married","Female",2,3,"AVERAGE TOLERANCE",13164360.36
+4482,"Daniel","Angelica","Pennsylvania",50,"Married","Male",2,2,"BELOW AVG TOLERANCE",3758622.58
+4494,"Marquez","Cecilia","Kentucky",50,"Married","Male",2,3,"AVERAGE TOLERANCE",2654452.11
+4501,"Reilly","Darius","Connecticut",50,"Married","Male",2,2,"BELOW AVG TOLERANCE",7932572.69
+4502,"Rowland","Talon","California",50,"Divorced","Male",2,3,"AVERAGE TOLERANCE",3502149.02
+4509,"Lawson","Indigo","Florida",50,"Single","",2,4,"ABOVE AVG TOLERANCE",5009219.94
+4622,"Mcfarland","Hollee","Pennsylvania",51,"","Female",4,3,"AVERAGE TOLERANCE",9401610.38
+4627,"Wolf","Yasir","Florida",51,"Married","Female",4,2,"BELOW AVG TOLERANCE",15757818.45
+4631,"Clayton","Zorita","California",51,"Single","Male",4,4,"ABOVE AVG TOLERANCE",7139713.59
+4634,"Duffy","Axel","Pennsylvania",51,"Married","Male",4,3,"AVERAGE TOLERANCE",2080965.78
+4642,"Jarvis","Jameson","Maryland",51,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2750698.56
+4673,"Hobbs","Blaine","Oregon",51,"Married","Male",3,2,"BELOW AVG TOLERANCE",5842570.52
+4683,"Watson","Fletcher","Illinois",51,"Married","Male",3,3,"AVERAGE TOLERANCE",5787821.49
+4687,"Mccall","Montana","Maine",51,"Single","",3,4,"ABOVE AVG TOLERANCE",8051247.61
+4688,"Roberson","Lee","Minnesota",51,"Married","",3,3,"AVERAGE TOLERANCE",6683963.9
+4689,"Thompson","Paki","Alabama",51,"Single","",3,3,"AVERAGE TOLERANCE",4842210.24
+4695,"Conway","Chanda","Florida",51,"","Male",2,4,"ABOVE AVG TOLERANCE",3885706.94
+4702,"Mcmillan","Sarah","Maryland",51,"Married","Female",2,3,"AVERAGE TOLERANCE",9221252.89
+4704,"Murray","Merritt","Virginia",51,"Single","Female",2,3,"AVERAGE TOLERANCE",8870071.15
+4723,"Torres","Beck","Florida",51,"","Male",2,3,"AVERAGE TOLERANCE",3797642.4
+4830,"Mcclure","Tanek","Florida",52,"Married","Male",5,3,"AVERAGE TOLERANCE",6063433.93
+4838,"Elliott","Chaim","Alaska",52,"Married","",5,3,"AVERAGE TOLERANCE",6412884.77
+4840,"Gilliam","Jael","Pennsylvania",52,"Single","",5,2,"BELOW AVG TOLERANCE",8544120.41
+4843,"Wood","Risa","Illinois",52,"Single","",5,3,"AVERAGE TOLERANCE",7272030.53
+4851,"Garrett","Nigel","Florida",52,"Married","Female",4,3,"AVERAGE TOLERANCE",10319157.91
+4869,"Hayes","Diana","Delaware",52,"Married","Male",4,4,"ABOVE AVG TOLERANCE",10225799.77
+4871,"Mcgee","Raymond","Texas",52,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5273221.56
+4922,"Trevino","Mikayla","Maryland",52,"Married","Female",2,3,"AVERAGE TOLERANCE",9909837.21
+4926,"Bowman","Isaiah","Maine",52,"","Male",2,3,"AVERAGE TOLERANCE",6605915.23
+4938,"Vega","Callie","Nevada",52,"Divorced","Male",2,3,"AVERAGE TOLERANCE",3322939.53
+4942,"Swanson","Hasad","Massachusetts",52,"Single","",2,3,"AVERAGE TOLERANCE",7714390.21
+5030,"Joyner","Roanna","Michigan",53,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3484884.56
+5039,"Chase","Shay","Florida",53,"Single","",5,2,"BELOW AVG TOLERANCE",5817559.64
+5041,"Gardner","Murphy","Florida",53,"Single","",5,4,"ABOVE AVG TOLERANCE",4761560.16
+5058,"Rosales","Meredith","Ohio",53,"","Female",4,2,"BELOW AVG TOLERANCE",9824757.41
+5071,"Hardy","Cedric","Florida",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2790175.91
+5086,"Aguirre","Gail","California",53,"Married","Male",3,3,"AVERAGE TOLERANCE",3992947.43
+5088,"Bright","Sarah","Georgia",53,"Married","Male",3,3,"AVERAGE TOLERANCE",5283070.62
+5112,"Pennington","Halla","Maryland",53,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4319493.44
+5128,"Mclean","Deborah","Florida",53,"Married","Female",2,3,"AVERAGE TOLERANCE",8463719.81
+5130,"Nielsen","Lucy","California",53,"Married","Female",2,3,"AVERAGE TOLERANCE",5214044.91
+5143,"Neal","Shannon","Florida",53,"","Male",2,4,"ABOVE AVG TOLERANCE",3834175.78
+5253,"Holcomb","Malik","Maryland",54,"","Male",5,5,"HIGH RISK",3792535.29
+5254,"Livingston","Kelly","Massachusetts",54,"Married","Male",5,4,"ABOVE AVG TOLERANCE",2831914.94
+5255,"Luna","Octavius","Maryland",54,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3440212.7
+5278,"Shaffer","Hedley","Maryland",54,"","Female",4,4,"ABOVE AVG TOLERANCE",10783263.89
+5288,"Haley","Dennis","Minnesota",54,"","Male",4,4,"ABOVE AVG TOLERANCE",6242697.3
+5327,"Flores","Cara","California",54,"Married","Female",2,3,"AVERAGE TOLERANCE",14802459.26
+5341,"Cox","Savannah","Minnesota",54,"Married","Male",2,3,"AVERAGE TOLERANCE",6269569.57
+5343,"Lowe","Yardley","Florida",54,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1337368.07
+5347,"Porter","Marah","Oregon",54,"Married","Male",2,3,"AVERAGE TOLERANCE",5558367.63
+5440,"Rowland","Janna","Florida",55,"Married","Male",5,3,"AVERAGE TOLERANCE",6072019.54
+5446,"Parker","Jacqueline","Tennessee",55,"Married","",5,3,"AVERAGE TOLERANCE",6939027.79
+5452,"Hatfield","Illana","Nevada",55,"Married","Female",4,2,"BELOW AVG TOLERANCE",6875980.19
+5458,"Mccall","Mira","Colorado",55,"Married","Female",4,4,"ABOVE AVG TOLERANCE",5929029.78
+5462,"Stewart","Laura","Florida",55,"","Female",4,4,"ABOVE AVG TOLERANCE",11464017.84
+5484,"Conner","Allistair","Virginia",55,"Married","Male",3,3,"AVERAGE TOLERANCE",9538498.02
+5503,"Pickett","Paul","Virginia",55,"Married","Male",3,4,"ABOVE AVG TOLERANCE",4310102.24
+5504,"Rogers","Oren","California",55,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3870508.75
+919,"Nielsen","Bell","Massachusetts",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4026164.26
+922,"Shepherd","Quinlan","Colorado",34,"Single","Male",5,4,"ABOVE AVG TOLERANCE",6489792.44
+930,"Stevenson","Brenna","Maryland",34,"Single","",5,4,"ABOVE AVG TOLERANCE",5319674.37
+939,"Little","Evan","Washington",34,"Married","Female",4,2,"BELOW AVG TOLERANCE",8608121.14
+949,"Ward","Zeus","Maine",34,"Married","Female",4,3,"AVERAGE TOLERANCE",8860046.39
+958,"Morin","Aileen","Virginia",34,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3695118.48
+1001,"Oneil","Brenda","Minnesota",34,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5612477.77
+1002,"Pittman","Tamara","Michigan",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2988254.4
+1005,"York","Ori","Indiana",34,"","Male",3,4,"ABOVE AVG TOLERANCE",3151433.92
+1015,"Boyer","Hayfa","Virginia",34,"Married","Male",2,3,"AVERAGE TOLERANCE",1382680.7
+1027,"Newman","Lenore","Michigan",34,"","Female",2,4,"ABOVE AVG TOLERANCE",6505762.32
+1034,"Woods","Shaine","Colorado",34,"","Female",2,4,"ABOVE AVG TOLERANCE",7044542.28
+1045,"Olsen","Shelly","Florida",34,"Married","Male",2,3,"AVERAGE TOLERANCE",6547490.98
+1145,"Osborn","Axel","Florida",35,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1529707.68
+1153,"Clements","Nichole","Florida",35,"Single","",5,4,"ABOVE AVG TOLERANCE",7062670.53
+1166,"Luna","Kendall","California",35,"Married","Female",4,4,"ABOVE AVG TOLERANCE",8448401.09
+1200,"Vargas","Xerxes","California",35,"Single","",4,3,"AVERAGE TOLERANCE",5784453.45
+1205,"Buchanan","Cade","California",35,"Married","Male",3,3,"AVERAGE TOLERANCE",5652461.28
+1245,"Schultz","Julian","Massachusetts",35,"","Female",2,3,"AVERAGE TOLERANCE",5644856.28
+1251,"Carrillo","Wanda","Indiana",35,"Married","Male",2,3,"AVERAGE TOLERANCE",2844918.05
+1256,"Garza","Melanie","Ohio",35,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4631188.03
+1260,"Mcfadden","Freya","Florida",35,"","Male",2,4,"ABOVE AVG TOLERANCE",5319678.56
+1272,"Shields","Kai","Florida",35,"Single","",2,3,"AVERAGE TOLERANCE",3726932.22
+1386,"Meyers","Kiona","Virginia",36,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2550928.52
+1391,"Rivas","Alexa","Florida",36,"","Male",5,4,"ABOVE AVG TOLERANCE",6272298.16
+1396,"Turner","Daquan","Louisiana",36,"Single","",5,4,"ABOVE AVG TOLERANCE",4142001.42
+1407,"Jennings","Laura","Oregon",36,"Married","Female",4,3,"AVERAGE TOLERANCE",6241013.86
+1413,"Myers","Norman","Ohio",36,"Married","Female",4,3,"AVERAGE TOLERANCE",8331257.52
+1428,"Clements","Hayfa","Washington",36,"Married","Male",3,3,"AVERAGE TOLERANCE",4249523.23
+1460,"Snow","Ross","Nevada",36,"Married","Male",3,3,"AVERAGE TOLERANCE",5196724.99
+1461,"Sullivan","Nadine","Virginia",36,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5336015.84
+1463,"Cunningham","Jeremy","Oregon",36,"Single","",3,3,"AVERAGE TOLERANCE",5614918.38
+1464,"Lewis","Branden","Ohio",36,"Single","",3,4,"ABOVE AVG TOLERANCE",5064235.56
+1471,"Hooper","Rhonda","Illinois",36,"","Female",2,3,"AVERAGE TOLERANCE",6070951.08
+1480,"Boone","Jack","California",36,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4586179.47
+1489,"Holloway","Nero","Illinois",36,"Married","Male",2,3,"AVERAGE TOLERANCE",4787765.76
+1612,"Parker","Lois","Oregon",37,"","Male",5,4,"ABOVE AVG TOLERANCE",4438393.68
+1613,"Reid","Victoria","Maryland",37,"Married","Male",5,3,"AVERAGE TOLERANCE",5127849.41
+1616,"Riddle","Lars","Texas",37,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3522945.1
+1619,"Skinner","Leroy","Texas",37,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4446738.79
+2290,"Lawson","Kermit","Alaska",40,"Single","",5,3,"AVERAGE TOLERANCE",7011039.03
+2307,"Alston","Raphael","Massachusetts",40,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2853625.33
+2318,"Emerson","Macaulay","Virginia",40,"","Male",4,4,"ABOVE AVG TOLERANCE",5765088.03
+2325,"Osborne","Zelenia","Georgia",40,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3015743.98
+2332,"Ross","Isabella","Florida",40,"Single","",4,2,"BELOW AVG TOLERANCE",5961229.96
+2357,"Puckett","Aurora","Pennsylvania",40,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2326525.04
+2367,"Ross","Althea","Georgia",40,"Married","",3,3,"AVERAGE TOLERANCE",8754747.41
+2374,"Obrien","Maryam","California",40,"Married","Female",2,2,"BELOW AVG TOLERANCE",8888247.09
+2375,"Oneil","Jessamine","Nevada",40,"Married","Female",2,2,"BELOW AVG TOLERANCE",7237088.97
+2379,"Salazar","Jerome","Maine",40,"","Female",2,4,"ABOVE AVG TOLERANCE",10089918.18
+2381,"Weiss","Hedy","Florida",40,"","Female",2,4,"ABOVE AVG TOLERANCE",4313058.94
+2383,"Adams","Marny","Florida",40,"Married","Male",2,3,"AVERAGE TOLERANCE",6049531.06
+2396,"Simon","Ryan","California",40,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4783624.65
+2398,"York","Vivien","California",40,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2842829.52
+2480,"Lang","Aquila","Connecticut",41,"Single","Male",5,5,"HIGH RISK",4092296.31
+2487,"Warren","Brendan","California",41,"","Male",5,4,"ABOVE AVG TOLERANCE",2443289.02
+2507,"Mcintyre","Kyra","Indiana",41,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2313477.27
+2516,"Stephens","Karyn","Texas",41,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5115265.38
+2524,"Chase","Tyler","Indiana",41,"","Male",3,4,"ABOVE AVG TOLERANCE",3938315.82
+2551,"Willis","Larissa","Georgia",41,"","Male",3,4,"ABOVE AVG TOLERANCE",5114055.85
+2555,"Cantrell","Hilel","Texas",41,"Married","Male",2,2,"BELOW AVG TOLERANCE",7405785.01
+2561,"Murray","Dorothy","Georgia",41,"Married","Female",2,2,"BELOW AVG TOLERANCE",8198050.61
+2570,"Harvey","Molly","Texas",41,"","Male",2,4,"ABOVE AVG TOLERANCE",5179927.28
+2579,"Parrish","Anastasia","Texas",41,"Married","Male",2,4,"ABOVE AVG TOLERANCE",9030476.72
+2582,"Woods","Melanie","Michigan",41,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1845757.9
+2676,"Irwin","Ruth","Georgia",42,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2708234.76
+2677,"Mcleod","Hedwig","Idaho",42,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1651995.84
+2680,"Rush","Kylie","Massachusetts",42,"Divorced","Male",5,3,"AVERAGE TOLERANCE",1750004.74
+2691,"Gonzales","Yuli","Florida",42,"Married","Female",4,3,"AVERAGE TOLERANCE",8192705.86
+2706,"Clements","Carl","California",42,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3923014
+2711,"Long","Isadora","Virginia",42,"Married","Male",4,2,"BELOW AVG TOLERANCE",6663050.06
+2724,"Allison","Bruno","Connecticut",42,"","Male",3,4,"ABOVE AVG TOLERANCE",4448989.78
+2727,"Cote","Jenna","Pennsylvania",42,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3321798.16
+2754,"Lopez","Xaviera","Indiana",42,"Married","Male",3,4,"ABOVE AVG TOLERANCE",6993863.92
+2762,"Rojas","Kyle","Indiana",42,"Married","",3,3,"AVERAGE TOLERANCE",8441506.65
+2767,"Harper","Brody","Delaware",42,"","Female",2,4,"ABOVE AVG TOLERANCE",7912607.33
+2768,"Harris","Alma","Florida",42,"","Female",2,2,"BELOW AVG TOLERANCE",9240414.22
+2776,"Wood","Darryl","Florida",42,"","Female",2,2,"BELOW AVG TOLERANCE",10454562.62
+2782,"Galloway","Eaton","Virginia",42,"Married","Male",2,3,"AVERAGE TOLERANCE",7452909.34
+2895,"Hutchinson","Alisa","Kentucky",43,"Single","",5,3,"AVERAGE TOLERANCE",8949588.53
+2905,"Macdonald","Tad","Georgia",43,"","Female",4,3,"AVERAGE TOLERANCE",4667721.17
+3590,"Williamson","Serina","Ohio",46,"Married","Female",4,3,"AVERAGE TOLERANCE",4722082.03
+3591,"Acosta","Stephanie","California",46,"Married","Male",4,3,"AVERAGE TOLERANCE",8535405.12
+3592,"Cervantes","Chanda","Delaware",46,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1881684.95
+3634,"Mcneil","Hermione","Oregon",46,"Married","Male",3,4,"ABOVE AVG TOLERANCE",7068883.97
+3636,"Owen","Marny","Nebraska",46,"Single","Male",3,3,"AVERAGE TOLERANCE",5120619.37
+3650,"Glass","Chandler","Oklahoma",46,"Married","Female",2,2,"BELOW AVG TOLERANCE",7058500.1
+3658,"Casey","India","Nevada",46,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2469476.1
+3663,"Jensen","Timothy","Kentucky",46,"Married","Male",2,3,"AVERAGE TOLERANCE",3022825.45
+3783,"Fuller","Melyssa","Maine",47,"Single","",5,5,"HIGH RISK",3908462.58
+3809,"Dudley","Theodore","Florida",47,"Married","Male",4,3,"AVERAGE TOLERANCE",4458997.29
+3812,"Gregory","Lysandra","Florida",47,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2212461.86
+3814,"Kidd","Price","Michigan",47,"Divorced","Male",4,3,"AVERAGE TOLERANCE",1646897.08
+3815,"Moran","Willa","Maryland",47,"Divorced","Male",4,5,"HIGH RISK",1899468.68
+3843,"Mason","Paloma","Tennessee",47,"Married","Male",3,3,"AVERAGE TOLERANCE",5200876.35
+3859,"Erickson","Thaddeus","Texas",47,"","Female",2,3,"AVERAGE TOLERANCE",3406287.46
+3863,"Morgan","Plato","Florida",47,"","Female",2,3,"AVERAGE TOLERANCE",6660217.75
+3880,"Mercado","Jenette","Florida",47,"Single","Male",2,4,"ABOVE AVG TOLERANCE",7232932.8
+3974,"Jackson","Briar","Indiana",48,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5671103.73
+3975,"Jenkins","Fallon","Washington",48,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2376686.62
+3977,"Mclaughlin","Nicole","Wisconsin",48,"Divorced","Male",5,3,"AVERAGE TOLERANCE",2746326.4
+3978,"Moreno","Geraldine","Illinois",48,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2706334.41
+3997,"Johnston","Zane","Washington",48,"Married","Female",4,3,"AVERAGE TOLERANCE",6643053.49
+4008,"Bush","Amir","Wisconsin",48,"","Male",4,4,"ABOVE AVG TOLERANCE",2405008.59
+4009,"Cline","Cole","Alabama",48,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4933409.5
+4012,"Goodman","Quyn","Pennsylvania",48,"Married","Male",4,4,"ABOVE AVG TOLERANCE",7371934.1
+4051,"Hopkins","Jocelyn","Florida",48,"Married","Male",3,3,"AVERAGE TOLERANCE",5178167.38
+4060,"Singleton","Lucas","Pennsylvania",48,"Single","",3,4,"ABOVE AVG TOLERANCE",2771066.13
+4061,"Welch","Jael","Wisconsin",48,"Single","",3,5,"HIGH RISK",6687543.66
+4082,"George","Zia","Maine",48,"Married","Male",2,2,"BELOW AVG TOLERANCE",2461741.4
+4085,"Lynn","Brenden","Kentucky",48,"Single","Male",2,3,"AVERAGE TOLERANCE",6559469.21
+4170,"Simmons","Fuller","California",49,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3680386.02
+4172,"Snow","Eugenia","Minnesota",49,"","Male",5,4,"ABOVE AVG TOLERANCE",4481183.07
+4193,"Byrd","Mufutau","Florida",49,"Married","Male",4,3,"AVERAGE TOLERANCE",5212701.54
+2927,"Maxwell","Felicia","Indiana",43,"Married","Male",4,3,"AVERAGE TOLERANCE",6835320.42
+2929,"Oneal","Patience","Massachusetts",43,"Divorced","Male",4,3,"AVERAGE TOLERANCE",2190027.53
+2942,"Barnes","Yoshi","California",43,"Married","Male",3,3,"AVERAGE TOLERANCE",5396049.02
+2968,"Moreno","Tara","Maine",43,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3039093.02
+2970,"Oliver","Amal","Indiana",43,"Married","Male",3,2,"BELOW AVG TOLERANCE",6250152.91
+2972,"Pope","Yetta","Wyoming",43,"Single","Male",3,3,"AVERAGE TOLERANCE",3784059.25
+2982,"Harrell","Karleigh","Maryland",43,"Married","Female",2,3,"AVERAGE TOLERANCE",9516716.66
+2985,"Lowe","Sacha","Wisconsin",43,"","Female",2,4,"ABOVE AVG TOLERANCE",11481071.84
+2992,"Bird","Bert","Maryland",43,"Single","Male",2,3,"AVERAGE TOLERANCE",4872573.06
+3000,"Pickett","Guinevere","Maryland",43,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5753739.35
+3112,"Hurley","Jermaine","Maryland",44,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2256219.86
+3122,"Tanner","Autumn","Indiana",44,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3132728.28
+3190,"Landry","Germane","Wisconsin",44,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2259016.41
+3191,"Lewis","Mary","Oregon",44,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2477400.15
+3192,"Marshall","Galvin","Massachusetts",44,"Divorced","Male",3,3,"AVERAGE TOLERANCE",2459724.35
+3193,"Mcmahon","Hector","California",44,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3657993.7
+3201,"Sullivan","Jameson","Colorado",44,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1962164.56
+3202,"Wong","Breanna","Florida",44,"Single","Male",3,4,"ABOVE AVG TOLERANCE",4559161.15
+3204,"Ayers","Olga","Florida",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5437638.59
+3211,"Lucas","Armand","Florida",44,"Married","Female",2,2,"BELOW AVG TOLERANCE",7883249.46
+3226,"Gibbs","TaShya","California",44,"Single","Male",2,3,"AVERAGE TOLERANCE",5849151.74
+3231,"Newton","Isadora","Florida",44,"Married","Male",2,3,"AVERAGE TOLERANCE",7275342.63
+3344,"Jenkins","Teegan","California",45,"Single","Male",5,3,"AVERAGE TOLERANCE",2457167.17
+3346,"Macdonald","Francis","Wisconsin",45,"Married","Male",5,3,"AVERAGE TOLERANCE",5726655.68
+3350,"Vaughn","Aileen","Minnesota",45,"Married","Male",5,3,"AVERAGE TOLERANCE",8157973.09
+3361,"Hickman","Cameron","Minnesota",45,"","Female",4,3,"AVERAGE TOLERANCE",6017184.23
+3368,"Potter","Rudyard","Virginia",45,"Married","Female",4,3,"AVERAGE TOLERANCE",4178443.74
+3385,"Ortega","Denton","Virginia",45,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4637807.55
+3394,"Morris","Matthew","Texas",45,"Married","",4,3,"AVERAGE TOLERANCE",6491760.66
+3417,"Hendricks","Lamar","Pennsylvania",45,"Married","Male",3,2,"BELOW AVG TOLERANCE",4321964.06
+3420,"Lester","Murphy","Michigan",45,"","Male",3,4,"ABOVE AVG TOLERANCE",6647980.42
+3422,"Parrish","Shafira","Pennsylvania",45,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1349653.45
+3434,"Fox","Marah","Ohio",45,"","Female",2,4,"ABOVE AVG TOLERANCE",8985665.84
+3436,"Hebert","Noah","Delaware",45,"","Female",2,2,"BELOW AVG TOLERANCE",9092665.55
+3454,"Mullins","Rana","Pennsylvania",45,"Married","Male",2,3,"AVERAGE TOLERANCE",8306330.95
+1626,"Erickson","Igor","Montana",37,"Single","",5,3,"AVERAGE TOLERANCE",4150415.25
+1628,"Marshall","Vera","Indiana",37,"Married","",5,3,"AVERAGE TOLERANCE",11037734.4
+1629,"Quinn","Paula","Maryland",37,"Single","",5,4,"ABOVE AVG TOLERANCE",5799407.31
+1637,"Langley","Oscar","Florida",37,"Married","Female",4,3,"AVERAGE TOLERANCE",6662061.36
+1638,"Mccormick","Dahlia","Texas",37,"","Female",4,3,"AVERAGE TOLERANCE",9030012.96
+1656,"Odom","Yasir","Kentucky",37,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3094850.44
+1691,"Rosario","Pandora","Florida",37,"Married","Male",3,3,"AVERAGE TOLERANCE",4020039.46
+1697,"Sawyer","Kelsie","Massachusetts",37,"Married","",3,3,"AVERAGE TOLERANCE",7538475
+1704,"Dunlap","Adara","Georgia",37,"Married","Female",2,3,"AVERAGE TOLERANCE",9607066.72
+1719,"Carlson","Nissim","Virginia",37,"","Male",2,4,"ABOVE AVG TOLERANCE",4688510.56
+1721,"Curry","Lara","Texas",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4566444.34
+1726,"Hammond","Eden","Ohio",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3065020.7
+1737,"Wiggins","Eagan","Florida",37,"Married","Male",2,3,"AVERAGE TOLERANCE",5275048.98
+1856,"Mercado","Hollee","Nevada",38,"Married","Female",4,3,"AVERAGE TOLERANCE",5103437.33
+1860,"Sullivan","Scarlett","Wisconsin",38,"Married","Female",4,3,"AVERAGE TOLERANCE",7239436.85
+1875,"Knight","Medge","California",38,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2155709.12
+1882,"Byrd","Anastasia","Florida",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5053427.07
+1906,"Meadows","Lars","Virginia",38,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3551858.21
+1908,"Powers","Buffy","Delaware",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1509490.56
+1910,"Salinas","Barbara","Alaska",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2089770.56
+1919,"Wilkerson","Dawn","Wisconsin",38,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1328587.2
+1922,"James","Nehru","Delaware",38,"Single","",3,4,"ABOVE AVG TOLERANCE",8015354.64
+1929,"Hanson","Bell","Maryland",38,"Married","Female",2,2,"BELOW AVG TOLERANCE",8499467.52
+1940,"Schmidt","Deacon","Maryland",38,"Married","Female",2,3,"AVERAGE TOLERANCE",7728282.58
+1943,"Wolfe","Ciara","Maine",38,"Married","Female",2,2,"BELOW AVG TOLERANCE",11721613.39
+1948,"Charles","Ezekiel","Maryland",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2016852.52
+1953,"Hoover","Kiara","Delaware",38,"Married","Male",2,3,"AVERAGE TOLERANCE",5316996.09
+1958,"Monroe","Amelia","Florida",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3674254.4
+2084,"Hogan","Azalia","Wyoming",39,"Married","Male",5,3,"AVERAGE TOLERANCE",6636588.48
+2096,"Strickland","Brooke","Alaska",39,"Single","",5,3,"AVERAGE TOLERANCE",4769694.18
+2105,"Joyce","Joelle","California",39,"Single","Female",4,4,"ABOVE AVG TOLERANCE",6244314.19
+2112,"Burris","Anthony","Virginia",39,"Married","Male",4,3,"AVERAGE TOLERANCE",6433175.12
+2114,"Daniels","Salvador","Florida",39,"Married","Male",4,3,"AVERAGE TOLERANCE",3444103.4
+2119,"Morin","Lucius","California",39,"Married","Male",4,3,"AVERAGE TOLERANCE",4122935.43
+2124,"Russell","Nolan","Arizona",39,"Single","",4,3,"AVERAGE TOLERANCE",3694809.69
+2126,"Allen","Talon","Pennsylvania",39,"","Male",3,4,"ABOVE AVG TOLERANCE",5581601.68
+2155,"Ware","Gary","Oregon",39,"Single","Male",3,4,"ABOVE AVG TOLERANCE",1991101.53
+2157,"Benson","Brody","Ohio",39,"Single","",3,3,"AVERAGE TOLERANCE",2581107.48
+2168,"Kidd","Baxter","Georgia",39,"Married","Female",2,3,"AVERAGE TOLERANCE",5922557.28
+2170,"Morales","Charissa","Florida",39,"Single","Female",2,4,"ABOVE AVG TOLERANCE",6014712.24
+2171,"Price","Tyler","Massachusetts",39,"","Female",2,4,"ABOVE AVG TOLERANCE",7873960.32
+2179,"Dale","Whilemina","Florida",39,"","Male",2,4,"ABOVE AVG TOLERANCE",5818218.88
+2183,"Mcguire","Barbara","Florida",39,"Married","Male",2,3,"AVERAGE TOLERANCE",4222489.44
+5514,"Byers","Lisandra","Oregon",55,"","Male",2,4,"ABOVE AVG TOLERANCE",6600224.16
+5516,"Delaney","Beatrice","Florida",55,"Married","Female",2,3,"AVERAGE TOLERANCE",10030518.83
+5517,"Fisher","Sonia","Delaware",55,"Married","Female",2,3,"AVERAGE TOLERANCE",4158742.87
+5537,"Parrish","Amela","Wyoming",55,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4959339.79
+5540,"Tyler","Jane","Indiana",55,"Divorced","Male",2,5,"HIGH RISK",2657570.06
+5545,"Burt","Amir","Massachusetts",55,"Married","",2,3,"AVERAGE TOLERANCE",3730732.85
+4236,"Barrett","Cora","California",49,"Married","",3,3,"AVERAGE TOLERANCE",7748481.97
+4246,"Goodman","Scott","Massachusetts",49,"Married","Female",2,3,"AVERAGE TOLERANCE",10323531.51
+4252,"Robertson","Melanie","Delaware",49,"Married","Female",2,3,"AVERAGE TOLERANCE",7759078.59
+4262,"Cunningham","Eve","California",49,"Divorced","Male",2,5,"HIGH RISK",2277241.9
+4268,"Joseph","Cally","Florida",49,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3302998.71
+4275,"Travis","Solomon","Nevada",49,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1759336.62
+4279,"Espinoza","Nora","Alabama",49,"Single","",2,2,"BELOW AVG TOLERANCE",5740092.48
+4376,"Mcdaniel","Camden","Nebraska",50,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",3809286.14
+4382,"Pierce","Yolanda","Alabama",50,"Single","",5,2,"BELOW AVG TOLERANCE",2907936.83
+4398,"Pierce","Basia","Illinois",50,"Single","Female",4,2,"BELOW AVG TOLERANCE",9263849.73
+4405,"Boyer","Gloria","California",50,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2654411.33
+4416,"Mcmahon","Wendy","Wyoming",50,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5481621.22
+4469,"Madden","Beverly","Maryland",50,"","Female",2,3,"AVERAGE TOLERANCE",9440931.9
+4473,"Robertson","Brynn","Florida",50,"Married","Female",2,3,"AVERAGE TOLERANCE",10985903.77
+4481,"Craig","Bree","California",50,"Married","Male",2,3,"AVERAGE TOLERANCE",6995027.07
+4486,"Goodwin","Hope","Delaware",50,"Married","Male",2,3,"AVERAGE TOLERANCE",3900032.08
+4490,"Horne","Paki","Maryland",50,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2294024.92
+4493,"Knight","Brynn","Florida",50,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3827849.53
+4607,"Murphy","Colleen","Florida",51,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4168703.49
+4626,"Walker","Angelica","Virginia",51,"","Female",4,4,"ABOVE AVG TOLERANCE",6819773.76
+4633,"Dorsey","Oscar","California",51,"","Male",4,4,"ABOVE AVG TOLERANCE",6321206.59
+4635,"Ferguson","Xavier","Florida",51,"Single","Male",4,3,"AVERAGE TOLERANCE",3436515.5
+4636,"Fields","Devin","Florida",51,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2553894
+4651,"Allison","Yolanda","Michigan",51,"","Male",3,3,"AVERAGE TOLERANCE",6723813.51
+4677,"Osborne","Quin","Florida",51,"Married","Male",3,3,"AVERAGE TOLERANCE",6232004.58
+4679,"Rutledge","Penelope","Pennsylvania",51,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5881151.75
+4708,"Sparks","Ignatius","Florida",51,"","Female",2,3,"AVERAGE TOLERANCE",9031727.67
+4711,"Bowen","Rina","Maryland",51,"Married","Male",2,3,"AVERAGE TOLERANCE",5443646.52
+4720,"Graham","Iona","Florida",51,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2943083.2
+4726,"Mann","Stacy","Colorado",51,"Single","",2,2,"BELOW AVG TOLERANCE",4346820.61
+4836,"Webb","Keefe","Maryland",52,"Single","Male",5,3,"AVERAGE TOLERANCE",3364636.66
+4842,"Perez","Rinah","California",52,"Single","",5,3,"AVERAGE TOLERANCE",6643135.08
+4857,"Merritt","Maris","Minnesota",52,"","Female",4,3,"AVERAGE TOLERANCE",4619964.52
+4867,"Cabrera","Eliana","Georgia",52,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3814306.22
+4873,"Mcneil","Troy","Florida",52,"Single","Male",4,5,"HIGH RISK",4800438.86
+4883,"Williams","Ignacia","Florida",52,"Married","",4,3,"AVERAGE TOLERANCE",4686521.47
+4904,"Marshall","Elvis","Kansas",52,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2308775.89
+4915,"Jimenez","Michael","Delaware",52,"Single","Female",2,3,"AVERAGE TOLERANCE",6623800.66
+4929,"Hancock","Ryan","Kentucky",52,"Single","Male",2,4,"ABOVE AVG TOLERANCE",7395446.09
+4932,"Moore","Nissim","Pennsylvania",52,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2762097.71
+4936,"Sawyer","Inez","California",52,"Married","Male",2,3,"AVERAGE TOLERANCE",6884380.11
+4941,"Mcclain","Emmanuel","Indiana",52,"Single","",2,2,"BELOW AVG TOLERANCE",5697736.46
+5034,"Murray","Rigel","Indiana",53,"Married","Male",5,3,"AVERAGE TOLERANCE",7255513.74
+5037,"Ray","Neil","Florida",53,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5999027.36
+5038,"Zamora","Axel","Maryland",53,"Single","Male",5,3,"AVERAGE TOLERANCE",6364657.04
+5044,"Santiago","Rigel","Texas",53,"Single","",5,4,"ABOVE AVG TOLERANCE",5472231.91
+5055,"Mcfadden","Hoyt","Florida",53,"Married","Female",4,3,"AVERAGE TOLERANCE",5906609.16
+5059,"Rose","Vielka","Oregon",53,"","Female",4,3,"AVERAGE TOLERANCE",7711456.6
+5061,"Shannon","Josephine","Connecticut",53,"Married","Female",4,3,"AVERAGE TOLERANCE",9845277.24
+5064,"Adkins","Nolan","Colorado",53,"","Male",4,4,"ABOVE AVG TOLERANCE",2647023.83
+5066,"Barnes","Hedwig","Ohio",53,"","Male",4,4,"ABOVE AVG TOLERANCE",3073067.23
+5078,"Morrison","Eugenia","Minnesota",53,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1845830.34
+5091,"Clemons","Morgan","California",53,"Married","Male",3,4,"ABOVE AVG TOLERANCE",5271955.21
+5107,"Mack","Jane","Pennsylvania",53,"","Male",3,4,"ABOVE AVG TOLERANCE",4816914.13
+5120,"Bennett","Jerome","Connecticut",53,"Single","",3,4,"ABOVE AVG TOLERANCE",4304759.8
+5122,"Combs","Lani","Wisconsin",53,"","Male",2,3,"AVERAGE TOLERANCE",4754546.69
+5147,"Salinas","Upton","Florida",53,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1979945.85
+5266,"Mckenzie","Olympia","Ohio",54,"Married","",5,3,"AVERAGE TOLERANCE",6699917.37
+5286,"Estes","Florence","Tennessee",54,"Married","Male",4,2,"BELOW AVG TOLERANCE",7271857.61
+5320,"Stephens","Thaddeus","Kentucky",54,"Married","Male",3,2,"BELOW AVG TOLERANCE",3274016.72
+5330,"Huff","Vance","Florida",54,"Married","Female",2,2,"BELOW AVG TOLERANCE",12786303.17
+5339,"Best","Yuli","Wyoming",54,"Married","Male",2,2,"BELOW AVG TOLERANCE",9379204.3
+5345,"Mckinney","Indira","Indiana",54,"Married","Male",2,2,"BELOW AVG TOLERANCE",3447409.76
+5346,"Pittman","Imelda","California",54,"Married","Male",2,3,"AVERAGE TOLERANCE",5669604.76
+5436,"Pate","Pascale","Florida",55,"Single","Male",5,3,"AVERAGE TOLERANCE",4052240
+5437,"Pena","Candace","Florida",55,"Married","Male",5,4,"ABOVE AVG TOLERANCE",2900749.25
+5461,"Rowe","Barrett","Connecticut",55,"Married","Female",4,3,"AVERAGE TOLERANCE",5027520.27
+5481,"Whitney","Carson","Maryland",55,"Married","",4,3,"AVERAGE TOLERANCE",9709526.59
+5482,"Atkins","Carson","Maryland",55,"Married","Male",3,3,"AVERAGE TOLERANCE",5316284.73
+5500,"Mathews","Felicia","Texas",55,"Married","Male",3,3,"AVERAGE TOLERANCE",5565741.81
+5501,"Parks","Zoe","Illinois",55,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3182665.63
+912,"Hill","Bruce","Connecticut",34,"Married","Male",5,3,"AVERAGE TOLERANCE",3247455.16
+915,"Maddox","Jackson","Colorado",34,"Married","Male",5,3,"AVERAGE TOLERANCE",7986206.68
+916,"Mccarthy","Clayton","Wyoming",34,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",1795962.96
+952,"Booker","Reed","Florida",34,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1902934.32
+953,"Boyer","Logan","California",34,"Married","Male",4,3,"AVERAGE TOLERANCE",4701021.69
+969,"Caldwell","Nomlanga","California",34,"Married","Male",3,3,"AVERAGE TOLERANCE",5634376.9
+996,"Mueller","Doris","Florida",34,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2726516.12
+1003,"Ramsey","Travis","Washington",34,"","Male",3,4,"ABOVE AVG TOLERANCE",1998286.64
+1012,"Atkinson","Jorden","Florida",34,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3932618.55
+1016,"Caldwell","Brett","Florida",34,"Married","Male",2,3,"AVERAGE TOLERANCE",7963902.91
+1020,"Frost","Hasad","Massachusetts",34,"Married","Female",2,3,"AVERAGE TOLERANCE",7287267.16
+1035,"Austin","Margaret","California",34,"Single","Male",2,4,"ABOVE AVG TOLERANCE",2275412.46
+1036,"Brewer","Zachery","Colorado",34,"Married","Male",2,3,"AVERAGE TOLERANCE",6937016.26
+1043,"Mckenzie","Sloane","Colorado",34,"Married","Male",2,3,"AVERAGE TOLERANCE",2650257.89
+1144,"Oneill","Sasha","Alabama",35,"Married","Male",5,3,"AVERAGE TOLERANCE",5676682.55
+1147,"Porter","Eden","Massachusetts",35,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2389480.7
+1163,"Hardin","Bryar","California",35,"","Female",4,2,"BELOW AVG TOLERANCE",8199609.96
+1168,"Palmer","Luke","Florida",35,"Married","Female",4,3,"AVERAGE TOLERANCE",7486847.57
+1171,"Ayers","Montana","California",35,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3570418.23
+1177,"Finley","Paul","Virginia",35,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5146115.54
+1181,"Lewis","Mercedes","Pennsylvania",35,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1732397.44
+1185,"Mcknight","Idola","California",35,"Married","Male",4,3,"AVERAGE TOLERANCE",7047243.07
+1206,"Carr","Shannon","California",35,"Married","Male",3,3,"AVERAGE TOLERANCE",7657176.1
+1227,"Molina","Mechelle","Colorado",35,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1708459.84
+1229,"Pope","Malik","Arizona",35,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2983408.92
+1249,"Vinson","Colleen","Florida",35,"Married","Female",2,2,"BELOW AVG TOLERANCE",11468188.5
+1250,"Wilkerson","Rinah","Indiana",35,"","Female",2,3,"AVERAGE TOLERANCE",6697670.4
+1255,"Flores","Ariana","Connecticut",35,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2359144.12
+1263,"Weber","Janna","Nevada",35,"Married","Male",2,3,"AVERAGE TOLERANCE",4170316.7
+1264,"Welch","Ginger","Texas",35,"Married","Male",2,3,"AVERAGE TOLERANCE",3224873.09
+1267,"Bridges","Mary","Wisconsin",35,"Single","",2,3,"AVERAGE TOLERANCE",3417290.82
+1384,"Humphrey","Cameron","Virginia",36,"Married","Male",5,3,"AVERAGE TOLERANCE",3966421.16
+1418,"Mcknight","Gabriel","Delaware",36,"Married","Male",4,3,"AVERAGE TOLERANCE",3422350.08
+1454,"Pickett","Irma","Florida",36,"","Male",3,4,"ABOVE AVG TOLERANCE",3971320.88
+1455,"Rice","Zane","Massachusetts",36,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",3001833.44
+1470,"Holden","Roanna","Maine",36,"","Female",2,3,"AVERAGE TOLERANCE",5729743.68
+1474,"Parker","Tanner","Indiana",36,"Married","Female",2,3,"AVERAGE TOLERANCE",8573544
+1483,"Clay","Daphne","Massachusetts",36,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3773408.91
+1494,"Mooney","Ella","Washington",36,"Married","Male",2,3,"AVERAGE TOLERANCE",7578165.6
+1615,"Rhodes","Valentine","Georgia",37,"Married","Male",5,3,"AVERAGE TOLERANCE",4849216.04
+1620,"Snow","Nomlanga","Texas",37,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",2033371.64
+2299,"Graham","Preston","Pennsylvania",40,"","Female",4,3,"AVERAGE TOLERANCE",10198639.18
+2305,"Richard","Jennifer","Florida",40,"Married","Female",4,3,"AVERAGE TOLERANCE",11535661.37
+2309,"Bonner","Frances","Maryland",40,"Divorced","Male",4,3,"AVERAGE TOLERANCE",1163369.19
+2311,"Branch","Fleur","Minnesota",40,"Single","Male",4,3,"AVERAGE TOLERANCE",5354076.9
+2313,"Carson","Meghan","Maine",40,"Married","Male",4,3,"AVERAGE TOLERANCE",7429560.77
+2319,"Ferrell","Eugenia","Massachusetts",40,"Married","Male",4,4,"ABOVE AVG TOLERANCE",4675228.59
+2321,"Lancaster","Cailin","Michigan",40,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6238472.96
+2333,"Turner","Jelani","Connecticut",40,"Single","",4,2,"BELOW AVG TOLERANCE",2892241.44
+2352,"Nixon","Walter","Washington",40,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",1601458.76
+2353,"Noble","Dahlia","Minnesota",40,"Married","Male",3,4,"ABOVE AVG TOLERANCE",7856323.63
+2356,"Petersen","Sybill","California",40,"Married","Male",3,3,"AVERAGE TOLERANCE",8280978.51
+2363,"Ware","Galena","Oregon",40,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2682779.71
+2377,"Pickett","Kiara","California",40,"","Female",2,4,"ABOVE AVG TOLERANCE",7681655.66
+2391,"Harvey","Sara","Massachusetts",40,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3135006.54
+2484,"Mcleod","Hashim","Oregon",41,"Married","Male",5,3,"AVERAGE TOLERANCE",5569513.28
+2503,"Copeland","Rosalyn","Wisconsin",41,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",3543153.24
+2506,"Macias","Lynn","Texas",41,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4114940.23
+2541,"Melton","Rose","Florida",41,"","Male",3,4,"ABOVE AVG TOLERANCE",3945921.05
+2560,"Mcknight","Emmanuel","Wisconsin",41,"Married","Female",2,3,"AVERAGE TOLERANCE",2867344.13
+2573,"Mccullough","Sonya","California",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1346719.27
+2574,"Mcgowan","Yen","Oregon",41,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2798987.8
+2681,"Watts","Ora","California",42,"Single","Male",5,4,"ABOVE AVG TOLERANCE",3032799.81
+2694,"Juarez","Zeus","Wisconsin",42,"Single","Female",4,4,"ABOVE AVG TOLERANCE",9338459.8
+2698,"Rosario","Jack","Texas",42,"","Female",4,4,"ABOVE AVG TOLERANCE",8385099.77
+2702,"Whitehead","Quin","Massachusetts",42,"Married","Female",4,3,"AVERAGE TOLERANCE",12874766.42
+2705,"Chaney","Vivien","California",42,"Married","Male",4,3,"AVERAGE TOLERANCE",4749182.8
+2713,"Norris","Igor","Kentucky",42,"Married","Male",4,3,"AVERAGE TOLERANCE",7637973.87
+2726,"Boyd","Haviva","Florida",42,"","Male",3,4,"ABOVE AVG TOLERANCE",4225240.36
+2758,"Christian","Germaine","Florida",42,"Single","",3,2,"BELOW AVG TOLERANCE",6232828.05
+2771,"Myers","Gisela","Indiana",42,"Married","Female",2,3,"AVERAGE TOLERANCE",14848308.6
+2773,"Nieves","Hall","Massachusetts",42,"Married","Female",2,3,"AVERAGE TOLERANCE",4170040.14
+2893,"Branch","Cally","Florida",43,"Single","",5,3,"AVERAGE TOLERANCE",2338131.5
+2910,"Wagner","Drake","Maine",43,"Married","Female",4,3,"AVERAGE TOLERANCE",9585570.45
+2917,"Dixon","Dorian","California",43,"Married","Male",4,3,"AVERAGE TOLERANCE",5399508.05
+3661,"Grimes","Grace","Maryland",46,"Married","Male",2,2,"BELOW AVG TOLERANCE",6824248.56
+3662,"Gross","Basil","Pennsylvania",46,"Divorced","Male",2,5,"HIGH RISK",1854691.08
+3667,"Rasmussen","Breanna","Florida",46,"Divorced","Male",2,3,"AVERAGE TOLERANCE",1471025.88
+3794,"Hoffman","Signe","Florida",47,"","Female",4,4,"ABOVE AVG TOLERANCE",6935316.56
+3800,"Sandoval","Garrett","Kentucky",47,"Married","Female",4,2,"BELOW AVG TOLERANCE",6564245.69
+3808,"Coleman","Gabriel","California",47,"Married","Male",4,2,"BELOW AVG TOLERANCE",4149946.64
+3810,"Farmer","Reese","California",47,"Single","Male",4,5,"HIGH RISK",6965608.72
+3848,"Weiss","Chase","Nevada",47,"","Male",3,4,"ABOVE AVG TOLERANCE",7277307.31
+3856,"Benton","Kim","Pennsylvania",47,"Married","Male",2,3,"AVERAGE TOLERANCE",5415209.18
+3869,"Bell","Tamara","California",47,"Single","Male",2,3,"AVERAGE TOLERANCE",5793668.98
+3871,"Blackwell","Irene","Delaware",47,"Married","Male",2,3,"AVERAGE TOLERANCE",6536206.5
+3873,"Collins","Jackson","California",47,"Single","Male",2,3,"AVERAGE TOLERANCE",4890548.68
+3988,"Wheeler","Dominique","Wisconsin",48,"Single","",5,3,"AVERAGE TOLERANCE",4167094.03
+4000,"Morrison","Mechelle","Arizona",48,"Married","Female",4,4,"ABOVE AVG TOLERANCE",5723766.89
+4002,"Rodgers","Macon","Massachusetts",48,"","Female",4,3,"AVERAGE TOLERANCE",8453442.36
+4015,"Mays","Riley","Florida",48,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3864209.89
+4016,"Murray","Rebekah","Massachusetts",48,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",2877578.17
+4030,"Cohen","Catherine","Massachusetts",48,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2871603.89
+4056,"Rasmussen","McKenzie","Kentucky",48,"Married","Male",3,2,"BELOW AVG TOLERANCE",7839608.94
+4063,"Burns","Riley","Connecticut",48,"Married","Male",2,2,"BELOW AVG TOLERANCE",7090530.79
+4067,"Nixon","Savannah","Colorado",48,"Married","Female",2,3,"AVERAGE TOLERANCE",9266693.51
+4071,"Torres","Audra","Kentucky",48,"Single","Female",2,4,"ABOVE AVG TOLERANCE",8091368.67
+4075,"Acosta","Adria","Maryland",48,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4235422.91
+4076,"Banks","Boris","Wisconsin",48,"","Male",2,4,"ABOVE AVG TOLERANCE",4265803.71
+4080,"English","Mechelle","Pennsylvania",48,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2291609.06
+4083,"Glenn","Vera","Delaware",48,"Single","Male",2,3,"AVERAGE TOLERANCE",2810653.56
+4092,"Sykes","Brenna","Florida",48,"Married","",2,3,"AVERAGE TOLERANCE",7935885.01
+4093,"Ward","Brett","Arizona",48,"Single","",2,4,"ABOVE AVG TOLERANCE",6829853.97
+4165,"Osborne","Odette","Massachusetts",49,"","Male",5,4,"ABOVE AVG TOLERANCE",6031667.66
+4168,"Rowe","Cadman","Ohio",49,"Single","Male",5,4,"ABOVE AVG TOLERANCE",4431332.2
+4185,"Gillespie","Amber","Pennsylvania",49,"Married","Female",4,2,"BELOW AVG TOLERANCE",8423109.28
+2924,"Hendrix","Chastity","Minnesota",43,"Married","Male",4,2,"BELOW AVG TOLERANCE",5572828.28
+2963,"Keith","Aaron","Florida",43,"Single","Male",3,5,"HIGH RISK",3204951.56
+2973,"Valencia","Yuli","Maryland",43,"Married","Male",3,2,"BELOW AVG TOLERANCE",6403804.39
+2979,"Cruz","Mona","Maine",43,"Married","Male",2,2,"BELOW AVG TOLERANCE",6654712.52
+2997,"Mooney","Tiger","Florida",43,"Divorced","Male",2,3,"AVERAGE TOLERANCE",2973824.78
+3001,"Vinson","Geraldine","Idaho",43,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2337392.08
+3121,"Steele","Sonya","Florida",44,"Married","Male",5,4,"ABOVE AVG TOLERANCE",3734022.24
+3144,"Snyder","David","Michigan",44,"","Female",4,3,"AVERAGE TOLERANCE",8791675.73
+3145,"Underwood","Tyler","Maryland",44,"Married","Female",4,2,"BELOW AVG TOLERANCE",9344950.09
+3148,"Carr","Kiona","Florida",44,"Single","Male",4,4,"ABOVE AVG TOLERANCE",4381618.04
+3158,"Moody","Shaeleigh","Virginia",44,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1916291.74
+3167,"Reynolds","Desirae","California",44,"Married","",4,3,"AVERAGE TOLERANCE",4307756.24
+3187,"Kaufman","Reed","Florida",44,"Divorced","Male",3,3,"AVERAGE TOLERANCE",2443343.1
+3194,"Morse","Ivy","Connecticut",44,"Married","Male",3,2,"BELOW AVG TOLERANCE",6861888.74
+3198,"Raymond","Kevyn","Alaska",44,"Divorced","Male",3,4,"ABOVE AVG TOLERANCE",2225522.9
+3214,"Mcclure","Aiko","Maine",44,"Married","Female",2,2,"BELOW AVG TOLERANCE",8277734.83
+3223,"Bates","Brent","Massachusetts",44,"Married","Male",2,2,"BELOW AVG TOLERANCE",6234315.45
+3232,"Nunez","Ursa","Connecticut",44,"Married","Male",2,2,"BELOW AVG TOLERANCE",4216469.88
+3234,"Rodgers","Cruz","Florida",44,"","Male",2,5,"HIGH RISK",7558258.5
+3236,"Rollins","Chester","California",44,"Married","Male",2,4,"ABOVE AVG TOLERANCE",5283250.89
+3238,"Sellers","Linda","Maryland",44,"Single","Male",2,4,"ABOVE AVG TOLERANCE",1122326.09
+3366,"Nguyen","Jane","Virginia",45,"Married","Female",4,3,"AVERAGE TOLERANCE",10571823.66
+3367,"Oneal","Melodie","Florida",45,"Single","Female",4,3,"AVERAGE TOLERANCE",6219017.84
+3372,"Wilkins","Nissim","California",45,"Married","Female",4,3,"AVERAGE TOLERANCE",5670845.46
+3373,"Wilkins","Hilel","California",45,"Married","Female",4,3,"AVERAGE TOLERANCE",10515802.8
+3375,"Blake","Wyatt","Ohio",45,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3432856.68
+3377,"Greene","Claire","Georgia",45,"","Male",4,3,"AVERAGE TOLERANCE",5188499.27
+3383,"Monroe","Buffy","Delaware",45,"","Male",4,4,"ABOVE AVG TOLERANCE",4740167.86
+3399,"Clay","Savannah","Florida",45,"Married","Male",3,3,"AVERAGE TOLERANCE",8074056.35
+3421,"Morrison","Stella","Florida",45,"Married","Male",3,3,"AVERAGE TOLERANCE",3916978.13
+3423,"Patrick","Jameson","Colorado",45,"Single","Male",3,4,"ABOVE AVG TOLERANCE",2577863.37
+3440,"Washington","Rina","Illinois",45,"Married","Female",2,3,"AVERAGE TOLERANCE",9952893.57
+3447,"Evans","Felix","Virginia",45,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1698970.99
+3452,"Lott","Xena","Florida",45,"Single","Male",2,4,"ABOVE AVG TOLERANCE",2923928.01
+3456,"Nichols","Irma","Connecticut",45,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3309180.1
+1640,"Nash","Tasha","Oregon",37,"Married","Female",4,3,"AVERAGE TOLERANCE",7445451.89
+1644,"Alvarez","Jared","Michigan",37,"Single","Male",4,4,"ABOVE AVG TOLERANCE",6171138.22
+1687,"Mckinney","Delilah","Massachusetts",37,"Married","Male",3,3,"AVERAGE TOLERANCE",5842213.83
+1692,"Tucker","Louis","Florida",37,"Single","Male",3,4,"ABOVE AVG TOLERANCE",1091019.17
+1696,"Sargent","Kasper","Alabama",37,"Single","",3,4,"ABOVE AVG TOLERANCE",5163933.96
+1706,"Foley","Luke","Ohio",37,"Married","Female",2,3,"AVERAGE TOLERANCE",3346208.92
+1708,"Patterson","Vera","California",37,"","Female",2,4,"ABOVE AVG TOLERANCE",5414624.28
+1711,"Soto","Geraldine","Maryland",37,"Married","Female",2,3,"AVERAGE TOLERANCE",11336716.94
+1725,"Haley","Yardley","Massachusetts",37,"","Male",2,4,"ABOVE AVG TOLERANCE",4977049.12
+1728,"Hernandez","Amos","Massachusetts",37,"Single","Male",2,4,"ABOVE AVG TOLERANCE",3011109.76
+1738,"Carpenter","Quemby","Maryland",37,"Single","",2,4,"ABOVE AVG TOLERANCE",4190098.41
+1836,"Stewart","Vivien","Georgia",38,"Single","Male",5,4,"ABOVE AVG TOLERANCE",2141597.66
+1837,"Benjamin","Channing","Maryland",38,"Single","",5,3,"AVERAGE TOLERANCE",7036221.51
+1839,"Hyde","Camille","Massachusetts",38,"Single","",5,3,"AVERAGE TOLERANCE",5100703.29
+1842,"Sullivan","Kylie","Connecticut",38,"Married","",5,3,"AVERAGE TOLERANCE",9196192.68
+1905,"Mccray","Edward","Pennsylvania",38,"Married","Male",3,3,"AVERAGE TOLERANCE",4874545.25
+1925,"Cote","Barclay","Florida",38,"Married","Male",2,3,"AVERAGE TOLERANCE",7364524.61
+1932,"Hess","Kennan","Minnesota",38,"Married","Female",2,3,"AVERAGE TOLERANCE",9133073.72
+1937,"Reese","Alana","Nevada",38,"Married","Female",2,3,"AVERAGE TOLERANCE",6393977.43
+1942,"Stephenson","Theodore","Connecticut",38,"Married","Female",2,2,"BELOW AVG TOLERANCE",10116678.39
+1945,"Barrera","Alfreda","California",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",1397434.97
+1952,"Hester","Kellie","Illinois",38,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1956137.6
+1961,"Ramsey","Shana","Illinois",38,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4269573.65
+1971,"Sandoval","Dolan","Delaware",38,"Married","",2,3,"AVERAGE TOLERANCE",8270162.16
+2086,"Knox","Wayne","Minnesota",39,"","Male",5,4,"ABOVE AVG TOLERANCE",3901747.44
+2108,"Osborne","Deanna","Delaware",39,"","Female",4,4,"ABOVE AVG TOLERANCE",5994553.08
+2115,"Flowers","Wang","Kentucky",39,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1135890.32
+2118,"Lang","Edward","Florida",39,"Single","Male",4,4,"ABOVE AVG TOLERANCE",2763822.75
+2125,"Acosta","Olivia","Arizona",39,"","Male",3,4,"ABOVE AVG TOLERANCE",7473082.24
+2129,"Daugherty","Geoffrey","Texas",39,"Married","Male",3,3,"AVERAGE TOLERANCE",3923676.48
+2158,"Brock","Rowan","Florida",39,"Single","",3,3,"AVERAGE TOLERANCE",4250194.83
+2162,"Steele","Ima","Oklahoma",39,"Single","",3,4,"ABOVE AVG TOLERANCE",5521528.98
+2177,"Bird","Brenna","Florida",39,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4638484
+2178,"Combs","Leonard","Florida",39,"Married","Male",2,3,"AVERAGE TOLERANCE",3719402.2
+2181,"Hancock","Harriet","Pennsylvania",39,"","Male",2,4,"ABOVE AVG TOLERANCE",4382828.16
+2184,"Moon","Pascale","Alaska",39,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2755209.28
+2189,"Harrington","Alvin","Oklahoma",39,"Married","",2,3,"AVERAGE TOLERANCE",10817739
+2190,"Harrington","Tad","Massachusetts",39,"Married","",2,3,"AVERAGE TOLERANCE",10315023.96
+5532,"Hobbs","Wyatt","Massachusetts",55,"Married","Male",2,3,"AVERAGE TOLERANCE",3647448.35
+5539,"Turner","Imani","Texas",55,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1843407.65
+4244,"Gallagher","Sonya","Florida",49,"Married","Female",2,3,"AVERAGE TOLERANCE",8077422.67
+4257,"Velez","Ashton","Florida",49,"Married","Female",2,2,"BELOW AVG TOLERANCE",3740536.01
+4271,"Palmer","Isabella","Iowa",49,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",1991959.03
+4273,"Powell","Barrett","Arizona",49,"Divorced","Male",2,5,"HIGH RISK",2482482.99
+4274,"Ramirez","Montana","Nevada",49,"Divorced","Male",2,4,"ABOVE AVG TOLERANCE",2436619.24
+4402,"Wilkerson","Lewis","Nevada",50,"","Female",4,2,"BELOW AVG TOLERANCE",12335506.13
+4455,"Mckinney","Sarah","Oregon",50,"Divorced","Male",3,3,"AVERAGE TOLERANCE",3136089.45
+4466,"Cummings","Avram","California",50,"Married","Male",2,3,"AVERAGE TOLERANCE",7036212.79
+4467,"Johnson","Olympia","Virginia",50,"","Female",2,3,"AVERAGE TOLERANCE",6117965.57
+4471,"Morales","Lillith","Maryland",50,"","Female",2,3,"AVERAGE TOLERANCE",6775687.15
+4483,"Dejesus","Macey","Maryland",50,"Married","Male",2,2,"BELOW AVG TOLERANCE",4802696.63
+4484,"Dudley","Germaine","Ohio",50,"Married","Male",2,3,"AVERAGE TOLERANCE",5542075.23
+4507,"Booth","Maite","Michigan",50,"Single","",2,2,"BELOW AVG TOLERANCE",6636999.37
+4608,"Randall","Pearl","Alaska",51,"Divorced","Male",5,4,"ABOVE AVG TOLERANCE",900332.54
+4623,"Oneal","Mona","Arizona",51,"Married","Female",4,3,"AVERAGE TOLERANCE",8132615.66
+4628,"Barnes","Driscoll","Maryland",51,"Married","Male",4,3,"AVERAGE TOLERANCE",5790207.52
+4637,"Gentry","Aurelia","Ohio",51,"Single","Male",4,3,"AVERAGE TOLERANCE",5964609.4
+4638,"Gilbert","Leah","Pennsylvania",51,"Married","Male",4,2,"BELOW AVG TOLERANCE",2770342.85
+4643,"Kramer","Bree","Florida",51,"Divorced","Male",4,4,"ABOVE AVG TOLERANCE",1779508.56
+4644,"Nielsen","Wylie","Ohio",51,"Married","Male",4,4,"ABOVE AVG TOLERANCE",8602788.21
+4652,"Burgess","Fredericka","Indiana",51,"Single","Male",3,4,"ABOVE AVG TOLERANCE",3842638.44
+4674,"Howell","Alan","California",51,"Married","Male",3,2,"BELOW AVG TOLERANCE",9332736.89
+4676,"Ortega","Erica","Florida",51,"Single","Male",3,3,"AVERAGE TOLERANCE",3660980.02
+4682,"Waller","Quin","Florida",51,"","Male",3,4,"ABOVE AVG TOLERANCE",5351955.74
+4693,"Brooks","Tatiana","Virginia",51,"Married","Male",2,3,"AVERAGE TOLERANCE",4675105.04
+4699,"Goodwin","Kaye","Texas",51,"Married","Female",2,3,"AVERAGE TOLERANCE",12811294.88
+4712,"Briggs","Leonard","California",51,"Single","Male",2,4,"ABOVE AVG TOLERANCE",4796165
+4715,"Coffey","Aurora","Ohio",51,"Married","Male",2,2,"BELOW AVG TOLERANCE",3450698.61
+4718,"English","Ursa","Virginia",51,"","Male",2,4,"ABOVE AVG TOLERANCE",3574331.04
+4725,"Hardin","Leila","California",51,"Single","",2,2,"BELOW AVG TOLERANCE",4594782.14
+4828,"Irwin","Dacey","Ohio",52,"Married","Male",5,2,"BELOW AVG TOLERANCE",6033456.92
+4831,"Mueller","Vera","Georgia",52,"Single","Male",5,4,"ABOVE AVG TOLERANCE",5238320.55
+4834,"Schwartz","Ayanna","Wyoming",52,"Divorced","Male",5,3,"AVERAGE TOLERANCE",3279942.03
+4839,"Garcia","Nita","Ohio",52,"Single","",5,3,"AVERAGE TOLERANCE",8280723.75
+4853,"Knowles","Camden","Wisconsin",52,"","Female",4,3,"AVERAGE TOLERANCE",5690099.23
+4855,"Mclaughlin","Maia","Ohio",52,"","Female",4,3,"AVERAGE TOLERANCE",10594007.86
+4864,"Ashley","Whitney","Florida",52,"Single","Male",4,4,"ABOVE AVG TOLERANCE",3704355.26
+4865,"Blair","Gemma","Indiana",52,"Married","Male",4,3,"AVERAGE TOLERANCE",5389073.4
+4866,"Blanchard","Ciara","Florida",52,"","Male",4,4,"ABOVE AVG TOLERANCE",7628288.54
+4884,"Boyle","Joelle","Florida",52,"Single","Male",3,4,"ABOVE AVG TOLERANCE",5679097.92
+4911,"Carver","Destiny","Florida",52,"Married","",3,2,"BELOW AVG TOLERANCE",9450548.35
+4917,"Lara","Stone","Texas",52,"","Female",2,3,"AVERAGE TOLERANCE",9807822.43
+4921,"Sutton","Jescie","Maine",52,"","Female",2,3,"AVERAGE TOLERANCE",6649648.41
+4924,"Woods","Arsenio","Virginia",52,"Married","Female",2,4,"ABOVE AVG TOLERANCE",10480414.52
+5050,"Hays","Evan","California",53,"Married","Female",4,3,"AVERAGE TOLERANCE",9321707.24
+5070,"Gillespie","Lara","Maryland",53,"Married","Male",4,3,"AVERAGE TOLERANCE",6288222.75
+5085,"Acevedo","Hunter","Massachusetts",53,"","Male",3,4,"ABOVE AVG TOLERANCE",3839471.61
+5087,"Bailey","Jaden","Maryland",53,"Married","Male",3,2,"BELOW AVG TOLERANCE",6668884.91
+5117,"Villarreal","Abraham","Arizona",53,"Married","Male",3,3,"AVERAGE TOLERANCE",9636982.15
+5124,"Holman","Cairo","Kentucky",53,"Married","Female",2,2,"BELOW AVG TOLERANCE",6014720.1
+5142,"Morrow","Gareth","California",53,"Married","Male",2,3,"AVERAGE TOLERANCE",7353877.95
+5145,"Oliver","Karen","California",53,"Married","Male",2,3,"AVERAGE TOLERANCE",7074885.43
+5149,"Stewart","Cameron","California",53,"Single","Male",2,3,"AVERAGE TOLERANCE",3066035.84
+5256,"Macias","Isaiah","Massachusetts",54,"Single","Male",5,5,"HIGH RISK",4487057.51
+5257,"Mcfarland","Abraham","Nevada",54,"","Male",5,4,"ABOVE AVG TOLERANCE",5954568.29
+5272,"Gould","Adam","Florida",54,"Married","Female",4,3,"AVERAGE TOLERANCE",12476720.91
+5293,"Monroe","Kylynn","Colorado",54,"Single","Male",4,4,"ABOVE AVG TOLERANCE",5121054.58
+5300,"Craig","Myles","Pennsylvania",54,"Married","Male",3,3,"AVERAGE TOLERANCE",5777247.05
+5314,"Leon","Nicholas","Florida",54,"Single","Male",3,5,"HIGH RISK",5683811.56
+5317,"Rosa","Graham","California",54,"Married","Male",3,3,"AVERAGE TOLERANCE",6950699.94
+5335,"Schultz","Herman","Michigan",54,"","Female",2,3,"AVERAGE TOLERANCE",6812438.69
+5342,"Dillard","Uriel","Oregon",54,"Single","Male",2,4,"ABOVE AVG TOLERANCE",5064781.48
+5344,"Mcclain","Chaney","Michigan",54,"","Male",2,3,"AVERAGE TOLERANCE",2936782.95
+5443,"Sloan","Rowan","Pennsylvania",55,"Married","Male",5,3,"AVERAGE TOLERANCE",8206598.95
+5455,"Little","Macon","Arizona",55,"Married","Female",4,3,"AVERAGE TOLERANCE",12187072.86
+5460,"Richard","Jin","Massachusetts",55,"Married","Female",4,3,"AVERAGE TOLERANCE",10105519.04
+5480,"Petersen","Travis","Virginia",55,"Single","",4,3,"AVERAGE TOLERANCE",6001028.74
+5499,"Luna","Kaitlin","Maryland",55,"","Male",3,4,"ABOVE AVG TOLERANCE",5377553.47

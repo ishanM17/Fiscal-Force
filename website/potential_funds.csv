@@ -1,0 +1,6 @@
+"FUND_ID","FUND_NAME","FUND_DESCRIPTION","MINIMUM_INVESTMENT_REQUIRED","MAXIMUM_INVESTMENT_ALLOWED","MIN_REVENUE","MAX_REVENUE","MAX_REVENUE_PER_CUSTOMER","PERCENTAGE_FEE"
+1,"Scenario 1","above 60, more than 5 mil (mostly avg and little below avg)",5140.13,3203887,17013.59,10604722.45,3682.2,0.00114929
+2,"Scenario 2","married women (mostly avg, little below avg)(they have high assets in general)",5140.13,3203887,10279.77,6399533.8,3468.58,0.00108396
+3,"Scenario 3","divorced or single, 1 to 5 mil (above avg)",3287.74,1476075.8,22237.27,9927367.15,4038.8,0.00275171
+4,"Scenario 4","customers that are between 30 and 55 and have 2 or more dependents (avg and above avg)",6233.43,2658047.37,30092.02,12433486.3,6050.36,0.00234916
+5,"Scenario 5","customers from north east region (avg and above avg)",3287.74,3203887,13731.04,12875099.01,4938.66,0.00160201
